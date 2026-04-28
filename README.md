@@ -296,7 +296,7 @@ The executive dashboard (`dashboard/supply_chain_dashboard.pbix`) contains:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/supply-chain-analytics.git
+git clone https://github.com/jidnyasadthakre07/supply-chain-analytics.git
 cd supply-chain-analytics
 
 # 2. Create virtual environment
@@ -475,12 +475,6 @@ This project was built as part of a portfolio demonstrating end-to-end data skil
 | Customer Churn Analysis | ML, classification, feature engineering | Telecom / Retail |
 | Audit & Risk Anomaly Detection | Anomaly detection, statistical analysis | Finance / Risk |
 | **Supply Chain Forecasting Platform** | **ETL, forecasting, BI dashboard** | **Operations** |
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
