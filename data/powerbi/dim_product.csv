@@ -1,0 +1,11 @@
+product_id,product_name,unit_cost,category
+1,Camera,996.6,Imaging
+2,Headphones,1082.59,Audio
+3,Keyboard,995.59,Accessories
+4,Laptop,1003.56,Computing
+5,Monitor,1002.28,Computing
+6,Mouse,1012.95,Accessories
+7,Phone,1089.54,Mobile
+8,Printer,1038.3,Imaging
+9,Speaker,1074.98,Audio
+10,Tablet,1087.79,Mobile

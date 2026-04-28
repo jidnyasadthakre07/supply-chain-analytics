@@ -1,0 +1,6 @@
+supplier_name,reliability,total_orders,delay_rate_pct,avg_lead_time,min_lead_time,max_lead_time,total_spend,delay_score,lead_time_score,variance_score,risk_score,risk_label
+Techcorp India,Low,383,30.55,23.9,3.0,44.0,99761554.0,30.55,59.33333333333333,100.0,58.0,Medium Risk
+Fastsupply Co,Medium,416,25.96,24.2,3.0,44.0,100452067.0,25.96,61.33333333333333,100.0,56.9,Medium Risk
+Globalparts Ltd,Medium,396,24.75,23.3,3.0,44.0,104067559.0,24.75,55.333333333333336,100.0,54.3,Medium Risk
+Reliablegoods,Medium,400,24.0,23.4,3.0,44.0,112080357.0,24.0,55.99999999999999,100.0,54.2,Medium Risk
+Quickship Asia,Medium,405,23.7,23.5,3.0,44.0,107503462.0,23.7,56.666666666666664,100.0,54.3,Medium Risk

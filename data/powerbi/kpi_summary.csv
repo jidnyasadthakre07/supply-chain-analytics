@@ -1,0 +1,2001 @@
+product_name,category,region_name,supplier_name,reliability,year,month,month_name,quarter,quantity_ordered,total_cost,lead_time_days,actual_delivery_days,delay_days,is_delayed,warehouse_stock
+Mouse,Accessories,North,Globalparts Ltd,Medium,2022,1,January,1,46,2703.88,26,26,0,0,922
+Tablet,Mobile,North,Fastsupply Co,Medium,2022,1,January,1,279,286761.78,19,19,0,0,275
+Camera,Imaging,West,Globalparts Ltd,Medium,2022,1,January,1,342,294157.62,16,16,0,0,578
+Camera,Imaging,North,Globalparts Ltd,Medium,2022,1,January,1,389,66818.53,18,18,0,0,175
+Camera,Imaging,Central,Techcorp India,Low,2022,1,January,1,326,201595.14,23,23,0,0,726
+Monitor,Computing,East,Techcorp India,Low,2022,1,January,1,405,639357.3,23,23,0,0,438
+Headphones,Audio,South,Quickship Asia,Medium,2022,1,January,1,74,9489.76,31,42,11,1,604
+Keyboard,Accessories,Central,Globalparts Ltd,Medium,2022,1,January,1,290,195874.7,29,38,9,1,834
+Monitor,Computing,North,Fastsupply Co,Medium,2022,1,January,1,280,520447.2,28,28,0,0,793
+Speaker,Audio,Central,Quickship Asia,Medium,2022,1,January,1,270,128787.3,41,42,1,1,875
+Speaker,Audio,Central,Fastsupply Co,Medium,2022,1,January,1,142,85228.4,37,40,3,1,619
+Tablet,Mobile,East,Techcorp India,Low,2022,1,January,1,409,630035.87,43,43,0,0,41
+Camera,Imaging,South,Techcorp India,Low,2022,1,January,1,301,479095.68,35,35,0,0,684
+Monitor,Computing,North,Techcorp India,Low,2022,1,January,1,405,778114.35,22,26,4,1,403
+Monitor,Computing,West,Fastsupply Co,Medium,2022,1,January,1,389,349594.3,24,24,0,0,826
+Printer,Imaging,North,Reliablegoods,Medium,2022,1,January,1,386,214411.42,26,26,0,0,29
+Monitor,Computing,Central,Techcorp India,Low,2022,1,January,1,125,223910.0,24,24,0,0,411
+Laptop,Computing,South,Fastsupply Co,Medium,2022,1,January,1,412,696531.32,3,3,0,0,359
+Monitor,Computing,Central,Fastsupply Co,Medium,2022,1,January,1,193,75364.57,19,19,0,0,68
+Tablet,Mobile,East,Techcorp India,Low,2022,1,January,1,94,123704.0,4,4,0,0,646
+Camera,Imaging,Central,Globalparts Ltd,Medium,2022,1,January,1,349,650972.25,22,22,0,0,519
+Camera,Imaging,West,Reliablegoods,Medium,2022,1,January,1,196,314393.8,42,42,0,0,0
+Headphones,Audio,Central,Quickship Asia,Medium,2022,1,January,1,279,272535.57,42,47,5,1,441
+Camera,Imaging,East,Techcorp India,Low,2022,1,January,1,134,202085.4,14,14,0,0,289
+Laptop,Computing,North,Fastsupply Co,Medium,2022,1,January,1,28,34636.28,23,23,0,0,192
+Laptop,Computing,North,Reliablegoods,Medium,2022,1,January,1,114,106189.86,19,19,0,0,948
+Camera,Imaging,East,Techcorp India,Low,2022,1,January,1,205,322836.05,33,41,8,1,455
+Keyboard,Accessories,North,Quickship Asia,Medium,2022,1,January,1,247,82241.12,11,11,0,0,589
+Monitor,Computing,South,Techcorp India,Low,2022,1,January,1,266,22668.52,40,40,0,0,112
+Phone,Mobile,East,Reliablegoods,Medium,2022,1,January,1,88,51781.84,30,35,5,1,454
+Mouse,Accessories,West,Quickship Asia,Medium,2022,1,January,1,249,363694.38,11,11,0,0,510
+Monitor,Computing,Central,Globalparts Ltd,Medium,2022,1,January,1,90,164694.6,14,16,2,1,958
+Mouse,Accessories,South,Fastsupply Co,Medium,2022,1,January,1,227,425588.68,16,16,0,0,150
+Monitor,Computing,South,Globalparts Ltd,Medium,2022,1,January,1,337,20341.32,33,33,0,0,241
+Headphones,Audio,Central,Quickship Asia,Medium,2022,1,January,1,56,54102.16,35,35,0,0,870
+Laptop,Computing,South,Reliablegoods,Medium,2022,1,January,1,326,293657.54,22,22,0,0,647
+Camera,Imaging,South,Reliablegoods,Medium,2022,1,January,1,297,482782.41,15,15,0,0,985
+Laptop,Computing,East,Reliablegoods,Medium,2022,1,January,1,58,69671.92,34,34,0,0,261
+Monitor,Computing,South,Techcorp India,Low,2022,1,January,1,414,769485.24,23,29,6,1,283
+Headphones,Audio,East,Quickship Asia,Medium,2022,1,January,1,332,622722.44,4,11,7,1,341
+Headphones,Audio,North,Fastsupply Co,Medium,2022,1,January,1,75,98985.0,10,10,0,0,339
+Tablet,Mobile,Central,Techcorp India,Low,2022,1,January,1,65,129774.45,42,42,0,0,244
+Headphones,Audio,West,Fastsupply Co,Medium,2022,1,January,1,353,100131.98,28,28,0,0,376
+Keyboard,Accessories,South,Techcorp India,Low,2022,1,January,1,365,585883.4,42,42,0,0,955
+Camera,Imaging,North,Quickship Asia,Medium,2022,1,January,1,75,70039.5,21,21,0,0,301
+Tablet,Mobile,East,Quickship Asia,Medium,2022,1,January,1,195,342020.25,26,26,0,0,96
+Mouse,Accessories,East,Reliablegoods,Medium,2022,1,January,1,198,268575.12,35,35,0,0,69
+Monitor,Computing,East,Techcorp India,Low,2022,1,January,1,240,26176.8,16,16,0,0,712
+Printer,Imaging,East,Fastsupply Co,Medium,2022,1,January,1,178,222873.8,27,27,0,0,34
+Monitor,Computing,Central,Fastsupply Co,Medium,2022,1,January,1,49,35758.73,44,44,0,0,708
+Tablet,Mobile,West,Globalparts Ltd,Medium,2022,1,January,1,320,562230.4,3,3,0,0,622
+Keyboard,Accessories,West,Fastsupply Co,Medium,2022,1,January,1,114,155871.06,20,20,0,0,121
+Laptop,Computing,Central,Reliablegoods,Medium,2022,1,January,1,435,502111.8,5,5,0,0,528
+Laptop,Computing,Central,Fastsupply Co,Medium,2022,1,January,1,243,352004.94,21,21,0,0,812
+Mouse,Accessories,South,Fastsupply Co,Medium,2022,1,January,1,312,327369.12,27,27,0,0,532
+Speaker,Audio,Central,Globalparts Ltd,Medium,2022,1,January,1,200,272938.0,17,18,1,1,129
+Tablet,Mobile,North,Quickship Asia,Medium,2022,1,January,1,128,242021.12,36,36,0,0,506
+Camera,Imaging,Central,Techcorp India,Low,2022,1,January,1,279,173217.15,32,32,0,0,898
+Printer,Imaging,South,Fastsupply Co,Medium,2022,1,January,1,234,287246.7,17,17,0,0,557
+Camera,Imaging,West,Reliablegoods,Medium,2022,1,January,1,120,204616.8,24,31,7,1,996
+Camera,Imaging,Central,Quickship Asia,Medium,2022,1,January,1,86,55616.2,23,32,9,1,474
+Tablet,Mobile,West,Quickship Asia,Medium,2022,1,January,1,390,627720.6,24,24,0,0,976
+Phone,Mobile,Central,Fastsupply Co,Medium,2022,1,January,1,123,159304.68,31,31,0,0,227
+Mouse,Accessories,Central,Globalparts Ltd,Medium,2022,1,January,1,126,230346.9,4,4,0,0,577
+Phone,Mobile,South,Globalparts Ltd,Medium,2022,1,January,1,456,235519.44,22,22,0,0,350
+Keyboard,Accessories,West,Quickship Asia,Medium,2022,1,January,1,148,272337.76,27,27,0,0,510
+Tablet,Mobile,South,Techcorp India,Low,2022,1,January,1,50,52149.0,8,15,7,1,220
+Monitor,Computing,South,Fastsupply Co,Medium,2022,1,January,1,383,633612.22,18,24,6,1,904
+Phone,Mobile,South,Fastsupply Co,Medium,2022,1,January,1,405,789741.9,22,22,0,0,466
+Mouse,Accessories,South,Techcorp India,Low,2022,1,January,1,368,489226.56,9,17,8,1,14
+Phone,Mobile,Central,Reliablegoods,Medium,2022,1,January,1,295,579722.2,40,40,0,0,531
+Laptop,Computing,North,Techcorp India,Low,2022,1,January,1,471,735494.76,36,36,0,0,113
+Printer,Imaging,South,Quickship Asia,Medium,2022,1,January,1,404,295182.6,16,18,2,1,813
+Headphones,Audio,North,Quickship Asia,Medium,2022,1,January,1,249,58121.58,20,29,9,1,852
+Speaker,Audio,North,Quickship Asia,Medium,2022,1,January,1,112,188880.16,6,6,0,0,465
+Monitor,Computing,South,Globalparts Ltd,Medium,2022,1,January,1,193,25221.24,12,12,0,0,161
+Camera,Imaging,North,Reliablegoods,Medium,2022,1,January,1,475,634182.0,18,32,14,1,917
+Mouse,Accessories,Central,Techcorp India,Low,2022,1,January,1,303,141743.4,25,25,0,0,622
+Keyboard,Accessories,North,Techcorp India,Low,2022,1,January,1,290,458156.5,10,13,3,1,560
+Monitor,Computing,South,Reliablegoods,Medium,2022,1,January,1,349,139708.19,37,37,0,0,49
+Camera,Imaging,Central,Quickship Asia,Medium,2022,1,January,1,43,72028.87,34,34,0,0,954
+Printer,Imaging,West,Quickship Asia,Medium,2022,1,January,1,352,448243.84,5,5,0,0,991
+Printer,Imaging,South,Globalparts Ltd,Medium,2022,1,January,1,267,372214.02,43,43,0,0,724
+Speaker,Audio,Central,Reliablegoods,Medium,2022,1,January,1,387,740222.64,9,22,13,1,647
+Tablet,Mobile,North,Quickship Asia,Medium,2022,1,January,1,313,561669.11,26,29,3,1,464
+Monitor,Computing,North,Globalparts Ltd,Medium,2022,1,January,1,308,315428.96,16,16,0,0,266
+Camera,Imaging,South,Techcorp India,Low,2022,1,January,1,168,151515.84,26,26,0,0,218
+Keyboard,Accessories,Central,Fastsupply Co,Medium,2022,1,January,1,308,79137.52,19,19,0,0,612
+Camera,Imaging,Central,Globalparts Ltd,Medium,2022,1,January,1,299,88088.39,14,14,0,0,364
+Phone,Mobile,Central,Quickship Asia,Medium,2022,1,January,1,354,354637.2,3,3,0,0,809
+Keyboard,Accessories,East,Fastsupply Co,Medium,2022,1,January,1,110,103881.8,10,10,0,0,916
+Laptop,Computing,East,Fastsupply Co,Medium,2022,1,January,1,195,85287.15,35,35,0,0,433
+Headphones,Audio,South,Fastsupply Co,Medium,2022,1,January,1,214,240692.22,35,35,0,0,176
+Laptop,Computing,West,Globalparts Ltd,Medium,2022,1,January,1,305,571133.85,20,20,0,0,174
+Phone,Mobile,Central,Globalparts Ltd,Medium,2022,1,January,1,405,43023.15,32,32,0,0,305
+Monitor,Computing,North,Techcorp India,Low,2022,1,January,1,234,402131.34,4,4,0,0,804
+Monitor,Computing,East,Fastsupply Co,Medium,2022,1,January,1,439,282904.77,14,14,0,0,112
+Camera,Imaging,East,Globalparts Ltd,Medium,2022,1,January,1,473,177734.48,29,29,0,0,575
+Mouse,Accessories,East,Globalparts Ltd,Medium,2022,1,January,1,447,602623.05,30,30,0,0,943
+Mouse,Accessories,West,Reliablegoods,Medium,2022,1,January,1,223,38498.72,17,17,0,0,701
+Laptop,Computing,South,Quickship Asia,Medium,2022,1,January,1,118,73495.12,35,45,10,1,309
+Tablet,Mobile,East,Reliablegoods,Medium,2022,1,January,1,18,22008.6,28,28,0,0,992
+Mouse,Accessories,East,Globalparts Ltd,Medium,2022,1,January,1,463,542145.22,9,9,0,0,530
+Mouse,Accessories,East,Quickship Asia,Medium,2022,1,January,1,288,416704.32,29,29,0,0,871
+Speaker,Audio,Central,Reliablegoods,Medium,2022,2,February,1,437,522652.0,20,20,0,0,0
+Printer,Imaging,West,Fastsupply Co,Medium,2022,2,February,1,24,33332.16,20,20,0,0,380
+Speaker,Audio,Central,Techcorp India,Low,2022,2,February,1,245,343842.8,31,41,10,1,941
+Tablet,Mobile,Central,Fastsupply Co,Medium,2022,2,February,1,342,278918.1,4,4,0,0,127
+Keyboard,Accessories,West,Reliablegoods,Medium,2022,2,February,1,32,26486.4,17,17,0,0,201
+Printer,Imaging,South,Quickship Asia,Medium,2022,2,February,1,248,395433.52,4,14,10,1,151
+Mouse,Accessories,North,Techcorp India,Low,2022,2,February,1,396,641963.52,30,30,0,0,511
+Camera,Imaging,Central,Fastsupply Co,Medium,2022,2,February,1,312,526899.36,31,31,0,0,747
+Laptop,Computing,West,Techcorp India,Low,2022,2,February,1,219,13256.07,35,36,1,1,523
+Printer,Imaging,West,Techcorp India,Low,2022,2,February,1,226,208896.32,28,31,3,1,619
+Keyboard,Accessories,Central,Fastsupply Co,Medium,2022,2,February,1,132,71099.16,30,30,0,0,640
+Mouse,Accessories,North,Fastsupply Co,Medium,2022,2,February,1,435,494229.6,35,35,0,0,533
+Printer,Imaging,South,Techcorp India,Low,2022,2,February,1,208,200643.04,34,34,0,0,188
+Phone,Mobile,West,Techcorp India,Low,2022,2,February,1,307,197683.44,14,14,0,0,411
+Mouse,Accessories,East,Globalparts Ltd,Medium,2022,2,February,1,19,3230.76,27,27,0,0,541
+Printer,Imaging,East,Techcorp India,Low,2022,2,February,1,371,160134.73,7,12,5,1,702
+Keyboard,Accessories,North,Quickship Asia,Medium,2022,2,February,1,371,692148.73,28,37,9,1,967
+Printer,Imaging,North,Fastsupply Co,Medium,2022,2,February,1,243,417680.55,21,21,0,0,209
+Phone,Mobile,Central,Globalparts Ltd,Medium,2022,2,February,1,426,134875.86,36,36,0,0,51
+Printer,Imaging,North,Quickship Asia,Medium,2022,2,February,1,372,470029.44,19,19,0,0,219
+Tablet,Mobile,North,Reliablegoods,Medium,2022,2,February,1,390,384095.4,39,39,0,0,734
+Camera,Imaging,North,Fastsupply Co,Medium,2022,2,February,1,61,77202.21,23,23,0,0,526
+Camera,Imaging,West,Quickship Asia,Medium,2022,2,February,1,309,333185.43,5,5,0,0,677
+Phone,Mobile,East,Techcorp India,Low,2022,2,February,1,147,121598.4,3,3,0,0,807
+Monitor,Computing,Central,Globalparts Ltd,Medium,2022,2,February,1,162,129339.18,25,25,0,0,717
+Keyboard,Accessories,East,Fastsupply Co,Medium,2022,2,February,1,447,122098.05,41,41,0,0,742
+Mouse,Accessories,South,Quickship Asia,Medium,2022,2,February,1,265,293612.05,5,5,0,0,782
+Laptop,Computing,West,Reliablegoods,Medium,2022,2,February,1,368,493362.88,28,36,8,1,961
+Keyboard,Accessories,Central,Quickship Asia,Medium,2022,2,February,1,215,282486.35,28,28,0,0,582
+Camera,Imaging,West,Techcorp India,Low,2022,2,February,1,291,268753.05,39,39,0,0,274
+Printer,Imaging,Central,Fastsupply Co,Medium,2022,2,February,1,373,243244.49,20,20,0,0,68
+Phone,Mobile,West,Techcorp India,Low,2022,2,February,1,119,165832.45,41,41,0,0,903
+Mouse,Accessories,South,Globalparts Ltd,Medium,2022,2,February,1,34,10065.02,15,15,0,0,291
+Camera,Imaging,East,Reliablegoods,Medium,2022,2,February,1,277,113999.35,31,31,0,0,90
+Phone,Mobile,South,Techcorp India,Low,2022,2,February,1,118,111653.96,38,38,0,0,802
+Keyboard,Accessories,East,Reliablegoods,Medium,2022,2,February,1,284,448779.64,19,27,8,1,5
+Keyboard,Accessories,Central,Reliablegoods,Medium,2022,2,February,1,268,77639.6,4,4,0,0,963
+Mouse,Accessories,Central,Techcorp India,Low,2022,2,February,1,29,40121.21,11,23,12,1,855
+Keyboard,Accessories,North,Techcorp India,Low,2022,2,February,1,358,125511.22,8,16,8,1,514
+Printer,Imaging,Central,Techcorp India,Low,2022,2,February,1,334,33072.68,22,28,6,1,31
+Phone,Mobile,East,Reliablegoods,Medium,2022,2,February,1,294,255136.14,44,44,0,0,208
+Tablet,Mobile,South,Quickship Asia,Medium,2022,2,February,1,84,141554.28,6,6,0,0,781
+Mouse,Accessories,South,Techcorp India,Low,2022,2,February,1,86,44562.62,13,13,0,0,507
+Printer,Imaging,West,Fastsupply Co,Medium,2022,2,February,1,213,243028.74,12,12,0,0,917
+Mouse,Accessories,Central,Techcorp India,Low,2022,2,February,1,296,103188.56,20,28,8,1,445
+Phone,Mobile,North,Techcorp India,Low,2022,2,February,1,86,87546.28,11,15,4,1,307
+Tablet,Mobile,West,Reliablegoods,Medium,2022,2,February,1,140,180107.2,39,40,1,1,392
+Laptop,Computing,South,Fastsupply Co,Medium,2022,2,February,1,381,256931.16,20,20,0,0,602
+Headphones,Audio,West,Reliablegoods,Medium,2022,2,February,1,473,391970.37,5,5,0,0,389
+Keyboard,Accessories,South,Globalparts Ltd,Medium,2022,2,February,1,61,99451.35,29,29,0,0,330
+Headphones,Audio,South,Reliablegoods,Medium,2022,2,February,1,140,45803.8,36,47,11,1,486
+Mouse,Accessories,West,Fastsupply Co,Medium,2022,2,February,1,15,19278.9,10,10,0,0,887
+Keyboard,Accessories,South,Reliablegoods,Medium,2022,2,February,1,79,82916.82,23,23,0,0,858
+Printer,Imaging,East,Globalparts Ltd,Medium,2022,2,February,1,29,8068.96,28,28,0,0,622
+Mouse,Accessories,South,Globalparts Ltd,Medium,2022,2,February,1,19,23474.88,27,27,0,0,802
+Phone,Mobile,South,Quickship Asia,Medium,2022,2,February,1,455,79188.2,4,4,0,0,277
+Monitor,Computing,North,Fastsupply Co,Medium,2022,2,February,1,491,797541.12,15,15,0,0,527
+Camera,Imaging,East,Globalparts Ltd,Medium,2022,2,February,1,142,61779.94,38,38,0,0,436
+Monitor,Computing,South,Globalparts Ltd,Medium,2022,2,February,1,192,203975.04,27,37,10,1,527
+Mouse,Accessories,East,Reliablegoods,Medium,2022,2,February,1,287,404968.48,6,12,6,1,653
+Mouse,Accessories,Central,Techcorp India,Low,2022,2,February,1,176,217585.28,12,12,0,0,10
+Monitor,Computing,Central,Globalparts Ltd,Medium,2022,2,February,1,250,79157.5,10,10,0,0,697
+Keyboard,Accessories,South,Quickship Asia,Medium,2022,2,February,1,280,438614.4,36,36,0,0,785
+Printer,Imaging,South,Quickship Asia,Medium,2022,2,February,1,32,30854.4,36,36,0,0,444
+Headphones,Audio,North,Fastsupply Co,Medium,2022,2,February,1,436,38847.6,23,23,0,0,923
+Headphones,Audio,West,Globalparts Ltd,Medium,2022,2,February,1,463,764459.3,21,21,0,0,854
+Laptop,Computing,West,Techcorp India,Low,2022,2,February,1,242,157665.42,7,7,0,0,562
+Speaker,Audio,South,Reliablegoods,Medium,2022,2,February,1,193,55800.16,15,15,0,0,85
+Phone,Mobile,West,Reliablegoods,Medium,2022,2,February,1,249,259634.79,29,29,0,0,617
+Phone,Mobile,South,Reliablegoods,Medium,2022,2,February,1,465,655840.65,4,4,0,0,679
+Keyboard,Accessories,South,Techcorp India,Low,2022,2,February,1,95,159579.1,24,25,1,1,666
+Tablet,Mobile,West,Quickship Asia,Medium,2022,2,February,1,97,145793.91,24,24,0,0,270
+Keyboard,Accessories,South,Quickship Asia,Medium,2022,2,February,1,105,70073.85,4,4,0,0,295
+Monitor,Computing,North,Globalparts Ltd,Medium,2022,2,February,1,384,360771.84,10,10,0,0,763
+Keyboard,Accessories,North,Techcorp India,Low,2022,2,February,1,368,97630.4,20,20,0,0,922
+Monitor,Computing,Central,Fastsupply Co,Medium,2022,2,February,1,167,13595.47,30,30,0,0,351
+Printer,Imaging,South,Reliablegoods,Medium,2022,2,February,1,210,136972.5,42,42,0,0,398
+Headphones,Audio,Central,Quickship Asia,Medium,2022,2,February,1,184,324726.88,15,15,0,0,16
+Monitor,Computing,West,Quickship Asia,Medium,2022,2,February,1,77,11718.63,42,42,0,0,108
+Phone,Mobile,Central,Fastsupply Co,Medium,2022,2,February,1,158,252498.22,18,18,0,0,222
+Tablet,Mobile,South,Techcorp India,Low,2022,2,February,1,431,786898.25,30,43,13,1,787
+Mouse,Accessories,Central,Globalparts Ltd,Medium,2022,2,February,1,410,664638.7,40,40,0,0,288
+Keyboard,Accessories,Central,Globalparts Ltd,Medium,2022,2,February,1,19,27173.42,14,14,0,0,30
+Printer,Imaging,West,Fastsupply Co,Medium,2022,2,February,1,48,84999.36,20,21,1,1,603
+Printer,Imaging,South,Quickship Asia,Medium,2022,2,February,1,287,166735.52,24,24,0,0,782
+Camera,Imaging,East,Reliablegoods,Medium,2022,2,February,1,33,7990.95,19,22,3,1,663
+Monitor,Computing,North,Fastsupply Co,Medium,2022,2,February,1,16,17257.92,6,6,0,0,572
+Printer,Imaging,West,Globalparts Ltd,Medium,2022,2,February,1,387,134188.38,8,10,2,1,827
+Camera,Imaging,North,Globalparts Ltd,Medium,2022,2,February,1,77,64230.32,9,9,0,0,286
+Phone,Mobile,North,Techcorp India,Low,2022,3,March,1,128,120121.6,18,18,0,0,666
+Printer,Imaging,South,Techcorp India,Low,2022,3,March,1,279,416334.96,10,10,0,0,883
+Phone,Mobile,Central,Fastsupply Co,Medium,2022,3,March,1,85,75604.1,17,24,7,1,613
+Camera,Imaging,East,Globalparts Ltd,Medium,2022,3,March,1,328,624941.68,19,19,0,0,23
+Headphones,Audio,South,Quickship Asia,Medium,2022,3,March,1,387,259595.73,23,23,0,0,918
+Mouse,Accessories,North,Techcorp India,Low,2022,3,March,1,288,295387.2,38,38,0,0,259
+Mouse,Accessories,South,Techcorp India,Low,2022,3,March,1,496,92618.08,35,35,0,0,281
+Phone,Mobile,North,Quickship Asia,Medium,2022,3,March,1,409,355371.92,30,30,0,0,705
+Headphones,Audio,South,Fastsupply Co,Medium,2022,3,March,1,103,128771.63,44,44,0,0,171
+Headphones,Audio,North,Quickship Asia,Medium,2022,3,March,1,271,53709.49,16,16,0,0,168
+Phone,Mobile,North,Globalparts Ltd,Medium,2022,3,March,1,467,597423.76,22,22,0,0,153
+Camera,Imaging,West,Techcorp India,Low,2022,3,March,1,66,14897.52,8,8,0,0,993
+Monitor,Computing,East,Globalparts Ltd,Medium,2022,3,March,1,475,743755.0,5,5,0,0,648
+Printer,Imaging,West,Reliablegoods,Medium,2022,3,March,1,161,295269.17,27,27,0,0,420
+Laptop,Computing,East,Quickship Asia,Medium,2022,3,March,1,15,1000.65,16,16,0,0,133
+Phone,Mobile,West,Reliablegoods,Medium,2022,3,March,1,346,474677.4,31,31,0,0,639
+Laptop,Computing,North,Quickship Asia,Medium,2022,3,March,1,198,278338.5,3,3,0,0,846
+Printer,Imaging,South,Globalparts Ltd,Medium,2022,3,March,1,434,299091.1,10,10,0,0,669
+Laptop,Computing,North,Globalparts Ltd,Medium,2022,3,March,1,145,145242.15,7,7,0,0,822
+Headphones,Audio,West,Quickship Asia,Medium,2022,3,March,1,299,513305.26,5,10,5,1,502
+Laptop,Computing,West,Fastsupply Co,Medium,2022,3,March,1,397,694896.89,19,19,0,0,689
+Keyboard,Accessories,West,Techcorp India,Low,2022,3,March,1,335,163255.55,38,38,0,0,983
+Camera,Imaging,South,Fastsupply Co,Medium,2022,3,March,1,475,578236.5,30,30,0,0,186
+Phone,Mobile,North,Quickship Asia,Medium,2022,3,March,1,258,164075.1,3,5,2,1,85
+Headphones,Audio,East,Globalparts Ltd,Medium,2022,3,March,1,314,257523.96,28,28,0,0,188
+Camera,Imaging,East,Fastsupply Co,Medium,2022,3,March,1,87,162186.27,43,43,0,0,661
+Camera,Imaging,Central,Quickship Asia,Medium,2022,3,March,1,333,656952.39,19,19,0,0,371
+Mouse,Accessories,West,Globalparts Ltd,Medium,2022,3,March,1,369,100091.25,18,22,4,1,894
+Mouse,Accessories,East,Quickship Asia,Medium,2022,3,March,1,414,116255.34,12,18,6,1,418
+Phone,Mobile,South,Globalparts Ltd,Medium,2022,3,March,1,410,305413.1,20,28,8,1,846
+Printer,Imaging,South,Quickship Asia,Medium,2022,3,March,1,365,567034.8,36,36,0,0,491
+Camera,Imaging,West,Globalparts Ltd,Medium,2022,3,March,1,405,756803.25,5,5,0,0,806
+Speaker,Audio,Central,Quickship Asia,Medium,2022,3,March,1,367,644125.37,30,30,0,0,297
+Speaker,Audio,East,Techcorp India,Low,2022,3,March,1,263,409825.01,25,25,0,0,746
+Tablet,Mobile,Central,Techcorp India,Low,2022,3,March,1,262,160344.0,23,23,0,0,33
+Camera,Imaging,West,Fastsupply Co,Medium,2022,3,March,1,32,38206.72,16,21,5,1,789
+Mouse,Accessories,East,Globalparts Ltd,Medium,2022,3,March,1,122,9871.02,7,7,0,0,152
+Mouse,Accessories,Central,Reliablegoods,Medium,2022,3,March,1,162,305404.02,42,42,0,0,979
+Printer,Imaging,South,Reliablegoods,Medium,2022,3,March,1,197,22777.14,28,28,0,0,565
+Headphones,Audio,South,Techcorp India,Low,2022,3,March,1,287,203589.19,36,36,0,0,377
+Monitor,Computing,Central,Fastsupply Co,Medium,2022,3,March,1,97,82255.03,30,30,0,0,984
+Camera,Imaging,East,Quickship Asia,Medium,2022,3,March,1,339,84346.59,12,12,0,0,707
+Phone,Mobile,North,Fastsupply Co,Medium,2022,3,March,1,306,466279.74,40,54,14,1,459
+Laptop,Computing,Central,Reliablegoods,Medium,2022,3,March,1,419,649244.69,18,18,0,0,299
+Mouse,Accessories,Central,Globalparts Ltd,Medium,2022,3,March,1,313,609292.06,35,45,10,1,619
+Keyboard,Accessories,South,Techcorp India,Low,2022,3,March,1,210,206637.9,18,18,0,0,696
+Phone,Mobile,South,Techcorp India,Low,2022,3,March,1,148,211117.56,8,8,0,0,857
+Speaker,Audio,West,Fastsupply Co,Medium,2022,3,March,1,124,247104.72,44,44,0,0,492
+Printer,Imaging,East,Reliablegoods,Medium,2022,3,March,1,266,437290.7,14,16,2,1,72
+Phone,Mobile,Central,Globalparts Ltd,Medium,2022,3,March,1,203,349470.59,39,39,0,0,340
+Headphones,Audio,South,Globalparts Ltd,Medium,2022,3,March,1,130,83436.6,17,17,0,0,924
+Mouse,Accessories,North,Techcorp India,Low,2022,3,March,1,440,504178.4,21,21,0,0,73
+Phone,Mobile,East,Techcorp India,Low,2022,3,March,1,384,417262.08,30,35,5,1,312
+Tablet,Mobile,East,Techcorp India,Low,2022,3,March,1,363,50086.74,30,36,6,1,465
+Printer,Imaging,South,Reliablegoods,Medium,2022,3,March,1,335,17781.8,23,35,12,1,45
+Keyboard,Accessories,West,Techcorp India,Low,2022,3,March,1,82,121405.92,27,34,7,1,738
+Keyboard,Accessories,West,Fastsupply Co,Medium,2022,3,March,1,32,39124.8,6,6,0,0,657
+Phone,Mobile,East,Reliablegoods,Medium,2022,3,March,1,211,418320.16,31,31,0,0,300
+Camera,Imaging,North,Quickship Asia,Medium,2022,3,March,1,178,282057.02,9,15,6,1,922
+Mouse,Accessories,South,Techcorp India,Low,2022,3,March,1,345,263421.3,25,26,1,1,300
+Laptop,Computing,Central,Quickship Asia,Medium,2022,3,March,1,360,310770.0,20,20,0,0,824
+Speaker,Audio,South,Quickship Asia,Medium,2022,3,March,1,251,175406.33,42,42,0,0,743
+Tablet,Mobile,Central,Techcorp India,Low,2022,3,March,1,459,175438.98,14,14,0,0,362
+Headphones,Audio,Central,Fastsupply Co,Medium,2022,3,March,1,321,190985.37,10,10,0,0,348
+Printer,Imaging,North,Globalparts Ltd,Medium,2022,3,March,1,262,243560.44,28,28,0,0,566
+Mouse,Accessories,East,Fastsupply Co,Medium,2022,3,March,1,256,40629.76,9,17,8,1,380
+Tablet,Mobile,South,Globalparts Ltd,Medium,2022,3,March,1,336,357876.96,21,21,0,0,357
+Laptop,Computing,North,Globalparts Ltd,Medium,2022,3,March,1,423,762372.9,37,37,0,0,296
+Headphones,Audio,North,Fastsupply Co,Medium,2022,3,March,1,302,207537.42,31,31,0,0,63
+Monitor,Computing,West,Techcorp India,Low,2022,3,March,1,42,78358.56,23,23,0,0,541
+Mouse,Accessories,West,Fastsupply Co,Medium,2022,3,March,1,114,166406.94,32,32,0,0,867
+Printer,Imaging,South,Fastsupply Co,Medium,2022,3,March,1,421,141653.87,41,41,0,0,491
+Speaker,Audio,South,Globalparts Ltd,Medium,2022,3,March,1,422,670996.88,43,43,0,0,289
+Mouse,Accessories,West,Quickship Asia,Medium,2022,3,March,1,281,199667.36,25,25,0,0,165
+Headphones,Audio,Central,Techcorp India,Low,2022,3,March,1,445,639331.5,24,24,0,0,147
+Headphones,Audio,West,Reliablegoods,Medium,2022,3,March,1,496,327801.44,39,39,0,0,44
+Mouse,Accessories,West,Reliablegoods,Medium,2022,4,April,2,295,339303.1,21,21,0,0,690
+Keyboard,Accessories,South,Globalparts Ltd,Medium,2022,4,April,2,15,14893.05,10,11,1,1,890
+Phone,Mobile,North,Globalparts Ltd,Medium,2022,4,April,2,189,254093.49,27,27,0,0,548
+Phone,Mobile,West,Reliablegoods,Medium,2022,4,April,2,412,343884.04,8,15,7,1,494
+Printer,Imaging,South,Techcorp India,Low,2022,4,April,2,315,104305.95,39,39,0,0,839
+Printer,Imaging,North,Fastsupply Co,Medium,2022,4,April,2,205,181388.1,22,22,0,0,522
+Monitor,Computing,Central,Quickship Asia,Medium,2022,4,April,2,332,361584.52,4,7,3,1,260
+Keyboard,Accessories,Central,Quickship Asia,Medium,2022,4,April,2,431,559248.36,19,19,0,0,777
+Speaker,Audio,Central,Fastsupply Co,Medium,2022,4,April,2,275,125999.5,24,24,0,0,420
+Printer,Imaging,South,Fastsupply Co,Medium,2022,4,April,2,141,280924.17,40,40,0,0,849
+Speaker,Audio,Central,Fastsupply Co,Medium,2022,4,April,2,304,22565.92,16,29,13,1,316
+Keyboard,Accessories,East,Techcorp India,Low,2022,4,April,2,195,162436.95,30,30,0,0,613
+Speaker,Audio,South,Fastsupply Co,Medium,2022,4,April,2,320,392633.6,29,29,0,0,476
+Printer,Imaging,West,Quickship Asia,Medium,2022,4,April,2,171,162578.25,25,25,0,0,402
+Laptop,Computing,South,Quickship Asia,Medium,2022,4,April,2,473,760825.23,25,25,0,0,902
+Headphones,Audio,South,Fastsupply Co,Medium,2022,4,April,2,307,501819.13,26,26,0,0,817
+Printer,Imaging,West,Fastsupply Co,Medium,2022,4,April,2,163,41649.76,22,22,0,0,368
+Keyboard,Accessories,East,Fastsupply Co,Medium,2022,4,April,2,24,20653.68,27,27,0,0,755
+Camera,Imaging,South,Quickship Asia,Medium,2022,4,April,2,62,102632.94,27,27,0,0,94
+Laptop,Computing,West,Quickship Asia,Medium,2022,4,April,2,202,30881.76,9,9,0,0,655
+Keyboard,Accessories,East,Reliablegoods,Medium,2022,4,April,2,346,513104.16,15,15,0,0,957
+Keyboard,Accessories,South,Quickship Asia,Medium,2022,4,April,2,125,70503.75,16,16,0,0,529
+Speaker,Audio,West,Techcorp India,Low,2022,4,April,2,362,133592.48,38,44,6,1,397
+Tablet,Mobile,West,Globalparts Ltd,Medium,2022,4,April,2,131,252962.31,29,29,0,0,658
+Camera,Imaging,Central,Techcorp India,Low,2022,4,April,2,26,51345.06,13,13,0,0,31
+Printer,Imaging,East,Techcorp India,Low,2022,4,April,2,464,864288.16,3,3,0,0,869
+Monitor,Computing,West,Reliablegoods,Medium,2022,4,April,2,152,286754.08,11,11,0,0,176
+Speaker,Audio,North,Techcorp India,Low,2022,4,April,2,165,278188.35,10,10,0,0,148
+Phone,Mobile,South,Fastsupply Co,Medium,2022,4,April,2,145,225411.2,37,37,0,0,466
+Phone,Mobile,South,Quickship Asia,Medium,2022,4,April,2,241,409610.83,6,6,0,0,114
+Mouse,Accessories,West,Techcorp India,Low,2022,4,April,2,16,3285.28,5,19,14,1,642
+Camera,Imaging,North,Reliablegoods,Medium,2022,4,April,2,54,43257.78,16,16,0,0,990
+Mouse,Accessories,South,Quickship Asia,Medium,2022,4,April,2,111,74436.6,21,21,0,0,998
+Camera,Imaging,North,Fastsupply Co,Medium,2022,4,April,2,284,223891.4,15,29,14,1,350
+Tablet,Mobile,Central,Quickship Asia,Medium,2022,4,April,2,244,31944.48,36,36,0,0,349
+Laptop,Computing,West,Reliablegoods,Medium,2022,4,April,2,130,88193.3,32,32,0,0,837
+Headphones,Audio,East,Quickship Asia,Medium,2022,4,April,2,463,724849.65,11,18,7,1,508
+Phone,Mobile,West,Fastsupply Co,Medium,2022,4,April,2,484,439680.12,25,37,12,1,687
+Speaker,Audio,West,Globalparts Ltd,Medium,2022,4,April,2,478,296642.02,17,19,2,1,28
+Monitor,Computing,East,Quickship Asia,Medium,2022,4,April,2,69,6178.95,7,7,0,0,519
+Keyboard,Accessories,West,Reliablegoods,Medium,2022,4,April,2,424,659311.52,11,11,0,0,29
+Laptop,Computing,East,Techcorp India,Low,2022,4,April,2,114,95977.74,14,14,0,0,479
+Mouse,Accessories,South,Quickship Asia,Medium,2022,4,April,2,21,14279.79,20,20,0,0,616
+Mouse,Accessories,East,Reliablegoods,Medium,2022,4,April,2,48,43494.24,35,35,0,0,998
+Keyboard,Accessories,North,Globalparts Ltd,Medium,2022,4,April,2,232,378865.28,17,17,0,0,861
+Headphones,Audio,East,Quickship Asia,Medium,2022,4,April,2,117,144496.17,39,39,0,0,644
+Camera,Imaging,Central,Techcorp India,Low,2022,4,April,2,250,348507.5,43,43,0,0,29
+Monitor,Computing,South,Techcorp India,Low,2022,4,April,2,323,601600.42,23,36,13,1,760
+Tablet,Mobile,Central,Reliablegoods,Medium,2022,4,April,2,307,271520.01,15,15,0,0,673
+Keyboard,Accessories,South,Techcorp India,Low,2022,4,April,2,280,205780.4,3,3,0,0,36
+Monitor,Computing,Central,Fastsupply Co,Medium,2022,4,April,2,490,624955.8,32,32,0,0,142
+Headphones,Audio,South,Fastsupply Co,Medium,2022,4,April,2,122,172825.2,22,22,0,0,545
+Phone,Mobile,West,Reliablegoods,Medium,2022,4,April,2,342,648681.66,16,16,0,0,749
+Speaker,Audio,West,Globalparts Ltd,Medium,2022,4,April,2,239,406488.81,42,42,0,0,30
+Keyboard,Accessories,North,Techcorp India,Low,2022,4,April,2,63,62129.34,26,29,3,1,261
+Monitor,Computing,North,Globalparts Ltd,Medium,2022,4,April,2,24,10909.68,5,5,0,0,217
+Tablet,Mobile,North,Reliablegoods,Medium,2022,4,April,2,172,341595.44,15,15,0,0,730
+Camera,Imaging,North,Fastsupply Co,Medium,2022,4,April,2,320,22144.0,21,21,0,0,619
+Mouse,Accessories,South,Globalparts Ltd,Medium,2022,4,April,2,294,67014.36,6,6,0,0,648
+Headphones,Audio,Central,Quickship Asia,Medium,2022,4,April,2,35,49899.5,20,20,0,0,406
+Printer,Imaging,East,Globalparts Ltd,Medium,2022,4,April,2,51,74350.86,22,26,4,1,573
+Printer,Imaging,South,Globalparts Ltd,Medium,2022,4,April,2,293,563907.8,26,26,0,0,747
+Camera,Imaging,East,Reliablegoods,Medium,2022,4,April,2,275,541277.0,14,14,0,0,965
+Phone,Mobile,West,Techcorp India,Low,2022,4,April,2,281,548548.53,19,19,0,0,367
+Phone,Mobile,North,Fastsupply Co,Medium,2022,4,April,2,453,758987.91,33,33,0,0,521
+Keyboard,Accessories,South,Reliablegoods,Medium,2022,4,April,2,322,446591.46,17,17,0,0,492
+Tablet,Mobile,North,Globalparts Ltd,Medium,2022,4,April,2,230,188873.7,17,22,5,1,415
+Speaker,Audio,Central,Techcorp India,Low,2022,4,April,2,150,186205.5,31,31,0,0,17
+Speaker,Audio,South,Reliablegoods,Medium,2022,4,April,2,489,408456.81,17,17,0,0,543
+Mouse,Accessories,Central,Techcorp India,Low,2022,4,April,2,187,286078.21,17,26,9,1,764
+Tablet,Mobile,South,Fastsupply Co,Medium,2022,4,April,2,374,504877.56,24,37,13,1,350
+Keyboard,Accessories,South,Globalparts Ltd,Medium,2022,4,April,2,103,65193.85,12,12,0,0,51
+Keyboard,Accessories,Central,Fastsupply Co,Medium,2022,4,April,2,202,299265.02,27,27,0,0,726
+Laptop,Computing,Central,Quickship Asia,Medium,2022,4,April,2,189,349895.7,12,12,0,0,511
+Tablet,Mobile,South,Quickship Asia,Medium,2022,4,April,2,371,601468.91,35,35,0,0,640
+Laptop,Computing,South,Quickship Asia,Medium,2022,4,April,2,271,457323.34,18,18,0,0,982
+Camera,Imaging,Central,Quickship Asia,Medium,2022,4,April,2,296,482959.52,5,5,0,0,890
+Keyboard,Accessories,South,Quickship Asia,Medium,2022,4,April,2,227,348065.91,8,20,12,1,730
+Headphones,Audio,South,Quickship Asia,Medium,2022,4,April,2,324,190233.36,4,4,0,0,233
+Speaker,Audio,South,Reliablegoods,Medium,2022,4,April,2,388,563387.64,12,12,0,0,806
+Tablet,Mobile,West,Techcorp India,Low,2022,4,April,2,249,271698.84,4,4,0,0,765
+Laptop,Computing,South,Quickship Asia,Medium,2022,4,April,2,248,132915.6,19,22,3,1,121
+Camera,Imaging,West,Fastsupply Co,Medium,2022,4,April,2,443,312802.3,3,3,0,0,111
+Laptop,Computing,Central,Globalparts Ltd,Medium,2022,4,April,2,383,689495.75,23,28,5,1,190
+Phone,Mobile,North,Fastsupply Co,Medium,2022,4,April,2,213,385966.65,41,41,0,0,33
+Camera,Imaging,West,Quickship Asia,Medium,2022,4,April,2,54,51937.2,25,25,0,0,925
+Mouse,Accessories,South,Techcorp India,Low,2022,4,April,2,451,480594.62,32,37,5,1,603
+Monitor,Computing,South,Globalparts Ltd,Medium,2022,4,April,2,393,34155.63,6,8,2,1,127
+Speaker,Audio,Central,Techcorp India,Low,2022,4,April,2,470,172682.7,5,5,0,0,570
+Camera,Imaging,East,Reliablegoods,Medium,2022,4,April,2,447,667040.22,29,29,0,0,839
+Tablet,Mobile,East,Globalparts Ltd,Medium,2022,4,April,2,22,15642.88,31,31,0,0,896
+Camera,Imaging,South,Reliablegoods,Medium,2022,4,April,2,84,51300.48,7,9,2,1,445
+Phone,Mobile,South,Techcorp India,Low,2022,4,April,2,301,304040.1,35,43,8,1,49
+Speaker,Audio,Central,Fastsupply Co,Medium,2022,4,April,2,201,206917.44,23,23,0,0,864
+Laptop,Computing,East,Globalparts Ltd,Medium,2022,5,May,2,269,98410.96,29,29,0,0,493
+Headphones,Audio,West,Reliablegoods,Medium,2022,5,May,2,52,79967.68,31,31,0,0,309
+Headphones,Audio,East,Techcorp India,Low,2022,5,May,2,112,207615.52,29,31,2,1,299
+Laptop,Computing,Central,Fastsupply Co,Medium,2022,5,May,2,284,303667.0,4,4,0,0,804
+Printer,Imaging,North,Quickship Asia,Medium,2022,5,May,2,234,276831.36,14,14,0,0,490
+Tablet,Mobile,North,Techcorp India,Low,2022,5,May,2,281,509604.74,22,25,3,1,389
+Mouse,Accessories,Central,Fastsupply Co,Medium,2022,5,May,2,455,666429.4,22,22,0,0,157
+Monitor,Computing,South,Reliablegoods,Medium,2022,5,May,2,205,291253.75,8,19,11,1,445
+Headphones,Audio,South,Reliablegoods,Medium,2022,5,May,2,394,552423.46,8,8,0,0,752
+Keyboard,Accessories,West,Reliablegoods,Medium,2022,5,May,2,191,80260.11,28,28,0,0,648
+Monitor,Computing,West,Techcorp India,Low,2022,5,May,2,100,169004.0,28,28,0,0,752
+Headphones,Audio,East,Reliablegoods,Medium,2022,5,May,2,247,336115.13,28,28,0,0,306
+Headphones,Audio,East,Techcorp India,Low,2022,5,May,2,137,257451.77,30,37,7,1,633
+Laptop,Computing,Central,Quickship Asia,Medium,2022,5,May,2,234,442889.46,39,40,1,1,911
+Camera,Imaging,North,Techcorp India,Low,2022,5,May,2,87,21667.35,17,30,13,1,696
+Printer,Imaging,South,Techcorp India,Low,2022,5,May,2,280,273926.8,25,25,0,0,779
+Keyboard,Accessories,West,Globalparts Ltd,Medium,2022,5,May,2,285,330762.45,4,4,0,0,645
+Phone,Mobile,Central,Reliablegoods,Medium,2022,5,May,2,430,260773.5,20,20,0,0,595
+Printer,Imaging,South,Fastsupply Co,Medium,2022,5,May,2,486,61333.2,5,5,0,0,929
+Tablet,Mobile,East,Globalparts Ltd,Medium,2022,5,May,2,460,618746.0,26,26,0,0,578
+Phone,Mobile,North,Quickship Asia,Medium,2022,5,May,2,267,20388.12,18,18,0,0,869
+Keyboard,Accessories,North,Globalparts Ltd,Medium,2022,5,May,2,486,853654.14,11,11,0,0,749
+Laptop,Computing,East,Globalparts Ltd,Medium,2022,5,May,2,475,139455.25,17,17,0,0,412
+Keyboard,Accessories,East,Quickship Asia,Medium,2022,5,May,2,57,63543.6,17,17,0,0,309
+Camera,Imaging,East,Globalparts Ltd,Medium,2022,5,May,2,378,266682.78,9,9,0,0,171
+Camera,Imaging,South,Reliablegoods,Medium,2022,5,May,2,245,382971.75,21,21,0,0,539
+Headphones,Audio,East,Fastsupply Co,Medium,2022,5,May,2,347,328268.94,27,27,0,0,109
+Laptop,Computing,Central,Globalparts Ltd,Medium,2022,5,May,2,363,290076.93,18,19,1,1,337
+Speaker,Audio,South,Reliablegoods,Medium,2022,5,May,2,419,820389.43,32,32,0,0,803
+Mouse,Accessories,East,Quickship Asia,Medium,2022,5,May,2,433,399879.83,17,17,0,0,458
+Printer,Imaging,North,Techcorp India,Low,2022,5,May,2,92,110031.08,43,43,0,0,181
+Camera,Imaging,Central,Reliablegoods,Medium,2022,5,May,2,492,196617.96,7,16,9,1,131
+Mouse,Accessories,Central,Globalparts Ltd,Medium,2022,5,May,2,195,175437.6,18,18,0,0,306
+Printer,Imaging,Central,Fastsupply Co,Medium,2022,5,May,2,89,15358.73,24,28,4,1,194
+Camera,Imaging,Central,Fastsupply Co,Medium,2022,5,May,2,492,688357.2,30,30,0,0,15
+Keyboard,Accessories,Central,Fastsupply Co,Medium,2022,5,May,2,38,11662.2,9,9,0,0,338
+Laptop,Computing,Central,Reliablegoods,Medium,2022,5,May,2,301,550137.7,28,28,0,0,7
+Mouse,Accessories,Central,Techcorp India,Low,2022,5,May,2,99,102553.11,27,27,0,0,507
+Tablet,Mobile,West,Techcorp India,Low,2022,5,May,2,352,353731.84,42,50,8,1,17
+Speaker,Audio,Central,Reliablegoods,Medium,2022,5,May,2,484,106852.68,6,15,9,1,905
+Tablet,Mobile,West,Reliablegoods,Medium,2022,5,May,2,211,222311.71,8,8,0,0,884
+Laptop,Computing,North,Techcorp India,Low,2022,5,May,2,377,39852.67,30,41,11,1,194
+Laptop,Computing,West,Quickship Asia,Medium,2022,5,May,2,12,23974.2,32,32,0,0,437
+Speaker,Audio,East,Fastsupply Co,Medium,2022,5,May,2,19,7455.98,18,18,0,0,455
+Monitor,Computing,South,Globalparts Ltd,Medium,2022,5,May,2,203,198582.72,41,41,0,0,564
+Tablet,Mobile,West,Globalparts Ltd,Medium,2022,5,May,2,402,295043.88,12,12,0,0,927
+Speaker,Audio,South,Techcorp India,Low,2022,5,May,2,61,80663.35,41,41,0,0,151
+Keyboard,Accessories,South,Fastsupply Co,Medium,2022,5,May,2,116,159342.24,40,40,0,0,58
+Monitor,Computing,South,Quickship Asia,Medium,2022,5,May,2,346,316032.94,38,38,0,0,206
+Tablet,Mobile,North,Globalparts Ltd,Medium,2022,5,May,2,394,604726.96,19,19,0,0,758
+Laptop,Computing,South,Techcorp India,Low,2022,5,May,2,111,51732.66,20,20,0,0,11
+Phone,Mobile,Central,Reliablegoods,Medium,2022,5,May,2,166,235135.68,16,16,0,0,743
+Laptop,Computing,South,Quickship Asia,Medium,2022,5,May,2,441,83807.64,19,19,0,0,785
+Monitor,Computing,North,Fastsupply Co,Medium,2022,5,May,2,240,406665.6,38,38,0,0,331
+Mouse,Accessories,East,Reliablegoods,Medium,2022,5,May,2,70,103700.8,24,24,0,0,422
+Headphones,Audio,West,Techcorp India,Low,2022,5,May,2,494,116169.04,41,41,0,0,715
+Headphones,Audio,South,Fastsupply Co,Medium,2022,5,May,2,233,66120.74,22,22,0,0,761
+Printer,Imaging,South,Reliablegoods,Medium,2022,5,May,2,421,796216.25,20,20,0,0,282
+Keyboard,Accessories,West,Globalparts Ltd,Medium,2022,5,May,2,114,121489.8,41,41,0,0,987
+Mouse,Accessories,Central,Techcorp India,Low,2022,5,May,2,496,879576.64,24,24,0,0,747
+Keyboard,Accessories,Central,Reliablegoods,Medium,2022,5,May,2,40,4789.6,16,16,0,0,427
+Headphones,Audio,South,Reliablegoods,Medium,2022,5,May,2,405,459930.15,16,16,0,0,148
+Printer,Imaging,South,Reliablegoods,Medium,2022,5,May,2,175,225860.25,10,10,0,0,670
+Tablet,Mobile,South,Fastsupply Co,Medium,2022,5,May,2,67,67147.4,35,35,0,0,116
+Laptop,Computing,East,Fastsupply Co,Medium,2022,5,May,2,384,640849.92,6,19,13,1,941
+Monitor,Computing,West,Reliablegoods,Medium,2022,5,May,2,88,155395.68,34,34,0,0,147
+Printer,Imaging,West,Quickship Asia,Medium,2022,5,May,2,84,150907.68,27,36,9,1,868
+Headphones,Audio,East,Globalparts Ltd,Medium,2022,5,May,2,260,258190.4,12,12,0,0,298
+Mouse,Accessories,North,Reliablegoods,Medium,2022,5,May,2,235,170003.7,34,34,0,0,753
+Mouse,Accessories,Central,Quickship Asia,Medium,2022,5,May,2,118,141730.98,34,34,0,0,126
+Monitor,Computing,Central,Techcorp India,Low,2022,5,May,2,332,244494.76,6,6,0,0,54
+Tablet,Mobile,West,Techcorp India,Low,2022,5,May,2,304,306504.96,15,15,0,0,66
+Camera,Imaging,North,Reliablegoods,Medium,2022,5,May,2,255,251789.55,37,37,0,0,54
+Laptop,Computing,North,Quickship Asia,Medium,2022,5,May,2,178,98101.14,35,36,1,1,38
+Monitor,Computing,North,Globalparts Ltd,Medium,2022,5,May,2,329,55775.37,15,15,0,0,820
+Tablet,Mobile,East,Globalparts Ltd,Medium,2022,5,May,2,158,56608.24,15,15,0,0,963
+Tablet,Mobile,North,Quickship Asia,Medium,2022,5,May,2,493,136501.84,4,4,0,0,262
+Mouse,Accessories,West,Quickship Asia,Medium,2022,5,May,2,189,196064.82,16,16,0,0,78
+Tablet,Mobile,North,Quickship Asia,Medium,2022,5,May,2,433,379264.7,16,16,0,0,431
+Speaker,Audio,Central,Quickship Asia,Medium,2022,5,May,2,424,824451.04,38,38,0,0,168
+Tablet,Mobile,East,Techcorp India,Low,2022,5,May,2,359,516913.33,17,17,0,0,779
+Headphones,Audio,East,Quickship Asia,Medium,2022,5,May,2,494,611379.34,19,19,0,0,952
+Tablet,Mobile,West,Fastsupply Co,Medium,2022,5,May,2,199,264297.87,29,33,4,1,883
+Speaker,Audio,Central,Globalparts Ltd,Medium,2022,5,May,2,258,68328.72,28,37,9,1,788
+Camera,Imaging,Central,Techcorp India,Low,2022,5,May,2,435,607764.6,10,10,0,0,791
+Laptop,Computing,West,Techcorp India,Low,2022,5,May,2,406,664439.3,15,15,0,0,451
+Laptop,Computing,Central,Quickship Asia,Medium,2022,5,May,2,31,12789.67,27,27,0,0,4
+Keyboard,Accessories,East,Quickship Asia,Medium,2022,6,June,2,108,58529.52,24,24,0,0,332
+Mouse,Accessories,North,Reliablegoods,Medium,2022,6,June,2,448,152243.84,39,39,0,0,198
+Headphones,Audio,North,Techcorp India,Low,2022,6,June,2,295,231159.05,22,22,0,0,165
+Monitor,Computing,South,Quickship Asia,Medium,2022,6,June,2,456,59457.84,4,4,0,0,419
+Headphones,Audio,South,Fastsupply Co,Medium,2022,6,June,2,232,284733.6,15,26,11,1,369
+Tablet,Mobile,Central,Globalparts Ltd,Medium,2022,6,June,2,330,184473.3,36,36,0,0,102
+Tablet,Mobile,South,Quickship Asia,Medium,2022,6,June,2,442,442552.5,13,13,0,0,198
+Camera,Imaging,South,Globalparts Ltd,Medium,2022,6,June,2,327,75003.99,17,20,3,1,618
+Tablet,Mobile,North,Globalparts Ltd,Medium,2022,6,June,2,302,175283.82,44,44,0,0,958
+Laptop,Computing,Central,Reliablegoods,Medium,2022,6,June,2,222,55353.48,4,4,0,0,315
+Printer,Imaging,West,Reliablegoods,Medium,2022,6,June,2,47,64768.35,24,24,0,0,586
+Laptop,Computing,Central,Fastsupply Co,Medium,2022,6,June,2,133,161356.93,8,8,0,0,883
+Phone,Mobile,East,Fastsupply Co,Medium,2022,6,June,2,83,130930.01,29,29,0,0,467
+Phone,Mobile,East,Reliablegoods,Medium,2022,6,June,2,238,365491.84,23,23,0,0,190
+Tablet,Mobile,South,Globalparts Ltd,Medium,2022,6,June,2,254,51661.06,24,36,12,1,80
+Mouse,Accessories,South,Globalparts Ltd,Medium,2022,6,June,2,347,244256.77,18,18,0,0,677
+Phone,Mobile,Central,Techcorp India,Low,2022,6,June,2,366,460486.56,7,7,0,0,531
+Camera,Imaging,South,Reliablegoods,Medium,2022,6,June,2,110,90956.8,35,35,0,0,77
+Keyboard,Accessories,South,Quickship Asia,Medium,2022,6,June,2,447,376767.36,29,29,0,0,228
+Mouse,Accessories,Central,Quickship Asia,Medium,2022,6,June,2,401,800111.29,15,15,0,0,910
+Keyboard,Accessories,Central,Techcorp India,Low,2022,6,June,2,120,142888.8,27,27,0,0,180
+Camera,Imaging,South,Reliablegoods,Medium,2022,6,June,2,298,18341.9,3,10,7,1,193
+Camera,Imaging,North,Quickship Asia,Medium,2022,6,June,2,473,126026.12,38,43,5,1,242
+Phone,Mobile,East,Quickship Asia,Medium,2022,6,June,2,18,18192.78,40,40,0,0,770
+Camera,Imaging,North,Quickship Asia,Medium,2022,6,June,2,276,216911.16,12,12,0,0,56
+Camera,Imaging,West,Reliablegoods,Medium,2022,6,June,2,446,531141.4,41,41,0,0,525
+Monitor,Computing,Central,Quickship Asia,Medium,2022,6,June,2,71,112839.59,6,6,0,0,280
+Mouse,Accessories,North,Fastsupply Co,Medium,2022,6,June,2,280,290320.8,32,32,0,0,470
+Tablet,Mobile,West,Reliablegoods,Medium,2022,6,June,2,215,328315.75,42,42,0,0,107
+Phone,Mobile,South,Reliablegoods,Medium,2022,6,June,2,479,720650.71,7,7,0,0,905
+Tablet,Mobile,East,Techcorp India,Low,2022,6,June,2,149,81607.3,42,42,0,0,226
+Laptop,Computing,East,Quickship Asia,Medium,2022,6,June,2,495,441337.05,10,10,0,0,58
+Tablet,Mobile,South,Globalparts Ltd,Medium,2022,6,June,2,73,130086.73,16,16,0,0,969
+Laptop,Computing,West,Fastsupply Co,Medium,2022,6,June,2,345,176246.7,19,19,0,0,789
+Keyboard,Accessories,Central,Reliablegoods,Medium,2022,6,June,2,114,43097.7,40,40,0,0,604
+Speaker,Audio,North,Globalparts Ltd,Medium,2022,6,June,2,168,39710.16,12,19,7,1,854
+Printer,Imaging,North,Reliablegoods,Medium,2022,6,June,2,47,6730.87,3,10,7,1,65
+Headphones,Audio,North,Fastsupply Co,Medium,2022,6,June,2,203,279421.38,13,21,8,1,776
+Phone,Mobile,West,Fastsupply Co,Medium,2022,6,June,2,42,43097.46,19,19,0,0,105
+Printer,Imaging,Central,Globalparts Ltd,Medium,2022,6,June,2,275,385825.0,24,24,0,0,963
+Keyboard,Accessories,West,Techcorp India,Low,2022,6,June,2,51,90633.12,29,29,0,0,880
+Mouse,Accessories,West,Techcorp India,Low,2022,6,June,2,65,6072.95,18,19,1,1,535
+Tablet,Mobile,West,Globalparts Ltd,Medium,2022,6,June,2,52,27096.68,34,34,0,0,903
+Camera,Imaging,Central,Techcorp India,Low,2022,6,June,2,70,58410.8,38,46,8,1,923
+Mouse,Accessories,North,Reliablegoods,Medium,2022,6,June,2,431,698780.3,10,20,10,1,414
+Printer,Imaging,West,Techcorp India,Low,2022,6,June,2,368,644559.36,11,16,5,1,961
+Monitor,Computing,Central,Quickship Asia,Medium,2022,6,June,2,297,560195.46,19,19,0,0,18
+Printer,Imaging,South,Reliablegoods,Medium,2022,6,June,2,369,713697.66,6,6,0,0,772
+Speaker,Audio,West,Quickship Asia,Medium,2022,6,June,2,101,106003.54,8,8,0,0,701
+Tablet,Mobile,South,Quickship Asia,Medium,2022,6,June,2,135,137492.1,16,16,0,0,149
+Mouse,Accessories,East,Globalparts Ltd,Medium,2022,6,June,2,423,242218.26,8,8,0,0,31
+Phone,Mobile,North,Globalparts Ltd,Medium,2022,6,June,2,86,72701.82,42,42,0,0,757
+Monitor,Computing,North,Globalparts Ltd,Medium,2022,6,June,2,447,547668.87,42,42,0,0,11
+Speaker,Audio,West,Techcorp India,Low,2022,6,June,2,295,408409.8,6,6,0,0,275
+Camera,Imaging,West,Fastsupply Co,Medium,2022,6,June,2,258,142952.64,16,16,0,0,704
+Laptop,Computing,South,Reliablegoods,Medium,2022,6,June,2,150,32785.5,26,26,0,0,251
+Keyboard,Accessories,South,Fastsupply Co,Medium,2022,6,June,2,238,318877.16,15,15,0,0,35
+Speaker,Audio,South,Quickship Asia,Medium,2022,6,June,2,218,366098.3,9,9,0,0,809
+Laptop,Computing,East,Quickship Asia,Medium,2022,6,June,2,264,193303.44,5,5,0,0,379
+Printer,Imaging,South,Reliablegoods,Medium,2022,6,June,2,428,543846.76,34,44,10,1,286
+Tablet,Mobile,North,Fastsupply Co,Medium,2022,6,June,2,95,13612.55,19,29,10,1,418
+Camera,Imaging,South,Fastsupply Co,Medium,2022,6,June,2,170,250632.7,19,22,3,1,818
+Printer,Imaging,Central,Globalparts Ltd,Medium,2022,6,June,2,48,49656.48,43,43,0,0,116
+Printer,Imaging,West,Reliablegoods,Medium,2022,6,June,2,210,411259.8,37,37,0,0,431
+Monitor,Computing,Central,Quickship Asia,Medium,2022,6,June,2,429,590076.63,3,3,0,0,139
+Headphones,Audio,South,Fastsupply Co,Medium,2022,6,June,2,202,235101.74,5,5,0,0,407
+Laptop,Computing,South,Globalparts Ltd,Medium,2022,6,June,2,111,34822.92,19,19,0,0,264
+Tablet,Mobile,East,Fastsupply Co,Medium,2022,6,June,2,413,699861.54,15,23,8,1,971
+Headphones,Audio,East,Globalparts Ltd,Medium,2022,6,June,2,424,55060.64,3,3,0,0,689
+Keyboard,Accessories,North,Fastsupply Co,Medium,2022,6,June,2,252,275128.56,29,29,0,0,930
+Speaker,Audio,South,Reliablegoods,Medium,2022,6,June,2,328,189426.56,37,37,0,0,545
+Printer,Imaging,East,Quickship Asia,Medium,2022,6,June,2,224,176429.12,15,15,0,0,297
+Keyboard,Accessories,South,Reliablegoods,Medium,2022,6,June,2,461,396307.87,33,33,0,0,582
+Camera,Imaging,East,Reliablegoods,Medium,2022,6,June,2,454,661228.3,6,9,3,1,120
+Monitor,Computing,Central,Quickship Asia,Medium,2022,6,June,2,396,80787.96,34,34,0,0,425
+Camera,Imaging,West,Globalparts Ltd,Medium,2022,6,June,2,79,121683.7,36,36,0,0,282
+Monitor,Computing,East,Fastsupply Co,Medium,2022,6,June,2,141,281211.81,22,27,5,1,116
+Speaker,Audio,North,Techcorp India,Low,2022,6,June,2,117,83779.02,24,24,0,0,643
+Tablet,Mobile,West,Fastsupply Co,Medium,2022,6,June,2,290,516507.4,28,28,0,0,561
+Phone,Mobile,Central,Fastsupply Co,Medium,2022,6,June,2,164,277033.72,25,25,0,0,920
+Keyboard,Accessories,South,Reliablegoods,Medium,2022,7,July,3,70,16306.5,39,39,0,0,68
+Tablet,Mobile,East,Techcorp India,Low,2022,7,July,3,108,153471.24,34,35,1,1,443
+Laptop,Computing,Central,Globalparts Ltd,Medium,2022,7,July,3,287,500754.73,41,41,0,0,77
+Laptop,Computing,West,Globalparts Ltd,Medium,2022,7,July,3,365,568013.0,33,38,5,1,240
+Laptop,Computing,South,Fastsupply Co,Medium,2022,7,July,3,101,128637.64,7,7,0,0,834
+Mouse,Accessories,North,Techcorp India,Low,2022,7,July,3,498,821470.92,34,34,0,0,131
+Camera,Imaging,South,Globalparts Ltd,Medium,2022,7,July,3,20,3114.2,30,30,0,0,188
+Keyboard,Accessories,South,Techcorp India,Low,2022,7,July,3,296,461437.36,43,43,0,0,391
+Tablet,Mobile,Central,Globalparts Ltd,Medium,2022,7,July,3,385,220901.45,14,14,0,0,826
+Phone,Mobile,South,Techcorp India,Low,2022,7,July,3,216,110615.76,7,7,0,0,13
+Speaker,Audio,South,Globalparts Ltd,Medium,2022,7,July,3,43,41650.23,38,38,0,0,526
+Keyboard,Accessories,South,Reliablegoods,Medium,2022,7,July,3,280,48381.2,30,33,3,1,933
+Phone,Mobile,Central,Fastsupply Co,Medium,2022,7,July,3,65,24830.65,36,47,11,1,329
+Tablet,Mobile,West,Quickship Asia,Medium,2022,7,July,3,319,255471.15,23,23,0,0,640
+Monitor,Computing,North,Quickship Asia,Medium,2022,7,July,3,148,7790.72,19,19,0,0,648
+Keyboard,Accessories,South,Reliablegoods,Medium,2022,7,July,3,348,254777.76,29,29,0,0,515
+Headphones,Audio,West,Fastsupply Co,Medium,2022,7,July,3,341,624490.35,42,42,0,0,924
+Camera,Imaging,East,Globalparts Ltd,Medium,2022,7,July,3,437,613945.67,41,41,0,0,86
+Keyboard,Accessories,East,Globalparts Ltd,Medium,2022,7,July,3,373,422202.43,18,20,2,1,640
+Phone,Mobile,West,Reliablegoods,Medium,2022,7,July,3,458,721024.82,9,9,0,0,411
+Monitor,Computing,East,Quickship Asia,Medium,2022,7,July,3,172,58400.88,9,9,0,0,528
+Mouse,Accessories,West,Reliablegoods,Medium,2022,7,July,3,239,388489.72,35,35,0,0,325
+Laptop,Computing,North,Quickship Asia,Medium,2022,7,July,3,136,45755.84,31,31,0,0,772
+Tablet,Mobile,North,Fastsupply Co,Medium,2022,7,July,3,390,477711.0,13,13,0,0,954
+Tablet,Mobile,West,Quickship Asia,Medium,2022,7,July,3,204,200605.44,39,39,0,0,369
+Mouse,Accessories,East,Globalparts Ltd,Medium,2022,7,July,3,452,749031.8,36,36,0,0,29
+Laptop,Computing,Central,Fastsupply Co,Medium,2022,7,July,3,118,195646.36,22,22,0,0,706
+Phone,Mobile,North,Techcorp India,Low,2022,7,July,3,62,11772.56,16,16,0,0,72
+Mouse,Accessories,East,Quickship Asia,Medium,2022,7,July,3,233,454494.46,42,42,0,0,934
+Printer,Imaging,North,Reliablegoods,Medium,2022,7,July,3,470,404298.7,43,56,13,1,927
+Laptop,Computing,North,Reliablegoods,Medium,2022,7,July,3,286,392923.96,26,36,10,1,263
+Headphones,Audio,South,Reliablegoods,Medium,2022,7,July,3,286,127944.96,8,8,0,0,457
+Tablet,Mobile,South,Reliablegoods,Medium,2022,7,July,3,212,130437.24,23,23,0,0,258
+Monitor,Computing,East,Techcorp India,Low,2022,7,July,3,362,270660.16,9,9,0,0,542
+Speaker,Audio,East,Techcorp India,Low,2022,7,July,3,155,279207.7,41,45,4,1,154
+Speaker,Audio,Central,Quickship Asia,Medium,2022,7,July,3,279,357164.64,7,21,14,1,519
+Camera,Imaging,East,Fastsupply Co,Medium,2022,7,July,3,60,75573.6,24,33,9,1,210
+Speaker,Audio,North,Globalparts Ltd,Medium,2022,7,July,3,424,480205.44,35,35,0,0,756
+Monitor,Computing,South,Techcorp India,Low,2022,7,July,3,308,185067.96,13,13,0,0,739
+Phone,Mobile,Central,Globalparts Ltd,Medium,2022,7,July,3,180,272080.8,26,26,0,0,188
+Headphones,Audio,Central,Quickship Asia,Medium,2022,7,July,3,37,53197.86,39,39,0,0,703
+Keyboard,Accessories,North,Quickship Asia,Medium,2022,7,July,3,330,534527.4,8,8,0,0,419
+Tablet,Mobile,West,Quickship Asia,Medium,2022,7,July,3,341,664912.49,12,12,0,0,772
+Speaker,Audio,West,Reliablegoods,Medium,2022,7,July,3,227,371290.28,13,13,0,0,855
+Laptop,Computing,North,Fastsupply Co,Medium,2022,7,July,3,314,330240.08,22,23,1,1,868
+Laptop,Computing,West,Fastsupply Co,Medium,2022,7,July,3,408,224142.96,21,33,12,1,952
+Headphones,Audio,East,Quickship Asia,Medium,2022,7,July,3,333,379460.16,30,32,2,1,313
+Keyboard,Accessories,Central,Quickship Asia,Medium,2022,7,July,3,93,181244.91,3,15,12,1,137
+Mouse,Accessories,South,Techcorp India,Low,2022,7,July,3,95,189952.5,4,4,0,0,404
+Laptop,Computing,East,Reliablegoods,Medium,2022,7,July,3,356,464882.6,14,14,0,0,846
+Laptop,Computing,West,Reliablegoods,Medium,2022,7,July,3,440,710600.0,8,8,0,0,846
+Camera,Imaging,West,Fastsupply Co,Medium,2022,7,July,3,235,60188.2,6,11,5,1,497
+Phone,Mobile,East,Reliablegoods,Medium,2022,7,July,3,369,636358.95,22,22,0,0,360
+Keyboard,Accessories,South,Fastsupply Co,Medium,2022,7,July,3,17,2989.28,41,41,0,0,989
+Tablet,Mobile,Central,Reliablegoods,Medium,2022,7,July,3,36,8669.52,9,9,0,0,932
+Keyboard,Accessories,South,Quickship Asia,Medium,2022,7,July,3,226,53207.18,23,23,0,0,505
+Laptop,Computing,Central,Globalparts Ltd,Medium,2022,7,July,3,154,149689.54,11,22,11,1,663
+Camera,Imaging,North,Quickship Asia,Medium,2022,7,July,3,427,360558.8,40,40,0,0,246
+Laptop,Computing,West,Fastsupply Co,Medium,2022,7,July,3,283,221303.17,44,44,0,0,466
+Tablet,Mobile,West,Quickship Asia,Medium,2022,7,July,3,210,172960.2,42,51,9,1,712
+Camera,Imaging,North,Fastsupply Co,Medium,2022,7,July,3,50,67679.0,38,39,1,1,242
+Laptop,Computing,Central,Globalparts Ltd,Medium,2022,7,July,3,208,32980.48,43,49,6,1,915
+Camera,Imaging,Central,Globalparts Ltd,Medium,2022,7,July,3,118,63609.08,19,19,0,0,51
+Monitor,Computing,North,Quickship Asia,Medium,2022,7,July,3,298,28965.6,10,10,0,0,626
+Phone,Mobile,Central,Globalparts Ltd,Medium,2022,7,July,3,60,74476.2,3,3,0,0,9
+Printer,Imaging,East,Techcorp India,Low,2022,7,July,3,339,598836.72,41,41,0,0,161
+Headphones,Audio,West,Quickship Asia,Medium,2022,7,July,3,242,140570.54,25,25,0,0,235
+Monitor,Computing,East,Globalparts Ltd,Medium,2022,7,July,3,489,620443.2,7,7,0,0,656
+Headphones,Audio,South,Reliablegoods,Medium,2022,7,July,3,165,92680.5,17,17,0,0,222
+Headphones,Audio,South,Globalparts Ltd,Medium,2022,7,July,3,498,667469.4,29,29,0,0,236
+Laptop,Computing,South,Fastsupply Co,Medium,2022,7,July,3,29,49561.58,38,38,0,0,942
+Printer,Imaging,East,Fastsupply Co,Medium,2022,7,July,3,169,246216.1,32,32,0,0,675
+Speaker,Audio,North,Fastsupply Co,Medium,2022,7,July,3,275,19296.75,20,22,2,1,527
+Laptop,Computing,West,Globalparts Ltd,Medium,2022,7,July,3,172,245576.44,41,41,0,0,895
+Headphones,Audio,West,Quickship Asia,Medium,2022,8,August,3,318,292941.6,11,15,4,1,12
+Headphones,Audio,South,Globalparts Ltd,Medium,2022,8,August,3,274,313097.06,16,16,0,0,988
+Printer,Imaging,Central,Reliablegoods,Medium,2022,8,August,3,163,130889.0,11,11,0,0,948
+Phone,Mobile,East,Quickship Asia,Medium,2022,8,August,3,184,126089.68,42,42,0,0,45
+Phone,Mobile,West,Reliablegoods,Medium,2022,8,August,3,25,42319.75,29,29,0,0,710
+Printer,Imaging,South,Reliablegoods,Medium,2022,8,August,3,315,474790.05,11,15,4,1,789
+Tablet,Mobile,Central,Reliablegoods,Medium,2022,8,August,3,413,107508.03,16,16,0,0,601
+Speaker,Audio,Central,Globalparts Ltd,Medium,2022,8,August,3,495,424828.8,39,39,0,0,328
+Printer,Imaging,Central,Globalparts Ltd,Medium,2022,8,August,3,478,171014.06,32,32,0,0,860
+Laptop,Computing,South,Globalparts Ltd,Medium,2022,8,August,3,20,26452.0,11,13,2,1,668
+Headphones,Audio,East,Globalparts Ltd,Medium,2022,8,August,3,113,100106.7,29,29,0,0,58
+Laptop,Computing,South,Reliablegoods,Medium,2022,8,August,3,479,490553.48,15,15,0,0,820
+Camera,Imaging,West,Globalparts Ltd,Medium,2022,8,August,3,234,218799.36,28,28,0,0,675
+Headphones,Audio,West,Quickship Asia,Medium,2022,8,August,3,13,7231.12,9,9,0,0,155
+Tablet,Mobile,West,Reliablegoods,Medium,2022,8,August,3,492,747776.04,15,15,0,0,498
+Monitor,Computing,East,Globalparts Ltd,Medium,2022,8,August,3,176,185032.32,4,4,0,0,656
+Mouse,Accessories,Central,Fastsupply Co,Medium,2022,8,August,3,403,672167.73,20,20,0,0,993
+Speaker,Audio,South,Reliablegoods,Medium,2022,8,August,3,284,496707.48,28,28,0,0,450
+Printer,Imaging,East,Fastsupply Co,Medium,2022,8,August,3,122,48305.9,28,28,0,0,253
+Camera,Imaging,West,Quickship Asia,Medium,2022,8,August,3,363,725793.09,19,33,14,1,359
+Keyboard,Accessories,Central,Reliablegoods,Medium,2022,8,August,3,120,80768.4,26,26,0,0,638
+Speaker,Audio,North,Quickship Asia,Medium,2022,8,August,3,489,577284.06,28,28,0,0,128
+Camera,Imaging,North,Quickship Asia,Medium,2022,8,August,3,322,366110.78,5,6,1,1,947
+Printer,Imaging,North,Quickship Asia,Medium,2022,8,August,3,391,667765.44,44,44,0,0,121
+Tablet,Mobile,Central,Globalparts Ltd,Medium,2022,8,August,3,271,158998.41,40,40,0,0,118
+Keyboard,Accessories,Central,Techcorp India,Low,2022,8,August,3,482,159990.26,29,31,2,1,888
+Camera,Imaging,North,Techcorp India,Low,2022,8,August,3,382,338008.88,3,3,0,0,160
+Speaker,Audio,Central,Reliablegoods,Medium,2022,8,August,3,339,369082.86,9,14,5,1,149
+Headphones,Audio,South,Globalparts Ltd,Medium,2022,8,August,3,408,496617.6,25,25,0,0,216
+Monitor,Computing,East,Quickship Asia,Medium,2022,8,August,3,228,400249.44,19,19,0,0,371
+Mouse,Accessories,South,Fastsupply Co,Medium,2022,8,August,3,74,30954.2,33,33,0,0,70
+Monitor,Computing,South,Techcorp India,Low,2022,8,August,3,116,199803.04,33,33,0,0,254
+Printer,Imaging,West,Globalparts Ltd,Medium,2022,8,August,3,205,104818.55,42,42,0,0,289
+Camera,Imaging,North,Quickship Asia,Medium,2022,8,August,3,82,4554.28,9,9,0,0,626
+Phone,Mobile,Central,Reliablegoods,Medium,2022,8,August,3,473,621819.99,26,26,0,0,672
+Keyboard,Accessories,North,Quickship Asia,Medium,2022,8,August,3,248,211067.84,27,36,9,1,479
+Headphones,Audio,Central,Fastsupply Co,Medium,2022,8,August,3,32,56004.48,11,17,6,1,991
+Keyboard,Accessories,East,Globalparts Ltd,Medium,2022,8,August,3,440,74263.2,18,22,4,1,148
+Mouse,Accessories,South,Reliablegoods,Medium,2022,8,August,3,149,239387.87,25,25,0,0,241
+Tablet,Mobile,North,Techcorp India,Low,2022,8,August,3,282,33442.38,6,6,0,0,79
+Laptop,Computing,South,Reliablegoods,Medium,2022,8,August,3,311,521590.54,18,18,0,0,975
+Keyboard,Accessories,North,Reliablegoods,Medium,2022,8,August,3,171,327372.66,18,18,0,0,148
+Laptop,Computing,East,Fastsupply Co,Medium,2022,8,August,3,385,250273.1,10,10,0,0,531
+Printer,Imaging,West,Reliablegoods,Medium,2022,8,August,3,473,178846.03,31,31,0,0,683
+Speaker,Audio,North,Fastsupply Co,Medium,2022,8,August,3,58,65591.62,9,18,9,1,203
+Camera,Imaging,North,Quickship Asia,Medium,2022,8,August,3,120,12153.6,40,40,0,0,368
+Monitor,Computing,East,Globalparts Ltd,Medium,2022,8,August,3,491,491382.98,31,31,0,0,630
+Headphones,Audio,North,Fastsupply Co,Medium,2022,8,August,3,119,230579.16,34,35,1,1,945
+Monitor,Computing,Central,Globalparts Ltd,Medium,2022,8,August,3,380,486160.6,40,43,3,1,308
+Keyboard,Accessories,South,Fastsupply Co,Medium,2022,8,August,3,492,803613.12,6,6,0,0,177
+Printer,Imaging,East,Reliablegoods,Medium,2022,8,August,3,123,185654.97,5,5,0,0,30
+Laptop,Computing,West,Globalparts Ltd,Medium,2022,8,August,3,11,9907.48,43,43,0,0,863
+Laptop,Computing,East,Fastsupply Co,Medium,2022,8,August,3,246,63773.04,40,40,0,0,247
+Mouse,Accessories,West,Reliablegoods,Medium,2022,8,August,3,285,290506.2,28,28,0,0,155
+Phone,Mobile,Central,Quickship Asia,Medium,2022,8,August,3,316,124943.24,36,36,0,0,950
+Monitor,Computing,Central,Fastsupply Co,Medium,2022,8,August,3,421,790890.6,17,17,0,0,132
+Keyboard,Accessories,West,Techcorp India,Low,2022,8,August,3,115,130366.3,4,4,0,0,14
+Phone,Mobile,South,Fastsupply Co,Medium,2022,8,August,3,58,67028.86,43,43,0,0,580
+Phone,Mobile,South,Reliablegoods,Medium,2022,8,August,3,95,123972.15,11,19,8,1,427
+Keyboard,Accessories,North,Globalparts Ltd,Medium,2022,8,August,3,225,177187.5,19,19,0,0,493
+Laptop,Computing,South,Fastsupply Co,Medium,2022,8,August,3,496,85465.76,14,14,0,0,716
+Laptop,Computing,North,Techcorp India,Low,2022,8,August,3,284,189479.12,3,3,0,0,142
+Tablet,Mobile,Central,Quickship Asia,Medium,2022,8,August,3,178,75366.98,44,46,2,1,392
+Speaker,Audio,North,Quickship Asia,Medium,2022,8,August,3,28,47075.84,24,24,0,0,685
+Keyboard,Accessories,North,Quickship Asia,Medium,2022,8,August,3,319,455563.9,39,46,7,1,751
+Keyboard,Accessories,West,Globalparts Ltd,Medium,2022,8,August,3,385,536998.0,4,12,8,1,302
+Monitor,Computing,Central,Fastsupply Co,Medium,2022,8,August,3,203,319410.35,25,25,0,0,954
+Tablet,Mobile,North,Fastsupply Co,Medium,2022,8,August,3,244,322963.28,28,28,0,0,311
+Camera,Imaging,East,Reliablegoods,Medium,2022,8,August,3,173,322337.06,15,15,0,0,52
+Monitor,Computing,North,Reliablegoods,Medium,2022,8,August,3,267,394300.26,34,34,0,0,398
+Printer,Imaging,West,Fastsupply Co,Medium,2022,8,August,3,491,619916.96,38,38,0,0,847
+Monitor,Computing,North,Reliablegoods,Medium,2022,8,August,3,158,40496.98,34,34,0,0,355
+Phone,Mobile,South,Quickship Asia,Medium,2022,8,August,3,485,526904.0,28,28,0,0,881
+Camera,Imaging,South,Globalparts Ltd,Medium,2022,8,August,3,408,203661.36,25,25,0,0,580
+Headphones,Audio,North,Techcorp India,Low,2022,8,August,3,150,113533.5,6,6,0,0,124
+Printer,Imaging,East,Fastsupply Co,Medium,2022,8,August,3,161,62881.77,36,36,0,0,425
+Speaker,Audio,Central,Reliablegoods,Medium,2022,8,August,3,195,227274.45,34,34,0,0,482
+Headphones,Audio,South,Globalparts Ltd,Medium,2022,8,August,3,18,27597.24,30,30,0,0,843
+Mouse,Accessories,South,Reliablegoods,Medium,2022,8,August,3,99,57853.62,32,32,0,0,465
+Headphones,Audio,North,Quickship Asia,Medium,2022,8,August,3,170,310768.5,26,26,0,0,305
+Keyboard,Accessories,West,Globalparts Ltd,Medium,2022,8,August,3,279,76797.54,33,33,0,0,993
+Printer,Imaging,South,Reliablegoods,Medium,2022,8,August,3,432,214064.64,16,16,0,0,669
+Printer,Imaging,South,Quickship Asia,Medium,2022,8,August,3,162,75566.52,34,47,13,1,576
+Mouse,Accessories,West,Globalparts Ltd,Medium,2022,8,August,3,309,352386.69,19,19,0,0,642
+Printer,Imaging,Central,Quickship Asia,Medium,2022,8,August,3,470,142668.5,12,12,0,0,563
+Phone,Mobile,East,Fastsupply Co,Medium,2022,8,August,3,132,15234.12,11,11,0,0,521
+Phone,Mobile,South,Fastsupply Co,Medium,2022,8,August,3,364,440410.88,33,33,0,0,832
+Monitor,Computing,West,Reliablegoods,Medium,2022,8,August,3,65,106971.15,5,5,0,0,848
+Camera,Imaging,Central,Fastsupply Co,Medium,2022,8,August,3,124,10641.68,12,12,0,0,304
+Phone,Mobile,Central,Reliablegoods,Medium,2022,8,August,3,42,82151.16,16,16,0,0,519
+Camera,Imaging,East,Reliablegoods,Medium,2022,8,August,3,154,133679.7,23,23,0,0,995
+Phone,Mobile,Central,Globalparts Ltd,Medium,2022,8,August,3,336,642119.52,28,28,0,0,395
+Camera,Imaging,South,Reliablegoods,Medium,2022,8,August,3,273,311763.27,40,40,0,0,774
+Monitor,Computing,Central,Techcorp India,Low,2022,8,August,3,464,88327.04,23,30,7,1,159
+Tablet,Mobile,West,Globalparts Ltd,Medium,2022,8,August,3,174,51615.36,3,3,0,0,875
+Monitor,Computing,South,Quickship Asia,Medium,2022,8,August,3,393,656247.12,28,28,0,0,94
+Phone,Mobile,North,Techcorp India,Low,2022,8,August,3,172,341215.32,41,55,14,1,663
+Printer,Imaging,East,Quickship Asia,Medium,2022,8,August,3,86,43542.66,11,20,9,1,987
+Camera,Imaging,West,Techcorp India,Low,2022,8,August,3,92,65446.04,43,43,0,0,623
+Printer,Imaging,West,Techcorp India,Low,2022,8,August,3,93,94543.8,44,44,0,0,458
+Laptop,Computing,South,Techcorp India,Low,2022,8,August,3,31,47354.98,4,4,0,0,506
+Keyboard,Accessories,Central,Techcorp India,Low,2022,8,August,3,60,93273.6,16,16,0,0,604
+Monitor,Computing,East,Reliablegoods,Medium,2022,9,September,3,207,138307.05,43,43,0,0,234
+Headphones,Audio,South,Quickship Asia,Medium,2022,9,September,3,56,101394.16,13,17,4,1,115
+Phone,Mobile,Central,Quickship Asia,Medium,2022,9,September,3,259,45400.11,39,43,4,1,121
+Camera,Imaging,Central,Fastsupply Co,Medium,2022,9,September,3,348,305585.76,43,43,0,0,683
+Printer,Imaging,East,Techcorp India,Low,2022,9,September,3,17,28501.52,27,27,0,0,850
+Monitor,Computing,South,Globalparts Ltd,Medium,2022,9,September,3,99,116317.08,21,21,0,0,697
+Phone,Mobile,East,Globalparts Ltd,Medium,2022,9,September,3,186,206675.76,27,36,9,1,140
+Camera,Imaging,East,Fastsupply Co,Medium,2022,9,September,3,387,381218.22,43,55,12,1,145
+Headphones,Audio,West,Quickship Asia,Medium,2022,9,September,3,93,49545.75,18,18,0,0,411
+Headphones,Audio,West,Techcorp India,Low,2022,9,September,3,213,319723.65,4,4,0,0,914
+Mouse,Accessories,North,Globalparts Ltd,Medium,2022,9,September,3,198,372354.84,4,8,4,1,844
+Phone,Mobile,Central,Globalparts Ltd,Medium,2022,9,September,3,218,223325.74,22,22,0,0,371
+Headphones,Audio,South,Globalparts Ltd,Medium,2022,9,September,3,143,208742.82,24,27,3,1,848
+Camera,Imaging,North,Reliablegoods,Medium,2022,9,September,3,40,63611.2,24,30,6,1,725
+Headphones,Audio,Central,Quickship Asia,Medium,2022,9,September,3,219,329472.36,24,24,0,0,608
+Mouse,Accessories,East,Techcorp India,Low,2022,9,September,3,420,90115.2,32,32,0,0,624
+Monitor,Computing,Central,Techcorp India,Low,2022,9,September,3,84,116030.88,30,37,7,1,445
+Mouse,Accessories,West,Fastsupply Co,Medium,2022,9,September,3,429,343873.53,32,32,0,0,525
+Printer,Imaging,South,Reliablegoods,Medium,2022,9,September,3,231,18221.28,8,8,0,0,876
+Mouse,Accessories,South,Techcorp India,Low,2022,9,September,3,122,98555.26,14,14,0,0,499
+Phone,Mobile,South,Fastsupply Co,Medium,2022,9,September,3,264,524277.6,3,8,5,1,222
+Keyboard,Accessories,East,Reliablegoods,Medium,2022,9,September,3,395,274714.6,18,27,9,1,175
+Keyboard,Accessories,West,Fastsupply Co,Medium,2022,9,September,3,329,355083.12,31,31,0,0,171
+Speaker,Audio,East,Globalparts Ltd,Medium,2022,9,September,3,133,71508.78,20,20,0,0,206
+Keyboard,Accessories,South,Fastsupply Co,Medium,2022,9,September,3,378,236949.3,11,11,0,0,708
+Laptop,Computing,South,Techcorp India,Low,2022,9,September,3,373,55349.47,16,16,0,0,156
+Phone,Mobile,West,Techcorp India,Low,2022,9,September,3,55,108059.6,40,42,2,1,823
+Tablet,Mobile,South,Reliablegoods,Medium,2022,9,September,3,413,795640.37,19,19,0,0,929
+Camera,Imaging,South,Fastsupply Co,Medium,2022,9,September,3,137,199507.62,3,3,0,0,524
+Phone,Mobile,North,Fastsupply Co,Medium,2022,9,September,3,102,88221.84,20,20,0,0,81
+Laptop,Computing,South,Quickship Asia,Medium,2022,9,September,3,403,383752.72,5,5,0,0,558
+Headphones,Audio,North,Globalparts Ltd,Medium,2022,9,September,3,94,104330.6,21,21,0,0,828
+Mouse,Accessories,North,Globalparts Ltd,Medium,2022,9,September,3,191,49696.29,24,35,11,1,796
+Camera,Imaging,North,Techcorp India,Low,2022,9,September,3,150,15151.5,37,37,0,0,86
+Phone,Mobile,West,Techcorp India,Low,2022,9,September,3,132,222971.76,11,11,0,0,553
+Camera,Imaging,Central,Globalparts Ltd,Medium,2022,9,September,3,40,49401.2,37,37,0,0,78
+Printer,Imaging,Central,Reliablegoods,Medium,2022,9,September,3,374,130312.82,25,25,0,0,910
+Printer,Imaging,East,Techcorp India,Low,2022,9,September,3,385,609701.4,34,34,0,0,922
+Keyboard,Accessories,South,Fastsupply Co,Medium,2022,9,September,3,169,274019.98,13,13,0,0,192
+Headphones,Audio,North,Fastsupply Co,Medium,2022,9,September,3,195,366562.95,15,15,0,0,242
+Monitor,Computing,South,Globalparts Ltd,Medium,2022,9,September,3,477,437866.92,9,9,0,0,20
+Camera,Imaging,West,Techcorp India,Low,2022,9,September,3,227,413821.0,16,27,11,1,994
+Tablet,Mobile,Central,Techcorp India,Low,2022,9,September,3,228,107490.6,23,31,8,1,510
+Camera,Imaging,West,Quickship Asia,Medium,2022,9,September,3,384,345561.6,38,38,0,0,851
+Mouse,Accessories,Central,Globalparts Ltd,Medium,2022,9,September,3,136,51881.28,44,58,14,1,301
+Headphones,Audio,West,Reliablegoods,Medium,2022,9,September,3,425,569351.25,10,10,0,0,897
+Laptop,Computing,South,Quickship Asia,Medium,2022,9,September,3,454,313141.96,11,17,6,1,621
+Monitor,Computing,South,Reliablegoods,Medium,2022,9,September,3,365,137327.6,22,35,13,1,963
+Camera,Imaging,Central,Fastsupply Co,Medium,2022,9,September,3,436,555145.72,18,18,0,0,952
+Mouse,Accessories,West,Reliablegoods,Medium,2022,9,September,3,290,575612.3,43,43,0,0,423
+Headphones,Audio,Central,Quickship Asia,Medium,2022,9,September,3,234,362887.2,19,19,0,0,359
+Tablet,Mobile,West,Quickship Asia,Medium,2022,9,September,3,423,104531.76,40,40,0,0,214
+Phone,Mobile,West,Reliablegoods,Medium,2022,9,September,3,486,909689.94,29,29,0,0,253
+Keyboard,Accessories,Central,Reliablegoods,Medium,2022,9,September,3,253,371067.51,18,18,0,0,798
+Tablet,Mobile,South,Globalparts Ltd,Medium,2022,9,September,3,82,137788.7,3,3,0,0,908
+Mouse,Accessories,Central,Fastsupply Co,Medium,2022,9,September,3,92,116612.76,22,22,0,0,270
+Phone,Mobile,South,Globalparts Ltd,Medium,2022,9,September,3,290,286319.9,31,43,12,1,33
+Monitor,Computing,Central,Quickship Asia,Medium,2022,9,September,3,218,232773.86,18,32,14,1,685
+Tablet,Mobile,West,Fastsupply Co,Medium,2022,9,September,3,370,346364.4,43,43,0,0,441
+Tablet,Mobile,Central,Techcorp India,Low,2022,9,September,3,410,788835.9,20,24,4,1,892
+Printer,Imaging,West,Techcorp India,Low,2022,9,September,3,123,50607.12,28,28,0,0,256
+Tablet,Mobile,Central,Quickship Asia,Medium,2022,9,September,3,154,177378.74,26,26,0,0,620
+Keyboard,Accessories,South,Globalparts Ltd,Medium,2022,9,September,3,456,609074.64,37,37,0,0,550
+Headphones,Audio,Central,Globalparts Ltd,Medium,2022,9,September,3,414,567221.4,23,23,0,0,82
+Headphones,Audio,Central,Reliablegoods,Medium,2022,9,September,3,142,151843.44,8,8,0,0,264
+Camera,Imaging,West,Globalparts Ltd,Medium,2022,9,September,3,134,219786.8,29,29,0,0,319
+Mouse,Accessories,Central,Fastsupply Co,Medium,2022,9,September,3,113,132606.63,6,9,3,1,981
+Printer,Imaging,North,Quickship Asia,Medium,2022,9,September,3,119,117561.29,11,11,0,0,930
+Tablet,Mobile,South,Reliablegoods,Medium,2022,9,September,3,216,260336.16,37,37,0,0,399
+Mouse,Accessories,East,Fastsupply Co,Medium,2022,9,September,3,270,502831.8,31,31,0,0,782
+Tablet,Mobile,Central,Reliablegoods,Medium,2022,9,September,3,262,364279.56,11,11,0,0,561
+Mouse,Accessories,Central,Quickship Asia,Medium,2022,9,September,3,328,125214.0,5,10,5,1,183
+Speaker,Audio,Central,Globalparts Ltd,Medium,2022,9,September,3,83,93762.61,39,46,7,1,438
+Speaker,Audio,Central,Techcorp India,Low,2022,9,September,3,63,71995.14,6,6,0,0,618
+Headphones,Audio,South,Fastsupply Co,Medium,2022,9,September,3,159,257975.91,5,5,0,0,531
+Headphones,Audio,West,Reliablegoods,Medium,2022,9,September,3,464,629903.2,24,30,6,1,480
+Mouse,Accessories,East,Quickship Asia,Medium,2022,9,September,3,177,302969.13,44,50,6,1,818
+Phone,Mobile,North,Globalparts Ltd,Medium,2022,9,September,3,35,22595.65,20,20,0,0,540
+Camera,Imaging,West,Reliablegoods,Medium,2022,9,September,3,316,23131.2,4,4,0,0,694
+Mouse,Accessories,North,Globalparts Ltd,Medium,2022,10,October,4,336,208471.2,32,32,0,0,336
+Keyboard,Accessories,South,Techcorp India,Low,2022,10,October,4,332,535569.12,44,55,11,1,624
+Phone,Mobile,Central,Fastsupply Co,Medium,2022,10,October,4,232,340346.32,38,38,0,0,426
+Mouse,Accessories,South,Globalparts Ltd,Medium,2022,10,October,4,453,633004.08,30,30,0,0,796
+Tablet,Mobile,East,Fastsupply Co,Medium,2022,10,October,4,220,245502.4,14,17,3,1,994
+Camera,Imaging,South,Quickship Asia,Medium,2022,10,October,4,289,366749.67,9,9,0,0,319
+Mouse,Accessories,South,Quickship Asia,Medium,2022,10,October,4,351,300368.25,15,15,0,0,848
+Phone,Mobile,East,Fastsupply Co,Medium,2022,10,October,4,251,335524.25,28,36,8,1,83
+Monitor,Computing,Central,Techcorp India,Low,2022,10,October,4,262,187031.32,8,8,0,0,232
+Keyboard,Accessories,Central,Fastsupply Co,Medium,2022,10,October,4,32,16142.08,26,32,6,1,444
+Monitor,Computing,West,Quickship Asia,Medium,2022,10,October,4,320,199225.6,12,12,0,0,320
+Phone,Mobile,South,Techcorp India,Low,2022,10,October,4,108,160037.64,5,5,0,0,365
+Keyboard,Accessories,Central,Fastsupply Co,Medium,2022,10,October,4,340,577704.2,27,27,0,0,318
+Headphones,Audio,South,Globalparts Ltd,Medium,2022,10,October,4,102,10639.62,11,11,0,0,536
+Camera,Imaging,North,Fastsupply Co,Medium,2022,10,October,4,336,541393.44,15,21,6,1,381
+Tablet,Mobile,West,Fastsupply Co,Medium,2022,10,October,4,48,25764.96,20,20,0,0,946
+Monitor,Computing,North,Techcorp India,Low,2022,10,October,4,213,83768.64,30,30,0,0,223
+Laptop,Computing,Central,Reliablegoods,Medium,2022,10,October,4,459,889932.15,23,37,14,1,250
+Keyboard,Accessories,Central,Techcorp India,Low,2022,10,October,4,268,186490.48,30,30,0,0,46
+Tablet,Mobile,South,Quickship Asia,Medium,2022,10,October,4,391,275220.99,38,38,0,0,245
+Tablet,Mobile,West,Globalparts Ltd,Medium,2022,10,October,4,425,835405.5,13,13,0,0,404
+Camera,Imaging,East,Reliablegoods,Medium,2022,10,October,4,448,416747.52,3,3,0,0,752
+Mouse,Accessories,West,Quickship Asia,Medium,2022,10,October,4,378,612065.16,9,9,0,0,104
+Speaker,Audio,North,Fastsupply Co,Medium,2022,10,October,4,280,413246.4,16,16,0,0,667
+Phone,Mobile,Central,Fastsupply Co,Medium,2022,10,October,4,145,22831.7,5,5,0,0,16
+Tablet,Mobile,East,Quickship Asia,Medium,2022,10,October,4,308,575482.6,16,16,0,0,556
+Printer,Imaging,South,Globalparts Ltd,Medium,2022,10,October,4,496,721283.2,33,33,0,0,458
+Laptop,Computing,North,Reliablegoods,Medium,2022,10,October,4,243,203757.93,15,15,0,0,297
+Printer,Imaging,South,Fastsupply Co,Medium,2022,10,October,4,49,10184.65,25,25,0,0,219
+Camera,Imaging,North,Reliablegoods,Medium,2022,10,October,4,389,101591.24,29,29,0,0,135
+Tablet,Mobile,East,Quickship Asia,Medium,2022,10,October,4,127,20057.11,30,41,11,1,177
+Monitor,Computing,West,Quickship Asia,Medium,2022,10,October,4,37,17371.13,40,44,4,1,848
+Keyboard,Accessories,South,Quickship Asia,Medium,2022,10,October,4,339,668057.13,21,21,0,0,316
+Speaker,Audio,East,Reliablegoods,Medium,2022,10,October,4,469,456191.61,31,31,0,0,804
+Speaker,Audio,Central,Fastsupply Co,Medium,2022,10,October,4,226,400912.7,31,31,0,0,377
+Camera,Imaging,South,Reliablegoods,Medium,2022,10,October,4,156,280506.72,4,18,14,1,765
+Mouse,Accessories,South,Reliablegoods,Medium,2022,10,October,4,336,661674.72,42,46,4,1,50
+Keyboard,Accessories,North,Techcorp India,Low,2022,10,October,4,137,81841.06,3,11,8,1,796
+Printer,Imaging,North,Reliablegoods,Medium,2022,10,October,4,385,88519.2,20,27,7,1,275
+Speaker,Audio,Central,Reliablegoods,Medium,2022,10,October,4,165,166897.5,25,25,0,0,595
+Keyboard,Accessories,North,Quickship Asia,Medium,2022,10,October,4,113,196798.54,44,44,0,0,9
+Monitor,Computing,South,Globalparts Ltd,Medium,2022,10,October,4,260,125086.0,21,21,0,0,319
+Monitor,Computing,North,Globalparts Ltd,Medium,2022,10,October,4,57,40762.41,37,37,0,0,30
+Mouse,Accessories,East,Techcorp India,Low,2022,10,October,4,267,354255.6,39,49,10,1,781
+Laptop,Computing,East,Techcorp India,Low,2022,10,October,4,380,237382.2,21,29,8,1,677
+Keyboard,Accessories,East,Reliablegoods,Medium,2022,10,October,4,164,126411.2,25,25,0,0,79
+Monitor,Computing,East,Quickship Asia,Medium,2022,10,October,4,451,779097.99,29,29,0,0,910
+Camera,Imaging,West,Globalparts Ltd,Medium,2022,10,October,4,324,463219.56,39,47,8,1,12
+Phone,Mobile,North,Reliablegoods,Medium,2022,10,October,4,414,434054.16,40,40,0,0,663
+Monitor,Computing,South,Globalparts Ltd,Medium,2022,10,October,4,403,408952.31,24,34,10,1,766
+Mouse,Accessories,South,Fastsupply Co,Medium,2022,10,October,4,410,136452.1,29,30,1,1,76
+Tablet,Mobile,South,Globalparts Ltd,Medium,2022,10,October,4,74,10206.08,8,8,0,0,144
+Printer,Imaging,Central,Globalparts Ltd,Medium,2022,10,October,4,232,136914.8,43,43,0,0,799
+Phone,Mobile,West,Fastsupply Co,Medium,2022,10,October,4,185,345311.75,23,23,0,0,25
+Headphones,Audio,Central,Techcorp India,Low,2022,10,October,4,396,244807.2,31,31,0,0,524
+Phone,Mobile,Central,Reliablegoods,Medium,2022,10,October,4,173,250344.84,7,7,0,0,669
+Speaker,Audio,Central,Quickship Asia,Medium,2022,10,October,4,174,151162.5,34,34,0,0,816
+Headphones,Audio,East,Reliablegoods,Medium,2022,10,October,4,50,14938.0,19,19,0,0,497
+Printer,Imaging,East,Quickship Asia,Medium,2022,10,October,4,355,22783.9,22,22,0,0,797
+Monitor,Computing,West,Globalparts Ltd,Medium,2022,10,October,4,476,577616.48,18,18,0,0,884
+Tablet,Mobile,East,Techcorp India,Low,2022,10,October,4,222,410229.36,44,44,0,0,116
+Keyboard,Accessories,West,Techcorp India,Low,2022,10,October,4,154,157919.3,21,21,0,0,704
+Camera,Imaging,East,Reliablegoods,Medium,2022,10,October,4,329,527666.65,40,40,0,0,871
+Mouse,Accessories,West,Fastsupply Co,Medium,2022,10,October,4,214,358775.28,30,30,0,0,876
+Speaker,Audio,North,Globalparts Ltd,Medium,2022,10,October,4,359,24017.1,44,44,0,0,166
+Tablet,Mobile,South,Reliablegoods,Medium,2022,10,October,4,378,137282.04,32,37,5,1,425
+Monitor,Computing,East,Techcorp India,Low,2022,10,October,4,340,344423.4,23,26,3,1,619
+Laptop,Computing,West,Globalparts Ltd,Medium,2022,10,October,4,178,46465.12,37,37,0,0,415
+Keyboard,Accessories,West,Reliablegoods,Medium,2022,10,October,4,143,209763.84,34,34,0,0,541
+Tablet,Mobile,West,Fastsupply Co,Medium,2022,10,October,4,85,90384.75,19,19,0,0,116
+Headphones,Audio,West,Fastsupply Co,Medium,2022,10,October,4,95,72938.15,17,21,4,1,350
+Keyboard,Accessories,Central,Quickship Asia,Medium,2022,10,October,4,333,26679.96,8,11,3,1,782
+Laptop,Computing,North,Fastsupply Co,Medium,2022,10,October,4,468,290281.68,14,14,0,0,162
+Camera,Imaging,West,Reliablegoods,Medium,2022,10,October,4,282,138865.26,30,30,0,0,748
+Speaker,Audio,Central,Techcorp India,Low,2022,10,October,4,190,373545.7,37,37,0,0,511
+Tablet,Mobile,East,Globalparts Ltd,Medium,2022,10,October,4,76,41325.0,42,52,10,1,338
+Monitor,Computing,West,Techcorp India,Low,2022,10,October,4,391,716765.56,36,36,0,0,91
+Mouse,Accessories,Central,Techcorp India,Low,2022,10,October,4,119,212974.3,29,29,0,0,783
+Printer,Imaging,North,Reliablegoods,Medium,2022,10,October,4,70,116358.9,25,25,0,0,935
+Laptop,Computing,Central,Quickship Asia,Medium,2022,10,October,4,465,77185.35,14,14,0,0,843
+Headphones,Audio,West,Globalparts Ltd,Medium,2022,10,October,4,253,165998.36,29,30,1,1,170
+Laptop,Computing,East,Reliablegoods,Medium,2022,10,October,4,437,706668.33,35,35,0,0,378
+Camera,Imaging,South,Reliablegoods,Medium,2022,10,October,4,16,10927.84,38,52,14,1,330
+Speaker,Audio,West,Fastsupply Co,Medium,2022,11,November,4,217,245641.83,10,10,0,0,238
+Laptop,Computing,Central,Fastsupply Co,Medium,2022,11,November,4,127,188866.78,18,18,0,0,811
+Laptop,Computing,South,Quickship Asia,Medium,2022,11,November,4,55,35968.35,24,24,0,0,227
+Monitor,Computing,West,Reliablegoods,Medium,2022,11,November,4,214,272991.24,8,8,0,0,148
+Headphones,Audio,West,Techcorp India,Low,2022,11,November,4,153,224308.71,17,17,0,0,249
+Laptop,Computing,West,Fastsupply Co,Medium,2022,11,November,4,115,125382.2,14,27,13,1,629
+Speaker,Audio,South,Globalparts Ltd,Medium,2022,11,November,4,381,23454.36,20,20,0,0,411
+Headphones,Audio,South,Quickship Asia,Medium,2022,11,November,4,456,146540.16,34,34,0,0,355
+Laptop,Computing,Central,Globalparts Ltd,Medium,2022,11,November,4,31,37164.35,18,18,0,0,462
+Monitor,Computing,South,Techcorp India,Low,2022,11,November,4,247,140281.18,9,9,0,0,969
+Printer,Imaging,Central,Reliablegoods,Medium,2022,11,November,4,451,112488.42,16,25,9,1,333
+Tablet,Mobile,East,Reliablegoods,Medium,2022,11,November,4,472,792799.52,16,16,0,0,827
+Headphones,Audio,Central,Fastsupply Co,Medium,2022,11,November,4,466,701423.2,35,35,0,0,622
+Laptop,Computing,Central,Reliablegoods,Medium,2022,11,November,4,432,776092.32,19,19,0,0,408
+Camera,Imaging,Central,Fastsupply Co,Medium,2022,11,November,4,35,56327.95,11,11,0,0,475
+Printer,Imaging,North,Fastsupply Co,Medium,2022,11,November,4,80,113948.0,42,42,0,0,781
+Laptop,Computing,West,Reliablegoods,Medium,2022,11,November,4,300,455394.0,22,33,11,1,249
+Speaker,Audio,Central,Reliablegoods,Medium,2022,11,November,4,329,289000.18,38,38,0,0,409
+Monitor,Computing,Central,Globalparts Ltd,Medium,2022,11,November,4,449,50135.34,35,35,0,0,817
+Keyboard,Accessories,South,Techcorp India,Low,2022,11,November,4,282,323425.8,22,30,8,1,794
+Laptop,Computing,North,Reliablegoods,Medium,2022,11,November,4,289,330685.36,23,23,0,0,765
+Tablet,Mobile,West,Globalparts Ltd,Medium,2022,11,November,4,13,4574.57,8,8,0,0,521
+Keyboard,Accessories,South,Fastsupply Co,Medium,2022,11,November,4,99,34997.49,27,27,0,0,529
+Keyboard,Accessories,East,Quickship Asia,Medium,2022,11,November,4,230,404031.8,19,19,0,0,847
+Printer,Imaging,East,Quickship Asia,Medium,2022,11,November,4,214,160016.36,15,15,0,0,246
+Camera,Imaging,Central,Globalparts Ltd,Medium,2022,11,November,4,499,990799.43,9,12,3,1,457
+Headphones,Audio,South,Quickship Asia,Medium,2022,11,November,4,327,476278.77,38,38,0,0,831
+Speaker,Audio,Central,Globalparts Ltd,Medium,2022,11,November,4,318,513506.4,41,41,0,0,781
+Camera,Imaging,West,Techcorp India,Low,2022,11,November,4,425,67991.5,39,40,1,1,45
+Phone,Mobile,West,Globalparts Ltd,Medium,2022,11,November,4,416,323814.4,20,26,6,1,948
+Laptop,Computing,South,Reliablegoods,Medium,2022,11,November,4,365,484741.9,43,56,13,1,89
+Keyboard,Accessories,Central,Globalparts Ltd,Medium,2022,11,November,4,353,135633.19,10,24,14,1,258
+Laptop,Computing,North,Globalparts Ltd,Medium,2022,11,November,4,491,194995.74,7,7,0,0,674
+Headphones,Audio,South,Quickship Asia,Medium,2022,11,November,4,62,34541.44,41,41,0,0,564
+Headphones,Audio,West,Fastsupply Co,Medium,2022,11,November,4,322,428829.94,8,8,0,0,720
+Mouse,Accessories,South,Reliablegoods,Medium,2022,11,November,4,245,423502.1,41,41,0,0,77
+Headphones,Audio,South,Techcorp India,Low,2022,11,November,4,98,39424.42,32,32,0,0,206
+Mouse,Accessories,North,Quickship Asia,Medium,2022,11,November,4,199,313924.49,41,41,0,0,494
+Headphones,Audio,East,Quickship Asia,Medium,2022,11,November,4,275,425573.5,35,41,6,1,796
+Speaker,Audio,South,Globalparts Ltd,Medium,2022,11,November,4,220,160509.8,27,29,2,1,756
+Tablet,Mobile,East,Quickship Asia,Medium,2022,11,November,4,477,510556.95,18,18,0,0,643
+Headphones,Audio,South,Reliablegoods,Medium,2022,11,November,4,431,806060.51,24,24,0,0,823
+Printer,Imaging,East,Techcorp India,Low,2022,11,November,4,91,73889.27,19,24,5,1,359
+Phone,Mobile,Central,Techcorp India,Low,2022,11,November,4,347,562736.84,26,26,0,0,132
+Keyboard,Accessories,West,Reliablegoods,Medium,2022,11,November,4,251,347281.09,38,38,0,0,258
+Camera,Imaging,Central,Reliablegoods,Medium,2022,11,November,4,174,118718.46,41,52,11,1,374
+Speaker,Audio,North,Globalparts Ltd,Medium,2022,11,November,4,297,129539.52,12,12,0,0,986
+Camera,Imaging,Central,Quickship Asia,Medium,2022,11,November,4,210,258165.6,43,43,0,0,810
+Mouse,Accessories,West,Quickship Asia,Medium,2022,11,November,4,197,25444.52,6,20,14,1,700
+Keyboard,Accessories,Central,Fastsupply Co,Medium,2022,11,November,4,105,14722.05,32,32,0,0,976
+Headphones,Audio,South,Quickship Asia,Medium,2022,11,November,4,62,16509.98,36,50,14,1,880
+Printer,Imaging,North,Globalparts Ltd,Medium,2022,11,November,4,109,147139.1,16,16,0,0,990
+Speaker,Audio,South,Reliablegoods,Medium,2022,11,November,4,72,4774.32,12,12,0,0,62
+Printer,Imaging,North,Globalparts Ltd,Medium,2022,11,November,4,154,296477.72,34,34,0,0,844
+Speaker,Audio,North,Quickship Asia,Medium,2022,11,November,4,263,255664.93,41,41,0,0,877
+Phone,Mobile,South,Globalparts Ltd,Medium,2022,11,November,4,72,23832.0,30,44,14,1,441
+Mouse,Accessories,South,Techcorp India,Low,2022,11,November,4,142,131381.24,22,22,0,0,282
+Headphones,Audio,Central,Globalparts Ltd,Medium,2022,11,November,4,281,430854.49,17,17,0,0,215
+Printer,Imaging,West,Techcorp India,Low,2022,11,November,4,115,134869.7,17,17,0,0,896
+Tablet,Mobile,West,Quickship Asia,Medium,2022,11,November,4,186,219606.48,39,39,0,0,340
+Monitor,Computing,West,Quickship Asia,Medium,2022,11,November,4,57,92248.23,37,37,0,0,238
+Monitor,Computing,Central,Globalparts Ltd,Medium,2022,11,November,4,292,199687.12,26,26,0,0,422
+Mouse,Accessories,North,Globalparts Ltd,Medium,2022,11,November,4,127,73638.41,16,16,0,0,511
+Tablet,Mobile,West,Fastsupply Co,Medium,2022,11,November,4,203,251959.54,42,51,9,1,654
+Phone,Mobile,East,Reliablegoods,Medium,2022,11,November,4,81,109759.05,37,39,2,1,393
+Tablet,Mobile,Central,Reliablegoods,Medium,2022,11,November,4,161,138870.55,10,22,12,1,373
+Monitor,Computing,East,Reliablegoods,Medium,2022,11,November,4,377,379077.27,15,15,0,0,709
+Headphones,Audio,East,Reliablegoods,Medium,2022,11,November,4,420,473218.2,6,6,0,0,438
+Tablet,Mobile,South,Quickship Asia,Medium,2022,11,November,4,211,340946.46,36,44,8,1,153
+Phone,Mobile,Central,Fastsupply Co,Medium,2022,11,November,4,150,61086.0,16,16,0,0,366
+Phone,Mobile,Central,Globalparts Ltd,Medium,2022,11,November,4,168,312081.84,25,25,0,0,400
+Laptop,Computing,South,Globalparts Ltd,Medium,2022,11,November,4,237,422627.88,16,16,0,0,901
+Speaker,Audio,South,Fastsupply Co,Medium,2022,11,November,4,451,837980.55,42,42,0,0,905
+Headphones,Audio,South,Reliablegoods,Medium,2022,11,November,4,358,556546.8,15,15,0,0,526
+Keyboard,Accessories,North,Fastsupply Co,Medium,2022,11,November,4,291,478156.65,40,40,0,0,94
+Monitor,Computing,East,Globalparts Ltd,Medium,2022,11,November,4,287,122353.84,29,29,0,0,78
+Mouse,Accessories,North,Globalparts Ltd,Medium,2022,11,November,4,402,250795.74,16,16,0,0,38
+Mouse,Accessories,South,Globalparts Ltd,Medium,2022,11,November,4,488,874178.8,9,10,1,1,979
+Headphones,Audio,South,Fastsupply Co,Medium,2022,11,November,4,411,283150.23,28,28,0,0,853
+Speaker,Audio,East,Techcorp India,Low,2022,11,November,4,165,212411.1,44,57,13,1,363
+Speaker,Audio,East,Quickship Asia,Medium,2022,11,November,4,295,206603.25,42,42,0,0,195
+Mouse,Accessories,North,Techcorp India,Low,2022,12,December,4,52,17647.76,32,45,13,1,654
+Camera,Imaging,West,Quickship Asia,Medium,2022,12,December,4,325,305834.75,17,17,0,0,892
+Laptop,Computing,Central,Reliablegoods,Medium,2022,12,December,4,277,268590.28,39,39,0,0,483
+Keyboard,Accessories,East,Reliablegoods,Medium,2022,12,December,4,205,78314.1,41,41,0,0,955
+Speaker,Audio,South,Fastsupply Co,Medium,2022,12,December,4,456,154178.16,35,35,0,0,39
+Keyboard,Accessories,South,Techcorp India,Low,2022,12,December,4,480,148924.8,4,12,8,1,835
+Speaker,Audio,Central,Quickship Asia,Medium,2022,12,December,4,210,225724.8,39,39,0,0,364
+Camera,Imaging,North,Reliablegoods,Medium,2022,12,December,4,74,102512.94,16,16,0,0,662
+Printer,Imaging,North,Reliablegoods,Medium,2022,12,December,4,99,158386.14,4,4,0,0,865
+Camera,Imaging,South,Fastsupply Co,Medium,2022,12,December,4,426,139804.68,10,10,0,0,787
+Speaker,Audio,Central,Fastsupply Co,Medium,2022,12,December,4,241,61520.07,37,37,0,0,546
+Speaker,Audio,South,Globalparts Ltd,Medium,2022,12,December,4,317,172622.35,18,18,0,0,259
+Keyboard,Accessories,South,Reliablegoods,Medium,2022,12,December,4,80,32537.6,13,13,0,0,103
+Monitor,Computing,East,Fastsupply Co,Medium,2022,12,December,4,214,57478.26,16,16,0,0,156
+Mouse,Accessories,Central,Techcorp India,Low,2022,12,December,4,371,365820.84,7,8,1,1,137
+Laptop,Computing,East,Techcorp India,Low,2022,12,December,4,82,23412.64,28,28,0,0,690
+Tablet,Mobile,East,Fastsupply Co,Medium,2022,12,December,4,311,196794.58,38,42,4,1,35
+Tablet,Mobile,East,Quickship Asia,Medium,2022,12,December,4,373,693873.25,23,23,0,0,351
+Monitor,Computing,West,Fastsupply Co,Medium,2022,12,December,4,372,453624.24,7,7,0,0,715
+Printer,Imaging,North,Fastsupply Co,Medium,2022,12,December,4,338,180103.3,32,42,10,1,33
+Mouse,Accessories,West,Techcorp India,Low,2022,12,December,4,41,23336.38,26,26,0,0,81
+Keyboard,Accessories,North,Fastsupply Co,Medium,2022,12,December,4,179,69931.72,18,18,0,0,476
+Camera,Imaging,South,Reliablegoods,Medium,2022,12,December,4,219,373916.22,3,3,0,0,572
+Headphones,Audio,East,Quickship Asia,Medium,2022,12,December,4,199,58904.0,21,21,0,0,469
+Mouse,Accessories,Central,Globalparts Ltd,Medium,2022,12,December,4,441,577370.43,19,19,0,0,153
+Tablet,Mobile,Central,Fastsupply Co,Medium,2022,12,December,4,19,10172.79,26,28,2,1,195
+Printer,Imaging,South,Quickship Asia,Medium,2022,12,December,4,140,105625.8,11,11,0,0,494
+Keyboard,Accessories,West,Quickship Asia,Medium,2022,12,December,4,170,160420.5,39,39,0,0,184
+Printer,Imaging,Central,Quickship Asia,Medium,2022,12,December,4,23,21522.02,35,35,0,0,586
+Mouse,Accessories,North,Techcorp India,Low,2022,12,December,4,375,206448.75,18,18,0,0,239
+Tablet,Mobile,South,Globalparts Ltd,Medium,2022,12,December,4,293,488680.05,41,41,0,0,690
+Camera,Imaging,North,Reliablegoods,Medium,2022,12,December,4,91,28415.66,16,16,0,0,709
+Monitor,Computing,South,Reliablegoods,Medium,2022,12,December,4,300,572313.0,34,34,0,0,914
+Monitor,Computing,West,Quickship Asia,Medium,2022,12,December,4,201,76444.32,26,34,8,1,676
+Laptop,Computing,East,Fastsupply Co,Medium,2022,12,December,4,389,283444.85,11,18,7,1,154
+Camera,Imaging,North,Techcorp India,Low,2022,12,December,4,102,72272.1,33,38,5,1,356
+Keyboard,Accessories,Central,Globalparts Ltd,Medium,2022,12,December,4,139,7379.51,6,6,0,0,461
+Speaker,Audio,West,Techcorp India,Low,2022,12,December,4,164,175176.6,41,52,11,1,167
+Phone,Mobile,North,Quickship Asia,Medium,2022,12,December,4,349,238325.12,43,43,0,0,386
+Speaker,Audio,Central,Techcorp India,Low,2022,12,December,4,129,250155.51,30,42,12,1,576
+Printer,Imaging,North,Fastsupply Co,Medium,2022,12,December,4,17,15563.84,3,3,0,0,277
+Tablet,Mobile,Central,Quickship Asia,Medium,2022,12,December,4,262,321471.38,22,22,0,0,786
+Speaker,Audio,North,Techcorp India,Low,2022,12,December,4,402,95816.7,22,22,0,0,941
+Phone,Mobile,South,Reliablegoods,Medium,2022,12,December,4,343,366673.86,38,43,5,1,119
+Printer,Imaging,Central,Reliablegoods,Medium,2022,12,December,4,44,72184.2,25,25,0,0,662
+Printer,Imaging,Central,Quickship Asia,Medium,2022,12,December,4,377,597066.21,4,4,0,0,152
+Speaker,Audio,North,Techcorp India,Low,2022,12,December,4,411,302902.89,27,27,0,0,382
+Tablet,Mobile,West,Reliablegoods,Medium,2022,12,December,4,327,446162.07,6,6,0,0,420
+Mouse,Accessories,South,Fastsupply Co,Medium,2022,12,December,4,464,652212.32,4,4,0,0,404
+Printer,Imaging,Central,Quickship Asia,Medium,2022,12,December,4,385,34060.95,30,30,0,0,382
+Laptop,Computing,South,Fastsupply Co,Medium,2022,12,December,4,101,199307.34,37,37,0,0,626
+Keyboard,Accessories,North,Fastsupply Co,Medium,2022,12,December,4,103,198428.47,43,43,0,0,337
+Headphones,Audio,Central,Globalparts Ltd,Medium,2022,12,December,4,422,534496.76,19,19,0,0,692
+Tablet,Mobile,West,Globalparts Ltd,Medium,2022,12,December,4,199,367061.47,11,11,0,0,270
+Printer,Imaging,West,Techcorp India,Low,2022,12,December,4,418,804131.68,42,50,8,1,486
+Mouse,Accessories,North,Fastsupply Co,Medium,2022,12,December,4,131,181645.91,33,33,0,0,307
+Speaker,Audio,Central,Techcorp India,Low,2022,12,December,4,290,457805.6,21,26,5,1,240
+Speaker,Audio,North,Globalparts Ltd,Medium,2022,12,December,4,10,17327.9,25,36,11,1,640
+Camera,Imaging,North,Reliablegoods,Medium,2022,12,December,4,131,54668.92,11,11,0,0,793
+Laptop,Computing,South,Globalparts Ltd,Medium,2022,12,December,4,355,663775.45,44,45,1,1,196
+Camera,Imaging,West,Globalparts Ltd,Medium,2022,12,December,4,283,546911.65,36,36,0,0,829
+Phone,Mobile,South,Techcorp India,Low,2022,12,December,4,329,197367.1,6,13,7,1,46
+Keyboard,Accessories,North,Reliablegoods,Medium,2022,12,December,4,364,590651.88,34,34,0,0,150
+Mouse,Accessories,East,Fastsupply Co,Medium,2022,12,December,4,346,49903.58,41,41,0,0,72
+Phone,Mobile,East,Techcorp India,Low,2022,12,December,4,357,145527.48,39,39,0,0,209
+Printer,Imaging,Central,Fastsupply Co,Medium,2022,12,December,4,156,118723.8,29,29,0,0,329
+Printer,Imaging,South,Reliablegoods,Medium,2022,12,December,4,55,50797.45,6,6,0,0,735
+Speaker,Audio,South,Fastsupply Co,Medium,2022,12,December,4,147,241215.24,21,21,0,0,447
+Laptop,Computing,North,Fastsupply Co,Medium,2022,12,December,4,239,345378.9,25,25,0,0,987
+Laptop,Computing,Central,Fastsupply Co,Medium,2022,12,December,4,192,121244.16,42,45,3,1,701
+Tablet,Mobile,West,Globalparts Ltd,Medium,2022,12,December,4,10,7009.4,18,18,0,0,954
+Monitor,Computing,East,Globalparts Ltd,Medium,2022,12,December,4,458,379343.08,44,52,8,1,668
+Printer,Imaging,East,Reliablegoods,Medium,2022,12,December,4,389,427378.74,36,36,0,0,154
+Printer,Imaging,East,Quickship Asia,Medium,2022,12,December,4,251,439109.44,20,20,0,0,674
+Keyboard,Accessories,South,Quickship Asia,Medium,2022,12,December,4,153,53543.88,7,13,6,1,282
+Monitor,Computing,South,Reliablegoods,Medium,2022,12,December,4,351,563428.71,7,7,0,0,269
+Monitor,Computing,North,Reliablegoods,Medium,2022,12,December,4,361,446022.72,5,5,0,0,703
+Keyboard,Accessories,East,Fastsupply Co,Medium,2022,12,December,4,212,138993.56,37,37,0,0,402
+Laptop,Computing,East,Reliablegoods,Medium,2022,12,December,4,441,426632.22,35,35,0,0,505
+Printer,Imaging,South,Quickship Asia,Medium,2022,12,December,4,288,454924.8,40,40,0,0,998
+Headphones,Audio,East,Globalparts Ltd,Medium,2022,12,December,4,207,226350.36,42,42,0,0,20
+Monitor,Computing,North,Fastsupply Co,Medium,2022,12,December,4,121,152790.33,22,22,0,0,451
+Camera,Imaging,Central,Techcorp India,Low,2022,12,December,4,57,87215.7,13,13,0,0,252
+Tablet,Mobile,Central,Quickship Asia,Medium,2022,12,December,4,398,251209.64,40,48,8,1,105
+Phone,Mobile,Central,Reliablegoods,Medium,2022,12,December,4,138,232644.54,19,19,0,0,773
+Monitor,Computing,South,Fastsupply Co,Medium,2022,12,December,4,335,211257.7,12,22,10,1,872
+Camera,Imaging,North,Globalparts Ltd,Medium,2022,12,December,4,427,805902.72,25,34,9,1,85
+Speaker,Audio,East,Fastsupply Co,Medium,2023,1,January,1,385,228385.85,22,22,0,0,392
+Tablet,Mobile,South,Reliablegoods,Medium,2023,1,January,1,81,21875.67,38,38,0,0,39
+Phone,Mobile,North,Fastsupply Co,Medium,2023,1,January,1,67,23137.78,40,40,0,0,678
+Tablet,Mobile,North,Reliablegoods,Medium,2023,1,January,1,19,12737.6,41,41,0,0,175
+Tablet,Mobile,Central,Quickship Asia,Medium,2023,1,January,1,362,523006.74,34,34,0,0,52
+Printer,Imaging,West,Techcorp India,Low,2023,1,January,1,196,386915.76,32,32,0,0,987
+Tablet,Mobile,Central,Reliablegoods,Medium,2023,1,January,1,498,325512.72,4,16,12,1,943
+Phone,Mobile,East,Techcorp India,Low,2023,1,January,1,218,300358.22,21,21,0,0,495
+Keyboard,Accessories,North,Quickship Asia,Medium,2023,1,January,1,288,178156.8,5,5,0,0,782
+Tablet,Mobile,West,Techcorp India,Low,2023,1,January,1,399,103113.57,3,3,0,0,861
+Phone,Mobile,Central,Techcorp India,Low,2023,1,January,1,316,328930.72,30,30,0,0,832
+Monitor,Computing,North,Quickship Asia,Medium,2023,1,January,1,285,124191.6,11,11,0,0,820
+Laptop,Computing,East,Reliablegoods,Medium,2023,1,January,1,151,224502.27,30,44,14,1,734
+Keyboard,Accessories,Central,Reliablegoods,Medium,2023,1,January,1,329,629929.72,30,30,0,0,474
+Speaker,Audio,South,Fastsupply Co,Medium,2023,1,January,1,68,44430.52,16,27,11,1,249
+Tablet,Mobile,Central,Globalparts Ltd,Medium,2023,1,January,1,153,70164.27,39,39,0,0,697
+Phone,Mobile,East,Reliablegoods,Medium,2023,1,January,1,100,77990.0,28,39,11,1,542
+Camera,Imaging,Central,Reliablegoods,Medium,2023,1,January,1,235,353085.15,17,17,0,0,412
+Keyboard,Accessories,Central,Globalparts Ltd,Medium,2023,1,January,1,448,876274.56,36,36,0,0,59
+Camera,Imaging,North,Reliablegoods,Medium,2023,1,January,1,343,41156.57,16,16,0,0,77
+Camera,Imaging,East,Globalparts Ltd,Medium,2023,1,January,1,390,744502.2,28,39,11,1,111
+Printer,Imaging,North,Fastsupply Co,Medium,2023,1,January,1,317,481694.18,44,44,0,0,207
+Tablet,Mobile,Central,Globalparts Ltd,Medium,2023,1,January,1,197,102382.87,4,5,1,1,903
+Tablet,Mobile,West,Quickship Asia,Medium,2023,1,January,1,238,352156.7,39,46,7,1,257
+Phone,Mobile,East,Reliablegoods,Medium,2023,1,January,1,384,391015.68,29,40,11,1,812
+Printer,Imaging,East,Reliablegoods,Medium,2023,1,January,1,262,120478.08,29,40,11,1,882
+Printer,Imaging,North,Fastsupply Co,Medium,2023,1,January,1,147,89990.46,8,11,3,1,888
+Mouse,Accessories,North,Techcorp India,Low,2023,1,January,1,354,38943.54,43,43,0,0,467
+Headphones,Audio,East,Techcorp India,Low,2023,1,January,1,47,69641.78,18,18,0,0,951
+Speaker,Audio,Central,Quickship Asia,Medium,2023,1,January,1,35,61011.3,43,43,0,0,453
+Camera,Imaging,North,Techcorp India,Low,2023,1,January,1,337,201953.99,4,8,4,1,940
+Laptop,Computing,East,Globalparts Ltd,Medium,2023,1,January,1,390,303872.4,9,9,0,0,793
+Laptop,Computing,East,Fastsupply Co,Medium,2023,1,January,1,232,255053.84,5,5,0,0,308
+Keyboard,Accessories,East,Quickship Asia,Medium,2023,1,January,1,319,211634.17,19,19,0,0,600
+Printer,Imaging,Central,Quickship Asia,Medium,2023,1,January,1,402,148301.82,35,35,0,0,936
+Tablet,Mobile,North,Techcorp India,Low,2023,1,January,1,210,170240.7,7,7,0,0,126
+Camera,Imaging,South,Quickship Asia,Medium,2023,1,January,1,199,59863.18,15,15,0,0,683
+Printer,Imaging,Central,Quickship Asia,Medium,2023,1,January,1,51,4792.47,19,19,0,0,147
+Phone,Mobile,East,Reliablegoods,Medium,2023,1,January,1,301,260184.4,36,48,12,1,433
+Speaker,Audio,North,Globalparts Ltd,Medium,2023,1,January,1,295,259133.9,24,24,0,0,529
+Speaker,Audio,North,Quickship Asia,Medium,2023,1,January,1,56,108528.56,15,15,0,0,362
+Printer,Imaging,East,Techcorp India,Low,2023,1,January,1,189,107446.5,16,16,0,0,864
+Monitor,Computing,South,Fastsupply Co,Medium,2023,1,January,1,97,43823.63,23,23,0,0,842
+Tablet,Mobile,East,Techcorp India,Low,2023,1,January,1,113,146309.01,38,38,0,0,419
+Headphones,Audio,West,Techcorp India,Low,2023,1,January,1,291,405869.34,24,24,0,0,274
+Speaker,Audio,North,Reliablegoods,Medium,2023,1,January,1,101,161562.63,43,43,0,0,97
+Camera,Imaging,South,Fastsupply Co,Medium,2023,1,January,1,432,553184.64,28,28,0,0,753
+Monitor,Computing,East,Reliablegoods,Medium,2023,1,January,1,401,671418.36,32,42,10,1,147
+Laptop,Computing,West,Globalparts Ltd,Medium,2023,1,January,1,311,335239.34,10,10,0,0,984
+Mouse,Accessories,North,Globalparts Ltd,Medium,2023,1,January,1,486,649558.44,29,29,0,0,787
+Laptop,Computing,East,Fastsupply Co,Medium,2023,1,January,1,350,81648.0,25,25,0,0,43
+Headphones,Audio,East,Techcorp India,Low,2023,1,January,1,358,119521.88,44,54,10,1,477
+Keyboard,Accessories,West,Techcorp India,Low,2023,1,January,1,86,85364.46,17,17,0,0,521
+Tablet,Mobile,East,Globalparts Ltd,Medium,2023,1,January,1,91,51095.59,24,24,0,0,342
+Monitor,Computing,Central,Fastsupply Co,Medium,2023,1,January,1,468,783137.16,43,43,0,0,610
+Speaker,Audio,West,Globalparts Ltd,Medium,2023,1,January,1,471,50863.29,7,17,10,1,685
+Speaker,Audio,West,Globalparts Ltd,Medium,2023,1,January,1,231,429343.53,6,6,0,0,256
+Headphones,Audio,North,Quickship Asia,Medium,2023,1,January,1,206,127083.46,40,40,0,0,482
+Camera,Imaging,West,Quickship Asia,Medium,2023,1,January,1,248,314622.72,8,16,8,1,936
+Monitor,Computing,Central,Fastsupply Co,Medium,2023,1,January,1,285,319627.5,22,22,0,0,237
+Camera,Imaging,Central,Reliablegoods,Medium,2023,1,January,1,366,309463.98,15,15,0,0,970
+Printer,Imaging,East,Quickship Asia,Medium,2023,1,January,1,480,614068.8,38,38,0,0,405
+Printer,Imaging,South,Globalparts Ltd,Medium,2023,1,January,1,243,68975.55,23,34,11,1,421
+Keyboard,Accessories,Central,Techcorp India,Low,2023,1,January,1,134,9488.54,18,25,7,1,343
+Printer,Imaging,West,Fastsupply Co,Medium,2023,1,January,1,363,319773.96,14,14,0,0,757
+Headphones,Audio,North,Techcorp India,Low,2023,1,January,1,132,226423.56,36,36,0,0,155
+Tablet,Mobile,Central,Quickship Asia,Medium,2023,1,January,1,122,219709.8,3,3,0,0,863
+Laptop,Computing,Central,Fastsupply Co,Medium,2023,1,January,1,381,663663.9,29,32,3,1,193
+Tablet,Mobile,South,Quickship Asia,Medium,2023,1,January,1,233,281505.94,25,38,13,1,891
+Laptop,Computing,Central,Quickship Asia,Medium,2023,1,January,1,197,235042.67,36,36,0,0,105
+Headphones,Audio,Central,Reliablegoods,Medium,2023,1,January,1,335,459070.6,37,37,0,0,294
+Speaker,Audio,Central,Globalparts Ltd,Medium,2023,1,January,1,233,384913.67,8,8,0,0,54
+Mouse,Accessories,South,Fastsupply Co,Medium,2023,1,January,1,371,284056.15,41,41,0,0,589
+Printer,Imaging,South,Quickship Asia,Medium,2023,1,January,1,374,196821.24,16,16,0,0,532
+Tablet,Mobile,West,Techcorp India,Low,2023,1,January,1,230,328136.4,35,35,0,0,549
+Monitor,Computing,North,Quickship Asia,Medium,2023,1,January,1,109,29398.39,42,44,2,1,287
+Printer,Imaging,North,Reliablegoods,Medium,2023,1,January,1,459,812296.89,39,39,0,0,372
+Monitor,Computing,Central,Reliablegoods,Medium,2023,1,January,1,244,437977.56,24,24,0,0,240
+Speaker,Audio,Central,Quickship Asia,Medium,2023,1,January,1,188,280078.64,42,55,13,1,210
+Keyboard,Accessories,South,Fastsupply Co,Medium,2023,1,January,1,58,99309.92,5,7,2,1,334
+Printer,Imaging,East,Techcorp India,Low,2023,1,January,1,103,189290.31,9,17,8,1,378
+Monitor,Computing,West,Reliablegoods,Medium,2023,1,January,1,174,51517.92,14,25,11,1,593
+Camera,Imaging,Central,Quickship Asia,Medium,2023,1,January,1,309,197111.1,40,40,0,0,412
+Speaker,Audio,West,Techcorp India,Low,2023,1,January,1,287,526125.53,11,11,0,0,689
+Laptop,Computing,Central,Quickship Asia,Medium,2023,1,January,1,484,809214.12,3,3,0,0,327
+Laptop,Computing,South,Fastsupply Co,Medium,2023,1,January,1,42,45327.24,12,15,3,1,777
+Keyboard,Accessories,South,Fastsupply Co,Medium,2023,1,January,1,296,297127.76,39,39,0,0,307
+Phone,Mobile,East,Globalparts Ltd,Medium,2023,1,January,1,229,226325.28,15,16,1,1,347
+Keyboard,Accessories,East,Fastsupply Co,Medium,2023,1,January,1,340,139138.2,28,28,0,0,449
+Printer,Imaging,South,Quickship Asia,Medium,2023,2,February,1,472,221150.88,9,9,0,0,112
+Mouse,Accessories,West,Quickship Asia,Medium,2023,2,February,1,21,21789.39,29,29,0,0,791
+Speaker,Audio,South,Fastsupply Co,Medium,2023,2,February,1,284,333836.32,8,8,0,0,397
+Mouse,Accessories,North,Globalparts Ltd,Medium,2023,2,February,1,360,408931.2,22,22,0,0,903
+Mouse,Accessories,North,Fastsupply Co,Medium,2023,2,February,1,210,232684.2,22,22,0,0,99
+Phone,Mobile,South,Reliablegoods,Medium,2023,2,February,1,368,313440.32,3,3,0,0,403
+Camera,Imaging,South,Reliablegoods,Medium,2023,2,February,1,266,160033.58,11,11,0,0,633
+Printer,Imaging,Central,Techcorp India,Low,2023,2,February,1,159,265940.22,41,41,0,0,185
+Tablet,Mobile,West,Fastsupply Co,Medium,2023,2,February,1,112,52095.68,7,7,0,0,419
+Keyboard,Accessories,North,Reliablegoods,Medium,2023,2,February,1,298,223145.38,39,39,0,0,210
+Mouse,Accessories,East,Reliablegoods,Medium,2023,2,February,1,209,75102.06,28,28,0,0,243
+Speaker,Audio,East,Fastsupply Co,Medium,2023,2,February,1,355,94231.2,29,29,0,0,649
+Mouse,Accessories,North,Globalparts Ltd,Medium,2023,2,February,1,356,260481.64,41,41,0,0,423
+Camera,Imaging,North,Quickship Asia,Medium,2023,2,February,1,127,26424.89,36,36,0,0,609
+Printer,Imaging,West,Reliablegoods,Medium,2023,2,February,1,88,137657.52,17,17,0,0,182
+Monitor,Computing,South,Quickship Asia,Medium,2023,2,February,1,278,326758.42,11,11,0,0,171
+Camera,Imaging,North,Fastsupply Co,Medium,2023,2,February,1,153,17871.93,8,21,13,1,496
+Printer,Imaging,Central,Techcorp India,Low,2023,2,February,1,48,78534.72,4,4,0,0,280
+Printer,Imaging,East,Fastsupply Co,Medium,2023,2,February,1,415,676537.15,10,10,0,0,897
+Laptop,Computing,North,Globalparts Ltd,Medium,2023,2,February,1,173,114614.23,13,13,0,0,484
+Camera,Imaging,North,Quickship Asia,Medium,2023,2,February,1,186,229168.74,28,28,0,0,762
+Tablet,Mobile,North,Techcorp India,Low,2023,2,February,1,19,26817.36,40,46,6,1,471
+Headphones,Audio,East,Globalparts Ltd,Medium,2023,2,February,1,277,482204.37,43,44,1,1,312
+Mouse,Accessories,North,Fastsupply Co,Medium,2023,2,February,1,118,175897.88,40,46,6,1,339
+Speaker,Audio,North,Reliablegoods,Medium,2023,2,February,1,98,184363.48,15,15,0,0,468
+Keyboard,Accessories,West,Quickship Asia,Medium,2023,2,February,1,342,574583.94,24,24,0,0,521
+Laptop,Computing,West,Techcorp India,Low,2023,2,February,1,66,32862.72,28,28,0,0,85
+Headphones,Audio,West,Globalparts Ltd,Medium,2023,2,February,1,148,26644.44,4,4,0,0,590
+Printer,Imaging,East,Fastsupply Co,Medium,2023,2,February,1,436,138264.32,44,44,0,0,298
+Phone,Mobile,Central,Globalparts Ltd,Medium,2023,2,February,1,445,91251.7,10,10,0,0,332
+Mouse,Accessories,South,Techcorp India,Low,2023,2,February,1,146,12532.64,21,21,0,0,385
+Headphones,Audio,East,Quickship Asia,Medium,2023,2,February,1,406,276794.56,17,17,0,0,771
+Phone,Mobile,East,Techcorp India,Low,2023,2,February,1,366,319865.7,5,17,12,1,264
+Mouse,Accessories,South,Reliablegoods,Medium,2023,2,February,1,158,181439.3,38,38,0,0,448
+Monitor,Computing,Central,Fastsupply Co,Medium,2023,2,February,1,88,162624.0,4,4,0,0,469
+Mouse,Accessories,Central,Fastsupply Co,Medium,2023,2,February,1,215,133297.85,37,47,10,1,335
+Monitor,Computing,North,Fastsupply Co,Medium,2023,2,February,1,120,39019.2,30,30,0,0,64
+Phone,Mobile,East,Techcorp India,Low,2023,2,February,1,196,154610.68,9,9,0,0,623
+Monitor,Computing,West,Fastsupply Co,Medium,2023,2,February,1,135,49689.45,32,32,0,0,12
+Mouse,Accessories,East,Reliablegoods,Medium,2023,2,February,1,266,27137.32,33,33,0,0,899
+Tablet,Mobile,Central,Globalparts Ltd,Medium,2023,2,February,1,45,18453.15,4,8,4,1,241
+Keyboard,Accessories,South,Techcorp India,Low,2023,2,February,1,361,611443.75,29,29,0,0,428
+Speaker,Audio,East,Reliablegoods,Medium,2023,2,February,1,77,107059.26,17,17,0,0,414
+Speaker,Audio,North,Fastsupply Co,Medium,2023,2,February,1,246,315696.72,4,14,10,1,40
+Monitor,Computing,West,Reliablegoods,Medium,2023,2,February,1,437,723733.18,12,12,0,0,377
+Speaker,Audio,East,Techcorp India,Low,2023,2,February,1,485,163702.05,7,7,0,0,505
+Tablet,Mobile,East,Globalparts Ltd,Medium,2023,2,February,1,364,258487.32,43,43,0,0,117
+Camera,Imaging,Central,Quickship Asia,Medium,2023,2,February,1,322,277299.96,13,13,0,0,621
+Camera,Imaging,South,Quickship Asia,Medium,2023,2,February,1,486,236934.72,33,33,0,0,296
+Printer,Imaging,West,Globalparts Ltd,Medium,2023,2,February,1,98,144056.08,37,37,0,0,306
+Monitor,Computing,North,Fastsupply Co,Medium,2023,2,February,1,199,375727.92,40,54,14,1,695
+Laptop,Computing,West,Techcorp India,Low,2023,2,February,1,418,135147.76,32,32,0,0,65
+Keyboard,Accessories,West,Quickship Asia,Medium,2023,2,February,1,391,222541.56,43,43,0,0,598
+Monitor,Computing,East,Quickship Asia,Medium,2023,2,February,1,369,710214.3,19,19,0,0,683
+Phone,Mobile,North,Fastsupply Co,Medium,2023,2,February,1,466,83702.92,38,38,0,0,160
+Tablet,Mobile,South,Fastsupply Co,Medium,2023,2,February,1,340,74300.2,21,21,0,0,328
+Speaker,Audio,West,Reliablegoods,Medium,2023,2,February,1,411,259821.87,14,14,0,0,563
+Headphones,Audio,Central,Reliablegoods,Medium,2023,2,February,1,306,392971.32,14,26,12,1,722
+Speaker,Audio,South,Quickship Asia,Medium,2023,2,February,1,141,63206.07,33,33,0,0,422
+Laptop,Computing,East,Globalparts Ltd,Medium,2023,2,February,1,139,94631.2,40,40,0,0,373
+Keyboard,Accessories,Central,Reliablegoods,Medium,2023,2,February,1,231,133007.49,31,39,8,1,786
+Phone,Mobile,South,Quickship Asia,Medium,2023,2,February,1,336,435116.64,23,23,0,0,875
+Camera,Imaging,North,Globalparts Ltd,Medium,2023,2,February,1,489,664115.79,8,8,0,0,455
+Phone,Mobile,North,Globalparts Ltd,Medium,2023,2,February,1,139,86209.19,9,9,0,0,513
+Monitor,Computing,East,Globalparts Ltd,Medium,2023,2,February,1,266,199970.82,44,44,0,0,951
+Keyboard,Accessories,West,Fastsupply Co,Medium,2023,2,February,1,429,340523.04,18,18,0,0,858
+Printer,Imaging,East,Globalparts Ltd,Medium,2023,2,February,1,150,263407.5,3,3,0,0,669
+Monitor,Computing,West,Globalparts Ltd,Medium,2023,2,February,1,334,559025.82,21,21,0,0,325
+Mouse,Accessories,Central,Globalparts Ltd,Medium,2023,2,February,1,255,146535.75,24,28,4,1,350
+Tablet,Mobile,East,Reliablegoods,Medium,2023,2,February,1,35,27319.95,27,30,3,1,22
+Keyboard,Accessories,West,Quickship Asia,Medium,2023,2,February,1,245,221004.7,10,10,0,0,600
+Printer,Imaging,East,Globalparts Ltd,Medium,2023,2,February,1,212,288381.48,12,12,0,0,278
+Mouse,Accessories,West,Fastsupply Co,Medium,2023,2,February,1,388,572234.04,24,32,8,1,286
+Laptop,Computing,North,Techcorp India,Low,2023,3,March,1,322,192858.68,33,43,10,1,83
+Keyboard,Accessories,East,Quickship Asia,Medium,2023,3,March,1,213,93259.92,22,22,0,0,252
+Headphones,Audio,North,Globalparts Ltd,Medium,2023,3,March,1,73,109376.63,37,37,0,0,495
+Speaker,Audio,South,Quickship Asia,Medium,2023,3,March,1,127,30727.65,35,40,5,1,106
+Keyboard,Accessories,West,Globalparts Ltd,Medium,2023,3,March,1,166,277815.94,32,37,5,1,864
+Phone,Mobile,South,Reliablegoods,Medium,2023,3,March,1,493,879595.81,42,42,0,0,294
+Speaker,Audio,North,Fastsupply Co,Medium,2023,3,March,1,478,715360.46,39,39,0,0,852
+Headphones,Audio,North,Globalparts Ltd,Medium,2023,3,March,1,313,486042.05,14,14,0,0,865
+Printer,Imaging,West,Quickship Asia,Medium,2023,3,March,1,334,174287.88,17,17,0,0,472
+Phone,Mobile,West,Quickship Asia,Medium,2023,3,March,1,64,32309.76,12,12,0,0,753
+Monitor,Computing,West,Reliablegoods,Medium,2023,3,March,1,137,77954.37,39,39,0,0,953
+Speaker,Audio,South,Reliablegoods,Medium,2023,3,March,1,76,94483.96,34,34,0,0,372
+Speaker,Audio,West,Globalparts Ltd,Medium,2023,3,March,1,90,174657.6,4,4,0,0,102
+Laptop,Computing,Central,Globalparts Ltd,Medium,2023,3,March,1,137,158332.27,41,41,0,0,540
+Printer,Imaging,South,Quickship Asia,Medium,2023,3,March,1,326,491754.7,23,23,0,0,803
+Camera,Imaging,South,Quickship Asia,Medium,2023,3,March,1,485,863232.1,20,20,0,0,330
+Printer,Imaging,Central,Globalparts Ltd,Medium,2023,3,March,1,262,447878.52,9,9,0,0,243
+Laptop,Computing,Central,Techcorp India,Low,2023,3,March,1,55,49636.95,41,41,0,0,697
+Tablet,Mobile,West,Quickship Asia,Medium,2023,3,March,1,406,62296.64,37,44,7,1,594
+Tablet,Mobile,West,Reliablegoods,Medium,2023,3,March,1,176,245143.36,21,21,0,0,437
+Phone,Mobile,West,Techcorp India,Low,2023,3,March,1,311,586922.31,40,40,0,0,200
+Camera,Imaging,Central,Quickship Asia,Medium,2023,3,March,1,414,487046.16,24,24,0,0,313
+Headphones,Audio,East,Globalparts Ltd,Medium,2023,3,March,1,109,182548.84,33,33,0,0,773
+Mouse,Accessories,East,Globalparts Ltd,Medium,2023,3,March,1,298,475965.6,32,32,0,0,268
+Speaker,Audio,North,Quickship Asia,Medium,2023,3,March,1,66,126995.88,27,27,0,0,815
+Keyboard,Accessories,East,Globalparts Ltd,Medium,2023,3,March,1,394,21090.82,20,28,8,1,304
+Phone,Mobile,South,Techcorp India,Low,2023,3,March,1,165,80251.05,9,9,0,0,415
+Keyboard,Accessories,North,Quickship Asia,Medium,2023,3,March,1,399,214346.79,15,19,4,1,50
+Keyboard,Accessories,South,Reliablegoods,Medium,2023,3,March,1,186,12205.32,23,30,7,1,445
+Mouse,Accessories,North,Reliablegoods,Medium,2023,3,March,1,213,282523.2,14,24,10,1,472
+Phone,Mobile,North,Fastsupply Co,Medium,2023,3,March,1,29,30304.42,37,37,0,0,581
+Monitor,Computing,South,Fastsupply Co,Medium,2023,3,March,1,370,100436.5,43,43,0,0,207
+Laptop,Computing,Central,Quickship Asia,Medium,2023,3,March,1,269,179210.49,13,13,0,0,108
+Monitor,Computing,Central,Techcorp India,Low,2023,3,March,1,17,2813.33,15,15,0,0,833
+Monitor,Computing,North,Globalparts Ltd,Medium,2023,3,March,1,159,295226.43,22,22,0,0,43
+Speaker,Audio,Central,Globalparts Ltd,Medium,2023,3,March,1,486,870226.74,24,24,0,0,852
+Laptop,Computing,North,Techcorp India,Low,2023,3,March,1,410,73180.9,39,39,0,0,36
+Tablet,Mobile,North,Quickship Asia,Medium,2023,3,March,1,327,345661.89,42,44,2,1,251
+Keyboard,Accessories,West,Reliablegoods,Medium,2023,3,March,1,435,135515.55,25,39,14,1,701
+Phone,Mobile,South,Fastsupply Co,Medium,2023,3,March,1,72,77135.76,10,10,0,0,934
+Headphones,Audio,South,Fastsupply Co,Medium,2023,3,March,1,120,97714.8,43,43,0,0,168
+Speaker,Audio,West,Quickship Asia,Medium,2023,3,March,1,391,531322.08,3,3,0,0,183
+Keyboard,Accessories,East,Techcorp India,Low,2023,3,March,1,358,295554.06,21,31,10,1,261
+Headphones,Audio,South,Reliablegoods,Medium,2023,3,March,1,174,262045.74,5,9,4,1,7
+Tablet,Mobile,South,Reliablegoods,Medium,2023,3,March,1,450,425713.5,19,19,0,0,741
+Speaker,Audio,Central,Reliablegoods,Medium,2023,3,March,1,469,75105.66,18,18,0,0,683
+Headphones,Audio,North,Reliablegoods,Medium,2023,3,March,1,240,75266.4,41,41,0,0,157
+Headphones,Audio,East,Globalparts Ltd,Medium,2023,3,March,1,251,179068.42,36,36,0,0,61
+Speaker,Audio,East,Fastsupply Co,Medium,2023,3,March,1,45,80159.85,23,33,10,1,238
+Camera,Imaging,Central,Techcorp India,Low,2023,3,March,1,81,12244.77,43,43,0,0,866
+Camera,Imaging,West,Quickship Asia,Medium,2023,3,March,1,296,452492.24,19,31,12,1,360
+Camera,Imaging,East,Quickship Asia,Medium,2023,3,March,1,52,70827.64,3,3,0,0,962
+Laptop,Computing,East,Quickship Asia,Medium,2023,3,March,1,292,117772.36,12,19,7,1,364
+Laptop,Computing,West,Globalparts Ltd,Medium,2023,3,March,1,445,755084.9,37,37,0,0,716
+Speaker,Audio,West,Fastsupply Co,Medium,2023,3,March,1,439,76623.06,35,35,0,0,161
+Phone,Mobile,East,Techcorp India,Low,2023,3,March,1,161,144135.25,15,15,0,0,54
+Monitor,Computing,Central,Quickship Asia,Medium,2023,3,March,1,398,488763.9,3,3,0,0,837
+Headphones,Audio,East,Fastsupply Co,Medium,2023,3,March,1,136,134574.72,11,11,0,0,979
+Monitor,Computing,Central,Quickship Asia,Medium,2023,3,March,1,208,183406.08,10,10,0,0,835
+Printer,Imaging,North,Techcorp India,Low,2023,3,March,1,240,460864.8,6,11,5,1,187
+Printer,Imaging,North,Quickship Asia,Medium,2023,3,March,1,431,614623.24,20,20,0,0,369
+Printer,Imaging,Central,Quickship Asia,Medium,2023,3,March,1,63,55430.55,34,34,0,0,338
+Camera,Imaging,Central,Globalparts Ltd,Medium,2023,3,March,1,221,34617.44,39,46,7,1,660
+Mouse,Accessories,North,Techcorp India,Low,2023,3,March,1,114,135394.38,29,29,0,0,953
+Keyboard,Accessories,North,Quickship Asia,Medium,2023,3,March,1,499,660631.09,15,15,0,0,356
+Phone,Mobile,East,Reliablegoods,Medium,2023,3,March,1,262,163283.64,39,39,0,0,392
+Printer,Imaging,Central,Fastsupply Co,Medium,2023,3,March,1,18,16408.98,5,5,0,0,246
+Phone,Mobile,North,Reliablegoods,Medium,2023,3,March,1,326,454743.92,39,39,0,0,720
+Printer,Imaging,West,Techcorp India,Low,2023,3,March,1,224,20160.0,18,18,0,0,925
+Monitor,Computing,West,Reliablegoods,Medium,2023,4,April,2,490,963452.7,18,18,0,0,206
+Headphones,Audio,South,Fastsupply Co,Medium,2023,4,April,2,43,70702.75,25,25,0,0,401
+Tablet,Mobile,East,Quickship Asia,Medium,2023,4,April,2,200,83470.0,40,45,5,1,714
+Tablet,Mobile,South,Techcorp India,Low,2023,4,April,2,173,177425.34,43,46,3,1,159
+Monitor,Computing,South,Quickship Asia,Medium,2023,4,April,2,372,312130.32,23,33,10,1,675
+Camera,Imaging,East,Fastsupply Co,Medium,2023,4,April,2,124,239308.84,41,41,0,0,130
+Laptop,Computing,West,Quickship Asia,Medium,2023,4,April,2,194,287915.4,38,38,0,0,974
+Keyboard,Accessories,South,Reliablegoods,Medium,2023,4,April,2,444,404119.92,21,35,14,1,867
+Speaker,Audio,East,Quickship Asia,Medium,2023,4,April,2,420,810831.0,23,32,9,1,504
+Laptop,Computing,Central,Quickship Asia,Medium,2023,4,April,2,450,381217.5,25,25,0,0,929
+Mouse,Accessories,East,Globalparts Ltd,Medium,2023,4,April,2,240,171532.8,29,29,0,0,102
+Tablet,Mobile,East,Quickship Asia,Medium,2023,4,April,2,353,360232.97,10,21,11,1,661
+Mouse,Accessories,East,Globalparts Ltd,Medium,2023,4,April,2,20,6754.6,40,50,10,1,709
+Speaker,Audio,South,Fastsupply Co,Medium,2023,4,April,2,141,217003.23,7,7,0,0,20
+Camera,Imaging,Central,Reliablegoods,Medium,2023,4,April,2,334,315960.66,26,26,0,0,757
+Laptop,Computing,West,Techcorp India,Low,2023,4,April,2,342,662566.86,15,17,2,1,690
+Speaker,Audio,South,Techcorp India,Low,2023,4,April,2,118,197398.66,23,23,0,0,92
+Monitor,Computing,North,Globalparts Ltd,Medium,2023,4,April,2,211,324612.95,11,11,0,0,729
+Camera,Imaging,Central,Quickship Asia,Medium,2023,4,April,2,200,130794.0,38,38,0,0,286
+Headphones,Audio,Central,Fastsupply Co,Medium,2023,4,April,2,206,42471.02,41,41,0,0,213
+Camera,Imaging,East,Reliablegoods,Medium,2023,4,April,2,116,68536.28,19,19,0,0,676
+Camera,Imaging,Central,Globalparts Ltd,Medium,2023,4,April,2,333,53173.44,34,34,0,0,607
+Headphones,Audio,South,Fastsupply Co,Medium,2023,4,April,2,113,116230.67,28,34,6,1,839
+Laptop,Computing,South,Reliablegoods,Medium,2023,4,April,2,490,156613.8,26,26,0,0,701
+Headphones,Audio,Central,Globalparts Ltd,Medium,2023,4,April,2,320,211964.8,28,28,0,0,925
+Laptop,Computing,South,Techcorp India,Low,2023,4,April,2,397,184533.54,25,25,0,0,849
+Printer,Imaging,North,Techcorp India,Low,2023,4,April,2,101,93272.49,7,7,0,0,972
+Laptop,Computing,West,Fastsupply Co,Medium,2023,4,April,2,361,650771.09,17,29,12,1,331
+Camera,Imaging,West,Reliablegoods,Medium,2023,4,April,2,72,113907.6,27,29,2,1,425
+Monitor,Computing,North,Reliablegoods,Medium,2023,4,April,2,367,427441.23,25,25,0,0,202
+Camera,Imaging,Central,Reliablegoods,Medium,2023,4,April,2,83,29743.05,23,24,1,1,319
+Mouse,Accessories,West,Quickship Asia,Medium,2023,4,April,2,476,400882.44,37,37,0,0,274
+Monitor,Computing,Central,Reliablegoods,Medium,2023,4,April,2,354,400214.7,26,26,0,0,424
+Tablet,Mobile,West,Fastsupply Co,Medium,2023,4,April,2,359,205800.34,27,27,0,0,48
+Speaker,Audio,Central,Techcorp India,Low,2023,4,April,2,486,396162.9,37,37,0,0,624
+Mouse,Accessories,North,Globalparts Ltd,Medium,2023,4,April,2,40,23434.4,42,42,0,0,518
+Phone,Mobile,South,Quickship Asia,Medium,2023,4,April,2,436,38381.08,36,36,0,0,539
+Phone,Mobile,South,Quickship Asia,Medium,2023,4,April,2,279,205118.01,20,21,1,1,381
+Mouse,Accessories,East,Reliablegoods,Medium,2023,4,April,2,472,612835.36,17,17,0,0,121
+Keyboard,Accessories,Central,Fastsupply Co,Medium,2023,4,April,2,178,132633.14,44,47,3,1,813
+Tablet,Mobile,East,Quickship Asia,Medium,2023,4,April,2,230,389302.6,5,5,0,0,134
+Headphones,Audio,South,Fastsupply Co,Medium,2023,4,April,2,319,628615.02,9,9,0,0,451
+Phone,Mobile,North,Reliablegoods,Medium,2023,4,April,2,304,126655.52,9,20,11,1,673
+Tablet,Mobile,South,Globalparts Ltd,Medium,2023,4,April,2,420,216270.6,12,12,0,0,659
+Headphones,Audio,North,Techcorp India,Low,2023,4,April,2,144,164862.72,12,16,4,1,771
+Headphones,Audio,South,Reliablegoods,Medium,2023,4,April,2,53,13980.87,26,26,0,0,499
+Mouse,Accessories,East,Globalparts Ltd,Medium,2023,4,April,2,17,21430.2,42,42,0,0,82
+Mouse,Accessories,West,Globalparts Ltd,Medium,2023,4,April,2,392,772494.8,21,22,1,1,188
+Speaker,Audio,Central,Fastsupply Co,Medium,2023,4,April,2,431,224602.72,17,17,0,0,706
+Printer,Imaging,North,Fastsupply Co,Medium,2023,4,April,2,224,296428.16,13,20,7,1,287
+Speaker,Audio,West,Globalparts Ltd,Medium,2023,4,April,2,367,336638.09,5,5,0,0,96
+Monitor,Computing,East,Techcorp India,Low,2023,4,April,2,57,49969.62,43,50,7,1,37
+Printer,Imaging,Central,Reliablegoods,Medium,2023,4,April,2,418,739007.28,43,53,10,1,328
+Headphones,Audio,South,Fastsupply Co,Medium,2023,4,April,2,148,266130.64,27,35,8,1,482
+Keyboard,Accessories,North,Reliablegoods,Medium,2023,4,April,2,115,117247.1,10,10,0,0,43
+Laptop,Computing,Central,Reliablegoods,Medium,2023,4,April,2,454,826388.96,41,41,0,0,551
+Camera,Imaging,East,Reliablegoods,Medium,2023,4,April,2,305,558433.65,25,25,0,0,46
+Tablet,Mobile,East,Quickship Asia,Medium,2023,4,April,2,206,382947.82,38,41,3,1,679
+Keyboard,Accessories,Central,Globalparts Ltd,Medium,2023,4,April,2,229,151078.17,14,14,0,0,231
+Printer,Imaging,West,Fastsupply Co,Medium,2023,4,April,2,474,843501.96,41,47,6,1,234
+Mouse,Accessories,North,Techcorp India,Low,2023,4,April,2,25,34720.5,36,36,0,0,173
+Monitor,Computing,South,Globalparts Ltd,Medium,2023,4,April,2,97,45278.63,35,35,0,0,816
+Laptop,Computing,West,Quickship Asia,Medium,2023,4,April,2,453,805624.26,29,29,0,0,694
+Keyboard,Accessories,South,Reliablegoods,Medium,2023,4,April,2,290,242210.9,34,34,0,0,906
+Headphones,Audio,Central,Fastsupply Co,Medium,2023,4,April,2,123,72940.23,3,3,0,0,483
+Tablet,Mobile,Central,Quickship Asia,Medium,2023,4,April,2,323,241726.74,33,33,0,0,55
+Mouse,Accessories,East,Globalparts Ltd,Medium,2023,4,April,2,23,43568.44,17,17,0,0,958
+Keyboard,Accessories,East,Quickship Asia,Medium,2023,4,April,2,343,177722.02,41,41,0,0,303
+Phone,Mobile,Central,Techcorp India,Low,2023,4,April,2,336,459711.84,15,18,3,1,598
+Laptop,Computing,West,Globalparts Ltd,Medium,2023,4,April,2,276,159861.96,8,8,0,0,968
+Keyboard,Accessories,East,Techcorp India,Low,2023,4,April,2,61,99414.14,20,20,0,0,556
+Monitor,Computing,East,Quickship Asia,Medium,2023,4,April,2,249,260800.11,15,15,0,0,168
+Speaker,Audio,South,Globalparts Ltd,Medium,2023,4,April,2,137,115103.29,16,22,6,1,799
+Camera,Imaging,East,Quickship Asia,Medium,2023,4,April,2,333,29327.31,30,31,1,1,663
+Keyboard,Accessories,North,Techcorp India,Low,2023,4,April,2,151,123798.86,41,41,0,0,532
+Laptop,Computing,North,Globalparts Ltd,Medium,2023,4,April,2,11,3131.26,23,27,4,1,228
+Mouse,Accessories,South,Techcorp India,Low,2023,4,April,2,107,32178.11,26,26,0,0,753
+Laptop,Computing,East,Fastsupply Co,Medium,2023,4,April,2,289,34853.4,38,38,0,0,602
+Laptop,Computing,West,Globalparts Ltd,Medium,2023,4,April,2,249,447403.2,38,38,0,0,614
+Speaker,Audio,West,Reliablegoods,Medium,2023,5,May,2,296,72511.12,14,14,0,0,334
+Printer,Imaging,West,Techcorp India,Low,2023,5,May,2,384,650465.28,4,4,0,0,863
+Laptop,Computing,Central,Techcorp India,Low,2023,5,May,2,437,258791.4,11,11,0,0,117
+Keyboard,Accessories,North,Globalparts Ltd,Medium,2023,5,May,2,244,389219.04,42,55,13,1,982
+Headphones,Audio,Central,Fastsupply Co,Medium,2023,5,May,2,455,602802.2,26,26,0,0,401
+Tablet,Mobile,North,Reliablegoods,Medium,2023,5,May,2,190,147650.9,28,28,0,0,573
+Phone,Mobile,South,Quickship Asia,Medium,2023,5,May,2,376,161443.12,31,31,0,0,404
+Speaker,Audio,North,Techcorp India,Low,2023,5,May,2,419,312134.05,41,41,0,0,862
+Headphones,Audio,Central,Reliablegoods,Medium,2023,5,May,2,455,44471.7,16,17,1,1,278
+Mouse,Accessories,East,Quickship Asia,Medium,2023,5,May,2,123,43101.66,21,22,1,1,175
+Phone,Mobile,South,Globalparts Ltd,Medium,2023,5,May,2,137,95834.24,43,43,0,0,921
+Tablet,Mobile,East,Reliablegoods,Medium,2023,5,May,2,103,84382.75,33,33,0,0,962
+Headphones,Audio,North,Fastsupply Co,Medium,2023,5,May,2,368,106867.2,13,13,0,0,809
+Speaker,Audio,South,Quickship Asia,Medium,2023,5,May,2,437,572133.51,26,26,0,0,908
+Headphones,Audio,West,Techcorp India,Low,2023,5,May,2,304,236034.72,11,16,5,1,284
+Headphones,Audio,South,Reliablegoods,Medium,2023,5,May,2,66,17593.62,41,41,0,0,566
+Printer,Imaging,North,Quickship Asia,Medium,2023,5,May,2,31,9298.76,18,18,0,0,306
+Headphones,Audio,West,Reliablegoods,Medium,2023,5,May,2,55,92082.1,41,41,0,0,527
+Printer,Imaging,South,Fastsupply Co,Medium,2023,5,May,2,378,341269.74,41,41,0,0,673
+Headphones,Audio,West,Fastsupply Co,Medium,2023,5,May,2,47,91191.75,11,16,5,1,431
+Printer,Imaging,Central,Fastsupply Co,Medium,2023,5,May,2,13,14196.65,37,44,7,1,194
+Speaker,Audio,South,Reliablegoods,Medium,2023,5,May,2,335,365273.95,10,10,0,0,600
+Monitor,Computing,South,Quickship Asia,Medium,2023,5,May,2,476,937558.16,31,31,0,0,902
+Monitor,Computing,East,Techcorp India,Low,2023,5,May,2,247,162886.62,39,39,0,0,211
+Camera,Imaging,East,Reliablegoods,Medium,2023,5,May,2,254,214652.86,36,36,0,0,172
+Tablet,Mobile,West,Reliablegoods,Medium,2023,5,May,2,122,52516.12,12,16,4,1,580
+Tablet,Mobile,South,Techcorp India,Low,2023,5,May,2,234,425096.1,40,40,0,0,284
+Mouse,Accessories,Central,Quickship Asia,Medium,2023,5,May,2,403,797935.97,25,25,0,0,590
+Monitor,Computing,Central,Reliablegoods,Medium,2023,5,May,2,426,682690.56,31,31,0,0,649
+Speaker,Audio,Central,Techcorp India,Low,2023,5,May,2,111,180877.83,8,8,0,0,219
+Phone,Mobile,South,Quickship Asia,Medium,2023,5,May,2,277,490087.79,32,32,0,0,31
+Printer,Imaging,North,Reliablegoods,Medium,2023,5,May,2,260,102273.6,42,45,3,1,300
+Monitor,Computing,South,Reliablegoods,Medium,2023,5,May,2,92,145955.24,9,9,0,0,467
+Speaker,Audio,South,Quickship Asia,Medium,2023,5,May,2,166,259648.9,10,10,0,0,252
+Printer,Imaging,South,Techcorp India,Low,2023,5,May,2,324,350989.2,43,48,5,1,864
+Camera,Imaging,West,Globalparts Ltd,Medium,2023,5,May,2,163,52425.69,13,25,12,1,229
+Mouse,Accessories,West,Globalparts Ltd,Medium,2023,5,May,2,491,784411.78,7,7,0,0,657
+Headphones,Audio,Central,Techcorp India,Low,2023,5,May,2,304,388995.36,28,41,13,1,119
+Headphones,Audio,North,Reliablegoods,Medium,2023,5,May,2,274,102388.32,10,24,14,1,805
+Laptop,Computing,Central,Fastsupply Co,Medium,2023,5,May,2,349,413774.4,38,38,0,0,809
+Monitor,Computing,North,Fastsupply Co,Medium,2023,5,May,2,451,126636.29,32,32,0,0,204
+Keyboard,Accessories,West,Fastsupply Co,Medium,2023,5,May,2,75,137388.0,22,34,12,1,190
+Mouse,Accessories,South,Quickship Asia,Medium,2023,5,May,2,296,91028.88,28,28,0,0,960
+Printer,Imaging,Central,Quickship Asia,Medium,2023,5,May,2,347,520031.55,32,32,0,0,94
+Phone,Mobile,East,Reliablegoods,Medium,2023,5,May,2,209,131922.89,11,22,11,1,397
+Tablet,Mobile,North,Reliablegoods,Medium,2023,5,May,2,139,62437.41,26,26,0,0,759
+Printer,Imaging,West,Quickship Asia,Medium,2023,5,May,2,200,282326.0,15,15,0,0,598
+Speaker,Audio,Central,Techcorp India,Low,2023,5,May,2,164,206134.88,30,30,0,0,863
+Monitor,Computing,East,Quickship Asia,Medium,2023,5,May,2,481,746872.75,27,41,14,1,704
+Monitor,Computing,East,Globalparts Ltd,Medium,2023,5,May,2,465,543385.05,7,8,1,1,467
+Headphones,Audio,North,Techcorp India,Low,2023,5,May,2,402,655706.22,6,6,0,0,35
+Tablet,Mobile,East,Fastsupply Co,Medium,2023,5,May,2,61,93332.44,14,20,6,1,841
+Mouse,Accessories,Central,Globalparts Ltd,Medium,2023,5,May,2,413,538308.33,12,12,0,0,317
+Mouse,Accessories,East,Techcorp India,Low,2023,5,May,2,360,301712.4,36,36,0,0,662
+Laptop,Computing,North,Techcorp India,Low,2023,5,May,2,306,249013.62,3,3,0,0,700
+Laptop,Computing,West,Quickship Asia,Medium,2023,5,May,2,366,135028.38,38,38,0,0,628
+Speaker,Audio,East,Globalparts Ltd,Medium,2023,5,May,2,185,231564.5,41,41,0,0,959
+Monitor,Computing,North,Quickship Asia,Medium,2023,5,May,2,432,130057.92,31,31,0,0,848
+Mouse,Accessories,North,Fastsupply Co,Medium,2023,5,May,2,89,98337.88,20,30,10,1,152
+Printer,Imaging,North,Techcorp India,Low,2023,5,May,2,437,857922.77,8,8,0,0,219
+Tablet,Mobile,South,Techcorp India,Low,2023,5,May,2,344,472284.48,42,42,0,0,172
+Monitor,Computing,South,Globalparts Ltd,Medium,2023,5,May,2,33,41272.11,18,18,0,0,613
+Mouse,Accessories,Central,Fastsupply Co,Medium,2023,5,May,2,155,202028.55,39,39,0,0,943
+Laptop,Computing,South,Techcorp India,Low,2023,5,May,2,475,65117.75,6,6,0,0,352
+Tablet,Mobile,South,Globalparts Ltd,Medium,2023,5,May,2,124,70038.92,38,38,0,0,542
+Printer,Imaging,North,Reliablegoods,Medium,2023,5,May,2,195,198825.9,38,43,5,1,620
+Laptop,Computing,South,Techcorp India,Low,2023,5,May,2,453,428080.47,30,30,0,0,332
+Tablet,Mobile,North,Quickship Asia,Medium,2023,5,May,2,215,412320.55,19,28,9,1,943
+Camera,Imaging,North,Techcorp India,Low,2023,5,May,2,342,287102.16,28,28,0,0,727
+Printer,Imaging,South,Fastsupply Co,Medium,2023,5,May,2,181,114113.26,34,34,0,0,271
+Phone,Mobile,South,Fastsupply Co,Medium,2023,5,May,2,258,210380.94,12,12,0,0,317
+Mouse,Accessories,West,Fastsupply Co,Medium,2023,5,May,2,368,254328.48,26,26,0,0,813
+Keyboard,Accessories,South,Techcorp India,Low,2023,5,May,2,201,109311.84,39,39,0,0,923
+Laptop,Computing,East,Quickship Asia,Medium,2023,5,May,2,239,396364.77,38,38,0,0,575
+Monitor,Computing,South,Fastsupply Co,Medium,2023,5,May,2,46,42158.54,31,31,0,0,817
+Monitor,Computing,West,Reliablegoods,Medium,2023,5,May,2,354,263291.04,44,44,0,0,983
+Monitor,Computing,East,Reliablegoods,Medium,2023,5,May,2,368,446052.8,29,29,0,0,958
+Mouse,Accessories,North,Globalparts Ltd,Medium,2023,5,May,2,469,84077.63,3,3,0,0,703
+Phone,Mobile,South,Quickship Asia,Medium,2023,5,May,2,59,30528.37,33,33,0,0,849
+Camera,Imaging,West,Techcorp India,Low,2023,5,May,2,187,55604.45,40,46,6,1,489
+Monitor,Computing,North,Techcorp India,Low,2023,5,May,2,289,85489.09,13,17,4,1,324
+Speaker,Audio,East,Techcorp India,Low,2023,5,May,2,163,111175.78,10,10,0,0,532
+Keyboard,Accessories,Central,Globalparts Ltd,Medium,2023,5,May,2,67,45142.59,36,36,0,0,231
+Mouse,Accessories,East,Globalparts Ltd,Medium,2023,5,May,2,153,22088.61,22,27,5,1,258
+Monitor,Computing,West,Fastsupply Co,Medium,2023,5,May,2,207,24363.9,39,45,6,1,842
+Speaker,Audio,North,Globalparts Ltd,Medium,2023,5,May,2,167,115914.7,30,30,0,0,838
+Camera,Imaging,West,Globalparts Ltd,Medium,2023,5,May,2,442,237575.0,41,45,4,1,785
+Laptop,Computing,South,Techcorp India,Low,2023,5,May,2,76,60551.48,19,19,0,0,688
+Printer,Imaging,South,Quickship Asia,Medium,2023,5,May,2,74,122802.26,14,14,0,0,896
+Tablet,Mobile,South,Reliablegoods,Medium,2023,5,May,2,237,86957.67,4,4,0,0,52
+Keyboard,Accessories,South,Reliablegoods,Medium,2023,5,May,2,310,537515.2,40,40,0,0,886
+Laptop,Computing,West,Techcorp India,Low,2023,6,June,2,85,79214.9,4,15,11,1,71
+Headphones,Audio,Central,Quickship Asia,Medium,2023,6,June,2,481,37662.3,38,38,0,0,993
+Tablet,Mobile,Central,Reliablegoods,Medium,2023,6,June,2,217,308858.27,6,15,9,1,232
+Camera,Imaging,West,Techcorp India,Low,2023,6,June,2,298,149315.88,30,30,0,0,347
+Phone,Mobile,North,Reliablegoods,Medium,2023,6,June,2,51,68122.23,30,30,0,0,42
+Monitor,Computing,East,Fastsupply Co,Medium,2023,6,June,2,410,569649.9,39,39,0,0,171
+Mouse,Accessories,West,Techcorp India,Low,2023,6,June,2,464,486731.36,11,11,0,0,695
+Camera,Imaging,North,Globalparts Ltd,Medium,2023,6,June,2,253,458835.74,40,40,0,0,302
+Keyboard,Accessories,East,Reliablegoods,Medium,2023,6,June,2,147,67678.8,7,7,0,0,49
+Phone,Mobile,North,Techcorp India,Low,2023,6,June,2,222,309035.1,40,40,0,0,235
+Tablet,Mobile,North,Fastsupply Co,Medium,2023,6,June,2,395,119803.5,15,15,0,0,384
+Monitor,Computing,Central,Reliablegoods,Medium,2023,6,June,2,338,242001.24,38,38,0,0,104
+Printer,Imaging,Central,Techcorp India,Low,2023,6,June,2,479,520989.14,40,40,0,0,508
+Headphones,Audio,North,Techcorp India,Low,2023,6,June,2,468,531428.04,29,29,0,0,591
+Tablet,Mobile,South,Globalparts Ltd,Medium,2023,6,June,2,448,133848.96,44,44,0,0,624
+Monitor,Computing,West,Techcorp India,Low,2023,6,June,2,177,270967.53,41,41,0,0,642
+Mouse,Accessories,West,Quickship Asia,Medium,2023,6,June,2,455,619446.1,16,16,0,0,360
+Keyboard,Accessories,South,Techcorp India,Low,2023,6,June,2,411,789617.31,21,21,0,0,214
+Speaker,Audio,East,Reliablegoods,Medium,2023,6,June,2,165,141444.6,31,37,6,1,84
+Monitor,Computing,South,Fastsupply Co,Medium,2023,6,June,2,22,40176.62,28,28,0,0,449
+Monitor,Computing,Central,Reliablegoods,Medium,2023,6,June,2,216,160835.76,44,44,0,0,258
+Phone,Mobile,West,Fastsupply Co,Medium,2023,6,June,2,19,24862.07,43,43,0,0,500
+Tablet,Mobile,North,Fastsupply Co,Medium,2023,6,June,2,411,470167.56,14,25,11,1,30
+Laptop,Computing,Central,Globalparts Ltd,Medium,2023,6,June,2,378,560657.16,8,12,4,1,972
+Printer,Imaging,West,Reliablegoods,Medium,2023,6,June,2,97,83938.95,28,28,0,0,131
+Keyboard,Accessories,West,Fastsupply Co,Medium,2023,6,June,2,103,59250.75,21,21,0,0,841
+Monitor,Computing,North,Globalparts Ltd,Medium,2023,6,June,2,82,20814.06,7,13,6,1,758
+Tablet,Mobile,Central,Reliablegoods,Medium,2023,6,June,2,444,113628.48,18,20,2,1,990
+Monitor,Computing,North,Techcorp India,Low,2023,6,June,2,181,160409.44,39,39,0,0,866
+Speaker,Audio,North,Quickship Asia,Medium,2023,6,June,2,472,487873.36,30,30,0,0,296
+Headphones,Audio,South,Quickship Asia,Medium,2023,6,June,2,255,158520.75,6,18,12,1,1
+Mouse,Accessories,North,Fastsupply Co,Medium,2023,6,June,2,391,416164.76,34,34,0,0,711
+Headphones,Audio,South,Globalparts Ltd,Medium,2023,6,June,2,348,650746.08,18,18,0,0,304
+Monitor,Computing,West,Techcorp India,Low,2023,6,June,2,333,457661.88,10,20,10,1,784
+Mouse,Accessories,Central,Techcorp India,Low,2023,6,June,2,127,29886.91,22,22,0,0,878
+Tablet,Mobile,Central,Fastsupply Co,Medium,2023,6,June,2,339,557000.73,9,9,0,0,977
+Tablet,Mobile,North,Globalparts Ltd,Medium,2023,6,June,2,80,108875.2,5,5,0,0,191
+Laptop,Computing,Central,Globalparts Ltd,Medium,2023,6,June,2,288,40976.64,11,11,0,0,562
+Keyboard,Accessories,South,Reliablegoods,Medium,2023,6,June,2,103,155427.0,42,42,0,0,675
+Printer,Imaging,Central,Fastsupply Co,Medium,2023,6,June,2,67,38013.12,33,33,0,0,897
+Tablet,Mobile,Central,Fastsupply Co,Medium,2023,6,June,2,302,323266.84,32,32,0,0,943
+Headphones,Audio,West,Techcorp India,Low,2023,6,June,2,440,571854.8,3,3,0,0,532
+Printer,Imaging,Central,Techcorp India,Low,2023,6,June,2,466,688351.9,18,19,1,1,67
+Tablet,Mobile,Central,Globalparts Ltd,Medium,2023,6,June,2,462,547109.64,8,8,0,0,454
+Mouse,Accessories,South,Reliablegoods,Medium,2023,6,June,2,398,49045.54,4,4,0,0,991
+Mouse,Accessories,South,Quickship Asia,Medium,2023,6,June,2,209,287276.77,19,27,8,1,259
+Tablet,Mobile,South,Quickship Asia,Medium,2023,6,June,2,94,150211.06,31,31,0,0,261
+Speaker,Audio,North,Fastsupply Co,Medium,2023,6,June,2,312,532967.76,15,15,0,0,512
+Keyboard,Accessories,South,Reliablegoods,Medium,2023,6,June,2,18,8771.4,21,21,0,0,712
+Monitor,Computing,East,Globalparts Ltd,Medium,2023,6,June,2,371,590635.71,35,45,10,1,379
+Phone,Mobile,Central,Techcorp India,Low,2023,6,June,2,39,66591.72,30,30,0,0,789
+Printer,Imaging,West,Quickship Asia,Medium,2023,6,June,2,216,110546.64,41,41,0,0,761
+Keyboard,Accessories,North,Techcorp India,Low,2023,6,June,2,330,143114.4,32,32,0,0,750
+Speaker,Audio,North,Quickship Asia,Medium,2023,6,June,2,308,504470.12,12,12,0,0,993
+Printer,Imaging,South,Reliablegoods,Medium,2023,6,June,2,152,10030.48,34,34,0,0,232
+Printer,Imaging,North,Fastsupply Co,Medium,2023,6,June,2,150,14950.5,32,44,12,1,589
+Phone,Mobile,West,Fastsupply Co,Medium,2023,6,June,2,82,54370.1,43,43,0,0,475
+Headphones,Audio,West,Quickship Asia,Medium,2023,6,June,2,410,726282.2,32,32,0,0,329
+Phone,Mobile,West,Reliablegoods,Medium,2023,6,June,2,250,395165.0,29,29,0,0,870
+Mouse,Accessories,North,Fastsupply Co,Medium,2023,6,June,2,167,255753.82,15,24,9,1,592
+Laptop,Computing,East,Techcorp India,Low,2023,6,June,2,482,675730.26,3,3,0,0,701
+Mouse,Accessories,East,Techcorp India,Low,2023,6,June,2,411,90341.91,31,31,0,0,208
+Speaker,Audio,South,Quickship Asia,Medium,2023,6,June,2,251,86233.56,44,44,0,0,561
+Phone,Mobile,West,Quickship Asia,Medium,2023,6,June,2,179,257120.97,39,39,0,0,436
+Monitor,Computing,East,Reliablegoods,Medium,2023,6,June,2,299,354518.32,17,17,0,0,760
+Mouse,Accessories,East,Fastsupply Co,Medium,2023,6,June,2,416,432594.24,3,3,0,0,417
+Printer,Imaging,West,Fastsupply Co,Medium,2023,6,June,2,184,169145.68,44,57,13,1,574
+Mouse,Accessories,South,Quickship Asia,Medium,2023,6,June,2,255,460606.5,40,40,0,0,721
+Phone,Mobile,South,Techcorp India,Low,2023,6,June,2,323,557866.22,41,43,2,1,569
+Speaker,Audio,East,Techcorp India,Low,2023,6,June,2,114,208759.08,29,29,0,0,439
+Mouse,Accessories,East,Techcorp India,Low,2023,7,July,3,42,4945.08,10,10,0,0,65
+Headphones,Audio,South,Fastsupply Co,Medium,2023,7,July,3,159,88949.37,22,22,0,0,89
+Speaker,Audio,West,Fastsupply Co,Medium,2023,7,July,3,245,338761.5,18,19,1,1,526
+Monitor,Computing,West,Techcorp India,Low,2023,7,July,3,71,34297.26,13,13,0,0,641
+Phone,Mobile,West,Reliablegoods,Medium,2023,7,July,3,181,125279.15,32,32,0,0,645
+Tablet,Mobile,East,Quickship Asia,Medium,2023,7,July,3,138,190855.38,39,45,6,1,29
+Tablet,Mobile,East,Fastsupply Co,Medium,2023,7,July,3,33,63081.15,44,44,0,0,684
+Mouse,Accessories,East,Globalparts Ltd,Medium,2023,7,July,3,22,40693.62,25,25,0,0,866
+Laptop,Computing,East,Fastsupply Co,Medium,2023,7,July,3,499,65643.45,31,31,0,0,958
+Mouse,Accessories,West,Quickship Asia,Medium,2023,7,July,3,344,132491.6,22,22,0,0,615
+Tablet,Mobile,Central,Fastsupply Co,Medium,2023,7,July,3,417,603186.33,13,18,5,1,569
+Mouse,Accessories,West,Techcorp India,Low,2023,7,July,3,134,35713.68,34,44,10,1,290
+Camera,Imaging,North,Techcorp India,Low,2023,7,July,3,147,246455.79,18,18,0,0,826
+Keyboard,Accessories,East,Quickship Asia,Medium,2023,7,July,3,23,8754.95,44,44,0,0,666
+Headphones,Audio,Central,Globalparts Ltd,Medium,2023,7,July,3,205,282664.25,24,24,0,0,627
+Keyboard,Accessories,South,Techcorp India,Low,2023,7,July,3,246,397624.56,7,7,0,0,653
+Camera,Imaging,South,Reliablegoods,Medium,2023,7,July,3,167,26190.61,32,34,2,1,511
+Speaker,Audio,South,Fastsupply Co,Medium,2023,7,July,3,141,243323.7,31,45,14,1,216
+Camera,Imaging,West,Fastsupply Co,Medium,2023,7,July,3,483,316500.24,19,19,0,0,597
+Monitor,Computing,West,Fastsupply Co,Medium,2023,7,July,3,402,327207.9,29,29,0,0,377
+Laptop,Computing,South,Quickship Asia,Medium,2023,7,July,3,208,227356.48,40,40,0,0,387
+Camera,Imaging,North,Quickship Asia,Medium,2023,7,July,3,280,294932.4,38,38,0,0,398
+Printer,Imaging,North,Quickship Asia,Medium,2023,7,July,3,407,536910.33,28,28,0,0,716
+Headphones,Audio,South,Reliablegoods,Medium,2023,7,July,3,302,599968.3,21,21,0,0,103
+Mouse,Accessories,East,Techcorp India,Low,2023,7,July,3,297,432880.47,29,29,0,0,221
+Laptop,Computing,Central,Reliablegoods,Medium,2023,7,July,3,344,460994.4,24,24,0,0,674
+Keyboard,Accessories,Central,Reliablegoods,Medium,2023,7,July,3,448,606999.68,14,14,0,0,995
+Phone,Mobile,South,Fastsupply Co,Medium,2023,7,July,3,112,143493.28,21,21,0,0,516
+Camera,Imaging,South,Techcorp India,Low,2023,7,July,3,491,851742.61,20,29,9,1,863
+Printer,Imaging,North,Quickship Asia,Medium,2023,7,July,3,222,17391.48,4,12,8,1,332
+Speaker,Audio,South,Techcorp India,Low,2023,7,July,3,156,201695.52,21,28,7,1,110
+Laptop,Computing,Central,Fastsupply Co,Medium,2023,7,July,3,261,233822.07,10,20,10,1,924
+Camera,Imaging,Central,Fastsupply Co,Medium,2023,7,July,3,186,47297.94,42,42,0,0,515
+Keyboard,Accessories,South,Techcorp India,Low,2023,7,July,3,12,19428.6,29,29,0,0,191
+Headphones,Audio,West,Globalparts Ltd,Medium,2023,7,July,3,101,115895.48,10,15,5,1,613
+Headphones,Audio,West,Reliablegoods,Medium,2023,7,July,3,475,566960.0,32,46,14,1,478
+Laptop,Computing,North,Quickship Asia,Medium,2023,7,July,3,380,332728.0,16,16,0,0,246
+Phone,Mobile,East,Reliablegoods,Medium,2023,7,July,3,113,63965.91,12,26,14,1,670
+Camera,Imaging,East,Reliablegoods,Medium,2023,7,July,3,254,373133.62,18,18,0,0,272
+Camera,Imaging,West,Quickship Asia,Medium,2023,7,July,3,121,30721.9,39,39,0,0,830
+Headphones,Audio,South,Reliablegoods,Medium,2023,7,July,3,182,224462.42,33,33,0,0,335
+Monitor,Computing,Central,Quickship Asia,Medium,2023,7,July,3,36,42988.68,36,36,0,0,465
+Phone,Mobile,Central,Quickship Asia,Medium,2023,7,July,3,341,469089.83,23,23,0,0,762
+Speaker,Audio,East,Techcorp India,Low,2023,7,July,3,376,724040.64,38,38,0,0,105
+Mouse,Accessories,South,Techcorp India,Low,2023,7,July,3,464,125256.8,43,43,0,0,245
+Phone,Mobile,South,Globalparts Ltd,Medium,2023,7,July,3,150,128038.5,17,31,14,1,547
+Speaker,Audio,East,Techcorp India,Low,2023,7,July,3,66,98400.06,23,23,0,0,134
+Mouse,Accessories,Central,Reliablegoods,Medium,2023,7,July,3,214,202095.18,32,35,3,1,898
+Tablet,Mobile,South,Globalparts Ltd,Medium,2023,7,July,3,353,673809.93,28,28,0,0,497
+Laptop,Computing,West,Fastsupply Co,Medium,2023,7,July,3,66,120110.1,33,33,0,0,182
+Camera,Imaging,Central,Fastsupply Co,Medium,2023,7,July,3,199,58659.23,5,6,1,1,276
+Tablet,Mobile,South,Fastsupply Co,Medium,2023,7,July,3,299,431190.89,17,31,14,1,522
+Keyboard,Accessories,North,Reliablegoods,Medium,2023,7,July,3,349,194085.88,28,28,0,0,206
+Printer,Imaging,South,Quickship Asia,Medium,2023,7,July,3,176,21619.84,21,21,0,0,434
+Keyboard,Accessories,West,Fastsupply Co,Medium,2023,7,July,3,248,432395.44,4,6,2,1,293
+Speaker,Audio,North,Fastsupply Co,Medium,2023,7,July,3,87,43805.37,10,10,0,0,307
+Phone,Mobile,East,Quickship Asia,Medium,2023,7,July,3,29,4311.14,21,21,0,0,193
+Camera,Imaging,West,Fastsupply Co,Medium,2023,7,July,3,132,127673.04,42,42,0,0,78
+Camera,Imaging,West,Techcorp India,Low,2023,7,July,3,228,66858.72,29,29,0,0,715
+Phone,Mobile,West,Globalparts Ltd,Medium,2023,7,July,3,499,557602.56,40,40,0,0,832
+Keyboard,Accessories,South,Fastsupply Co,Medium,2023,7,July,3,349,73708.8,36,36,0,0,508
+Tablet,Mobile,South,Techcorp India,Low,2023,7,July,3,395,426615.8,23,23,0,0,82
+Laptop,Computing,West,Techcorp India,Low,2023,7,July,3,37,44316.38,26,26,0,0,221
+Speaker,Audio,East,Techcorp India,Low,2023,7,July,3,462,164023.86,42,48,6,1,843
+Laptop,Computing,South,Quickship Asia,Medium,2023,7,July,3,453,123832.08,19,19,0,0,805
+Speaker,Audio,West,Quickship Asia,Medium,2023,7,July,3,144,117829.44,33,37,4,1,463
+Camera,Imaging,South,Techcorp India,Low,2023,7,July,3,25,46406.25,38,38,0,0,529
+Mouse,Accessories,East,Globalparts Ltd,Medium,2023,7,July,3,98,89130.02,10,10,0,0,880
+Camera,Imaging,East,Reliablegoods,Medium,2023,7,July,3,167,64264.94,15,15,0,0,160
+Laptop,Computing,East,Globalparts Ltd,Medium,2023,7,July,3,364,724137.96,41,50,9,1,580
+Speaker,Audio,South,Techcorp India,Low,2023,7,July,3,292,496560.6,20,20,0,0,422
+Keyboard,Accessories,North,Globalparts Ltd,Medium,2023,7,July,3,112,169041.6,28,28,0,0,842
+Monitor,Computing,West,Reliablegoods,Medium,2023,7,July,3,407,108909.13,41,54,13,1,598
+Phone,Mobile,West,Fastsupply Co,Medium,2023,7,July,3,424,364457.68,44,53,9,1,185
+Laptop,Computing,North,Globalparts Ltd,Medium,2023,7,July,3,37,36491.25,15,15,0,0,849
+Keyboard,Accessories,North,Globalparts Ltd,Medium,2023,7,July,3,176,224176.48,37,37,0,0,825
+Speaker,Audio,North,Quickship Asia,Medium,2023,7,July,3,404,513879.92,11,11,0,0,703
+Monitor,Computing,East,Fastsupply Co,Medium,2023,7,July,3,280,346404.8,21,21,0,0,513
+Speaker,Audio,South,Quickship Asia,Medium,2023,7,July,3,199,148016.2,17,17,0,0,714
+Laptop,Computing,East,Quickship Asia,Medium,2023,7,July,3,255,161098.8,28,28,0,0,750
+Tablet,Mobile,East,Fastsupply Co,Medium,2023,7,July,3,114,223772.88,26,34,8,1,310
+Laptop,Computing,West,Quickship Asia,Medium,2023,7,July,3,142,155311.08,20,31,11,1,243
+Laptop,Computing,Central,Globalparts Ltd,Medium,2023,7,July,3,206,157721.84,40,40,0,0,643
+Monitor,Computing,Central,Fastsupply Co,Medium,2023,7,July,3,484,112254.12,37,37,0,0,647
+Laptop,Computing,North,Fastsupply Co,Medium,2023,7,July,3,391,468852.01,27,27,0,0,591
+Mouse,Accessories,East,Techcorp India,Low,2023,7,July,3,235,383806.7,28,28,0,0,419
+Laptop,Computing,East,Globalparts Ltd,Medium,2023,7,July,3,460,146694.0,44,44,0,0,915
+Tablet,Mobile,North,Globalparts Ltd,Medium,2023,7,July,3,82,86002.42,39,39,0,0,654
+Laptop,Computing,East,Fastsupply Co,Medium,2023,7,July,3,241,326767.08,26,40,14,1,793
+Laptop,Computing,North,Fastsupply Co,Medium,2023,7,July,3,322,196655.06,4,4,0,0,489
+Monitor,Computing,South,Techcorp India,Low,2023,8,August,3,185,295648.5,43,43,0,0,233
+Camera,Imaging,East,Fastsupply Co,Medium,2023,8,August,3,290,54752.0,15,15,0,0,260
+Printer,Imaging,West,Globalparts Ltd,Medium,2023,8,August,3,396,44019.36,16,29,13,1,922
+Camera,Imaging,North,Reliablegoods,Medium,2023,8,August,3,316,92638.56,38,38,0,0,807
+Laptop,Computing,Central,Reliablegoods,Medium,2023,8,August,3,188,22445.32,38,38,0,0,36
+Printer,Imaging,East,Techcorp India,Low,2023,8,August,3,316,479684.84,7,7,0,0,782
+Mouse,Accessories,South,Techcorp India,Low,2023,8,August,3,366,500508.66,38,38,0,0,370
+Printer,Imaging,Central,Globalparts Ltd,Medium,2023,8,August,3,38,66361.68,19,19,0,0,213
+Phone,Mobile,Central,Reliablegoods,Medium,2023,8,August,3,464,29102.08,41,43,2,1,386
+Monitor,Computing,West,Quickship Asia,Medium,2023,8,August,3,86,21636.74,23,23,0,0,49
+Printer,Imaging,West,Reliablegoods,Medium,2023,8,August,3,115,123154.65,4,4,0,0,720
+Camera,Imaging,South,Reliablegoods,Medium,2023,8,August,3,25,33398.0,37,44,7,1,144
+Mouse,Accessories,South,Fastsupply Co,Medium,2023,8,August,3,46,71696.06,24,31,7,1,265
+Headphones,Audio,North,Globalparts Ltd,Medium,2023,8,August,3,468,470981.16,25,25,0,0,8
+Keyboard,Accessories,Central,Quickship Asia,Medium,2023,8,August,3,202,316277.46,7,7,0,0,969
+Phone,Mobile,East,Techcorp India,Low,2023,8,August,3,337,255762.78,27,38,11,1,958
+Headphones,Audio,East,Globalparts Ltd,Medium,2023,8,August,3,437,726359.55,7,7,0,0,782
+Headphones,Audio,West,Techcorp India,Low,2023,8,August,3,40,17762.4,38,38,0,0,759
+Monitor,Computing,South,Reliablegoods,Medium,2023,8,August,3,302,34723.96,18,18,0,0,986
+Keyboard,Accessories,Central,Reliablegoods,Medium,2023,8,August,3,195,276843.45,39,39,0,0,24
+Camera,Imaging,East,Techcorp India,Low,2023,8,August,3,185,334468.9,10,10,0,0,212
+Headphones,Audio,West,Globalparts Ltd,Medium,2023,8,August,3,409,456247.68,20,20,0,0,798
+Phone,Mobile,North,Fastsupply Co,Medium,2023,8,August,3,105,28099.05,26,26,0,0,648
+Phone,Mobile,North,Quickship Asia,Medium,2023,8,August,3,308,459209.52,11,23,12,1,914
+Laptop,Computing,North,Globalparts Ltd,Medium,2023,8,August,3,317,332704.18,36,36,0,0,670
+Laptop,Computing,North,Techcorp India,Low,2023,8,August,3,22,9938.5,18,24,6,1,144
+Tablet,Mobile,South,Fastsupply Co,Medium,2023,8,August,3,391,752057.22,25,39,14,1,505
+Headphones,Audio,South,Quickship Asia,Medium,2023,8,August,3,286,253965.14,30,32,2,1,235
+Monitor,Computing,East,Globalparts Ltd,Medium,2023,8,August,3,433,626810.8,17,17,0,0,552
+Keyboard,Accessories,Central,Quickship Asia,Medium,2023,8,August,3,498,782318.16,27,27,0,0,678
+Mouse,Accessories,East,Techcorp India,Low,2023,8,August,3,239,56181.73,39,39,0,0,323
+Laptop,Computing,East,Quickship Asia,Medium,2023,8,August,3,100,30061.0,7,18,11,1,9
+Tablet,Mobile,North,Quickship Asia,Medium,2023,8,August,3,385,548043.65,11,20,9,1,179
+Phone,Mobile,Central,Fastsupply Co,Medium,2023,8,August,3,343,295786.05,18,18,0,0,565
+Phone,Mobile,South,Reliablegoods,Medium,2023,8,August,3,499,627607.27,28,28,0,0,986
+Headphones,Audio,East,Globalparts Ltd,Medium,2023,8,August,3,29,39214.38,24,24,0,0,293
+Mouse,Accessories,East,Fastsupply Co,Medium,2023,8,August,3,289,229292.6,38,38,0,0,935
+Monitor,Computing,Central,Quickship Asia,Medium,2023,8,August,3,205,94568.55,8,8,0,0,868
+Keyboard,Accessories,West,Reliablegoods,Medium,2023,8,August,3,323,616170.95,15,15,0,0,834
+Camera,Imaging,East,Reliablegoods,Medium,2023,8,August,3,186,211296.0,36,36,0,0,486
+Phone,Mobile,East,Fastsupply Co,Medium,2023,8,August,3,450,220608.0,35,35,0,0,333
+Monitor,Computing,South,Globalparts Ltd,Medium,2023,8,August,3,272,168966.4,15,18,3,1,985
+Laptop,Computing,East,Globalparts Ltd,Medium,2023,8,August,3,170,244284.9,15,15,0,0,842
+Phone,Mobile,West,Globalparts Ltd,Medium,2023,8,August,3,488,829726.88,9,9,0,0,386
+Camera,Imaging,East,Fastsupply Co,Medium,2023,8,August,3,137,231771.12,9,9,0,0,155
+Phone,Mobile,South,Fastsupply Co,Medium,2023,8,August,3,249,429012.06,10,10,0,0,169
+Tablet,Mobile,West,Globalparts Ltd,Medium,2023,8,August,3,55,56293.6,6,6,0,0,370
+Keyboard,Accessories,Central,Globalparts Ltd,Medium,2023,8,August,3,37,45696.11,37,37,0,0,8
+Speaker,Audio,Central,Quickship Asia,Medium,2023,8,August,3,328,27935.76,23,23,0,0,230
+Camera,Imaging,South,Globalparts Ltd,Medium,2023,8,August,3,62,118449.76,29,29,0,0,763
+Camera,Imaging,Central,Fastsupply Co,Medium,2023,8,August,3,147,159409.74,42,42,0,0,260
+Keyboard,Accessories,Central,Fastsupply Co,Medium,2023,8,August,3,209,201990.14,35,35,0,0,698
+Phone,Mobile,East,Globalparts Ltd,Medium,2023,8,August,3,404,672849.88,7,7,0,0,273
+Monitor,Computing,North,Techcorp India,Low,2023,8,August,3,308,436990.4,28,37,9,1,910
+Headphones,Audio,East,Quickship Asia,Medium,2023,8,August,3,461,809575.93,21,21,0,0,846
+Tablet,Mobile,East,Quickship Asia,Medium,2023,8,August,3,46,24474.3,13,13,0,0,915
+Monitor,Computing,Central,Fastsupply Co,Medium,2023,8,August,3,39,9651.33,44,56,12,1,636
+Laptop,Computing,East,Fastsupply Co,Medium,2023,8,August,3,317,90183.33,7,7,0,0,0
+Mouse,Accessories,East,Reliablegoods,Medium,2023,8,August,3,249,424022.1,31,31,0,0,330
+Phone,Mobile,West,Quickship Asia,Medium,2023,8,August,3,91,158344.55,23,23,0,0,797
+Phone,Mobile,South,Globalparts Ltd,Medium,2023,8,August,3,473,735784.61,29,43,14,1,976
+Headphones,Audio,West,Fastsupply Co,Medium,2023,8,August,3,324,475505.64,21,21,0,0,962
+Tablet,Mobile,East,Techcorp India,Low,2023,8,August,3,155,151342.0,20,27,7,1,412
+Keyboard,Accessories,South,Reliablegoods,Medium,2023,8,August,3,482,806275.14,18,23,5,1,503
+Mouse,Accessories,South,Reliablegoods,Medium,2023,9,September,3,321,600266.79,39,48,9,1,32
+Tablet,Mobile,East,Globalparts Ltd,Medium,2023,9,September,3,335,515856.45,23,23,0,0,260
+Speaker,Audio,Central,Fastsupply Co,Medium,2023,9,September,3,56,43324.96,39,51,12,1,520
+Phone,Mobile,Central,Reliablegoods,Medium,2023,9,September,3,459,526876.92,43,43,0,0,341
+Speaker,Audio,South,Globalparts Ltd,Medium,2023,9,September,3,471,466987.08,16,16,0,0,390
+Keyboard,Accessories,South,Reliablegoods,Medium,2023,9,September,3,61,29075.65,38,38,0,0,84
+Tablet,Mobile,North,Techcorp India,Low,2023,9,September,3,290,200436.4,22,22,0,0,86
+Mouse,Accessories,North,Fastsupply Co,Medium,2023,9,September,3,62,109215.48,41,41,0,0,245
+Tablet,Mobile,East,Fastsupply Co,Medium,2023,9,September,3,449,864378.88,29,29,0,0,854
+Monitor,Computing,North,Techcorp India,Low,2023,9,September,3,237,296114.91,25,27,2,1,464
+Tablet,Mobile,West,Reliablegoods,Medium,2023,9,September,3,282,245912.46,15,15,0,0,777
+Printer,Imaging,South,Techcorp India,Low,2023,9,September,3,407,486328.37,16,16,0,0,703
+Headphones,Audio,West,Globalparts Ltd,Medium,2023,9,September,3,136,188164.16,13,13,0,0,435
+Camera,Imaging,East,Techcorp India,Low,2023,9,September,3,440,228188.4,44,44,0,0,37
+Tablet,Mobile,North,Fastsupply Co,Medium,2023,9,September,3,378,426879.18,20,21,1,1,225
+Tablet,Mobile,Central,Globalparts Ltd,Medium,2023,9,September,3,271,521238.69,27,27,0,0,909
+Phone,Mobile,North,Globalparts Ltd,Medium,2023,9,September,3,355,39518.6,33,33,0,0,259
+Phone,Mobile,South,Fastsupply Co,Medium,2023,9,September,3,366,388995.78,37,37,0,0,722
+Tablet,Mobile,South,Techcorp India,Low,2023,9,September,3,372,592283.52,10,10,0,0,287
+Speaker,Audio,East,Techcorp India,Low,2023,9,September,3,337,662841.93,21,21,0,0,844
+Tablet,Mobile,Central,Reliablegoods,Medium,2023,9,September,3,58,92328.46,33,33,0,0,682
+Mouse,Accessories,South,Reliablegoods,Medium,2023,9,September,3,338,324858.56,34,34,0,0,12
+Laptop,Computing,West,Globalparts Ltd,Medium,2023,9,September,3,326,246276.7,19,19,0,0,917
+Keyboard,Accessories,Central,Reliablegoods,Medium,2023,9,September,3,349,496497.87,36,39,3,1,74
+Printer,Imaging,North,Globalparts Ltd,Medium,2023,9,September,3,18,8192.7,22,22,0,0,415
+Laptop,Computing,West,Fastsupply Co,Medium,2023,9,September,3,224,405762.56,3,3,0,0,242
+Camera,Imaging,South,Fastsupply Co,Medium,2023,9,September,3,441,219670.92,17,19,2,1,830
+Phone,Mobile,West,Reliablegoods,Medium,2023,9,September,3,47,16587.24,27,27,0,0,57
+Mouse,Accessories,East,Fastsupply Co,Medium,2023,9,September,3,191,305013.63,26,38,12,1,536
+Tablet,Mobile,West,Techcorp India,Low,2023,9,September,3,196,104189.68,23,23,0,0,409
+Phone,Mobile,West,Globalparts Ltd,Medium,2023,9,September,3,161,224018.62,29,40,11,1,885
+Keyboard,Accessories,South,Quickship Asia,Medium,2023,9,September,3,403,621228.53,20,20,0,0,408
+Mouse,Accessories,North,Reliablegoods,Medium,2023,9,September,3,452,78268.32,16,16,0,0,758
+Laptop,Computing,Central,Techcorp India,Low,2023,9,September,3,307,352018.48,20,23,3,1,90
+Keyboard,Accessories,East,Globalparts Ltd,Medium,2023,9,September,3,462,143409.42,29,29,0,0,199
+Laptop,Computing,North,Fastsupply Co,Medium,2023,9,September,3,259,234384.64,16,16,0,0,454
+Tablet,Mobile,East,Fastsupply Co,Medium,2023,9,September,3,71,140051.05,20,20,0,0,112
+Tablet,Mobile,East,Reliablegoods,Medium,2023,9,September,3,147,38356.71,4,4,0,0,210
+Printer,Imaging,West,Globalparts Ltd,Medium,2023,9,September,3,119,119124.95,35,48,13,1,116
+Headphones,Audio,Central,Techcorp India,Low,2023,9,September,3,191,242768.64,25,36,11,1,11
+Mouse,Accessories,North,Quickship Asia,Medium,2023,9,September,3,201,225335.07,44,57,13,1,956
+Monitor,Computing,North,Fastsupply Co,Medium,2023,9,September,3,32,24074.24,32,37,5,1,328
+Printer,Imaging,West,Techcorp India,Low,2023,9,September,3,355,586538.1,44,44,0,0,502
+Phone,Mobile,Central,Fastsupply Co,Medium,2023,9,September,3,346,243203.4,40,40,0,0,294
+Phone,Mobile,West,Fastsupply Co,Medium,2023,9,September,3,154,257180.0,18,18,0,0,527
+Monitor,Computing,Central,Globalparts Ltd,Medium,2023,9,September,3,257,173462.15,22,27,5,1,643
+Keyboard,Accessories,Central,Reliablegoods,Medium,2023,9,September,3,476,471868.32,5,5,0,0,784
+Printer,Imaging,West,Reliablegoods,Medium,2023,9,September,3,186,281179.92,44,44,0,0,104
+Tablet,Mobile,East,Globalparts Ltd,Medium,2023,9,September,3,28,38330.88,30,30,0,0,388
+Camera,Imaging,Central,Fastsupply Co,Medium,2023,9,September,3,286,504970.18,16,28,12,1,864
+Laptop,Computing,West,Globalparts Ltd,Medium,2023,9,September,3,430,610956.9,9,9,0,0,475
+Laptop,Computing,South,Fastsupply Co,Medium,2023,9,September,3,161,69503.7,18,18,0,0,141
+Camera,Imaging,East,Globalparts Ltd,Medium,2023,9,September,3,113,103483.14,9,9,0,0,78
+Phone,Mobile,North,Techcorp India,Low,2023,9,September,3,273,225973.02,32,44,12,1,35
+Headphones,Audio,West,Fastsupply Co,Medium,2023,9,September,3,88,149089.6,9,21,12,1,591
+Monitor,Computing,East,Quickship Asia,Medium,2023,9,September,3,203,28460.6,40,40,0,0,627
+Headphones,Audio,North,Globalparts Ltd,Medium,2023,9,September,3,217,181283.97,33,33,0,0,777
+Phone,Mobile,Central,Quickship Asia,Medium,2023,9,September,3,289,538849.17,12,12,0,0,188
+Keyboard,Accessories,South,Globalparts Ltd,Medium,2023,9,September,3,177,207990.93,37,38,1,1,701
+Monitor,Computing,South,Quickship Asia,Medium,2023,9,September,3,358,20531.3,42,55,13,1,765
+Keyboard,Accessories,East,Fastsupply Co,Medium,2023,9,September,3,319,568250.65,12,12,0,0,713
+Laptop,Computing,South,Fastsupply Co,Medium,2023,9,September,3,302,358072.34,19,19,0,0,336
+Camera,Imaging,West,Quickship Asia,Medium,2023,9,September,3,212,160030.32,42,42,0,0,686
+Headphones,Audio,Central,Globalparts Ltd,Medium,2023,9,September,3,232,20035.52,30,30,0,0,579
+Speaker,Audio,North,Techcorp India,Low,2023,9,September,3,340,500986.6,35,41,6,1,419
+Monitor,Computing,Central,Fastsupply Co,Medium,2023,9,September,3,306,259582.86,8,13,5,1,487
+Mouse,Accessories,East,Globalparts Ltd,Medium,2023,9,September,3,201,333284.13,4,4,0,0,112
+Printer,Imaging,North,Reliablegoods,Medium,2023,9,September,3,202,248544.84,13,13,0,0,710
+Mouse,Accessories,South,Globalparts Ltd,Medium,2023,9,September,3,479,545729.49,24,24,0,0,609
+Speaker,Audio,West,Globalparts Ltd,Medium,2023,9,September,3,146,83285.7,43,43,0,0,483
+Tablet,Mobile,South,Quickship Asia,Medium,2023,9,September,3,47,74250.13,6,6,0,0,947
+Keyboard,Accessories,East,Quickship Asia,Medium,2023,9,September,3,416,383535.36,33,33,0,0,659
+Printer,Imaging,North,Fastsupply Co,Medium,2023,9,September,3,466,288109.16,8,8,0,0,994
+Printer,Imaging,East,Fastsupply Co,Medium,2023,9,September,3,340,577095.6,32,32,0,0,638
+Camera,Imaging,North,Reliablegoods,Medium,2023,9,September,3,27,5309.28,6,6,0,0,824
+Camera,Imaging,Central,Fastsupply Co,Medium,2023,10,October,4,480,580876.8,19,19,0,0,381
+Keyboard,Accessories,North,Reliablegoods,Medium,2023,10,October,4,175,127261.75,25,25,0,0,638
+Headphones,Audio,West,Globalparts Ltd,Medium,2023,10,October,4,148,40929.4,11,11,0,0,274
+Phone,Mobile,North,Globalparts Ltd,Medium,2023,10,October,4,162,100555.02,40,40,0,0,314
+Camera,Imaging,South,Quickship Asia,Medium,2023,10,October,4,394,284054.3,26,26,0,0,448
+Printer,Imaging,Central,Techcorp India,Low,2023,10,October,4,352,172205.44,24,24,0,0,179
+Printer,Imaging,South,Techcorp India,Low,2023,10,October,4,89,157821.92,29,29,0,0,485
+Keyboard,Accessories,West,Reliablegoods,Medium,2023,10,October,4,82,59339.3,40,40,0,0,582
+Laptop,Computing,Central,Quickship Asia,Medium,2023,10,October,4,343,111807.71,8,9,1,1,312
+Mouse,Accessories,North,Techcorp India,Low,2023,10,October,4,248,186453.84,13,13,0,0,95
+Monitor,Computing,West,Reliablegoods,Medium,2023,10,October,4,285,515228.7,15,15,0,0,994
+Laptop,Computing,East,Reliablegoods,Medium,2023,10,October,4,69,75126.51,12,12,0,0,22
+Monitor,Computing,West,Quickship Asia,Medium,2023,10,October,4,53,69196.27,42,42,0,0,474
+Mouse,Accessories,South,Globalparts Ltd,Medium,2023,10,October,4,348,447855.12,38,40,2,1,167
+Camera,Imaging,South,Reliablegoods,Medium,2023,10,October,4,246,385479.54,42,42,0,0,929
+Headphones,Audio,Central,Quickship Asia,Medium,2023,10,October,4,375,465806.25,4,4,0,0,409
+Tablet,Mobile,South,Globalparts Ltd,Medium,2023,10,October,4,163,311162.11,42,42,0,0,755
+Printer,Imaging,West,Fastsupply Co,Medium,2023,10,October,4,80,62126.4,41,41,0,0,429
+Keyboard,Accessories,North,Globalparts Ltd,Medium,2023,10,October,4,220,409424.4,41,48,7,1,38
+Phone,Mobile,South,Fastsupply Co,Medium,2023,10,October,4,350,399602.0,14,14,0,0,786
+Keyboard,Accessories,North,Globalparts Ltd,Medium,2023,10,October,4,448,473294.08,28,29,1,1,772
+Laptop,Computing,South,Quickship Asia,Medium,2023,10,October,4,177,335652.18,33,33,0,0,950
+Printer,Imaging,Central,Quickship Asia,Medium,2023,10,October,4,275,210262.25,31,31,0,0,508
+Monitor,Computing,South,Globalparts Ltd,Medium,2023,10,October,4,219,437708.73,13,13,0,0,841
+Phone,Mobile,South,Reliablegoods,Medium,2023,10,October,4,234,121331.34,26,27,1,1,15
+Printer,Imaging,West,Globalparts Ltd,Medium,2023,10,October,4,389,514927.08,31,31,0,0,315
+Tablet,Mobile,East,Fastsupply Co,Medium,2023,10,October,4,229,307737.07,38,38,0,0,567
+Keyboard,Accessories,Central,Fastsupply Co,Medium,2023,10,October,4,213,78006.99,8,10,2,1,536
+Speaker,Audio,East,Fastsupply Co,Medium,2023,10,October,4,112,99524.32,16,19,3,1,240
+Headphones,Audio,East,Quickship Asia,Medium,2023,10,October,4,38,22988.48,4,13,9,1,717
+Laptop,Computing,North,Techcorp India,Low,2023,10,October,4,88,93710.32,24,24,0,0,991
+Mouse,Accessories,Central,Reliablegoods,Medium,2023,10,October,4,200,24242.0,36,50,14,1,247
+Printer,Imaging,West,Techcorp India,Low,2023,10,October,4,390,521722.5,40,40,0,0,113
+Laptop,Computing,East,Techcorp India,Low,2023,10,October,4,64,85292.16,6,6,0,0,653
+Monitor,Computing,West,Globalparts Ltd,Medium,2023,10,October,4,124,205813.96,10,11,1,1,517
+Printer,Imaging,Central,Reliablegoods,Medium,2023,10,October,4,401,466535.43,40,40,0,0,982
+Phone,Mobile,South,Techcorp India,Low,2023,10,October,4,220,236979.6,42,42,0,0,764
+Headphones,Audio,North,Reliablegoods,Medium,2023,10,October,4,411,626417.43,23,23,0,0,607
+Mouse,Accessories,East,Globalparts Ltd,Medium,2023,10,October,4,96,61220.16,16,21,5,1,781
+Phone,Mobile,West,Reliablegoods,Medium,2023,10,October,4,161,12155.5,32,32,0,0,306
+Laptop,Computing,Central,Techcorp India,Low,2023,10,October,4,32,21985.28,6,6,0,0,659
+Speaker,Audio,Central,Techcorp India,Low,2023,10,October,4,170,46005.4,33,40,7,1,874
+Monitor,Computing,North,Techcorp India,Low,2023,10,October,4,413,773065.79,18,18,0,0,7
+Phone,Mobile,East,Globalparts Ltd,Medium,2023,10,October,4,473,536036.71,26,26,0,0,735
+Camera,Imaging,East,Techcorp India,Low,2023,10,October,4,372,562039.92,7,7,0,0,141
+Mouse,Accessories,North,Reliablegoods,Medium,2023,10,October,4,251,195368.36,4,4,0,0,232
+Printer,Imaging,East,Fastsupply Co,Medium,2023,10,October,4,86,149599.58,24,30,6,1,844
+Camera,Imaging,South,Techcorp India,Low,2023,10,October,4,466,411776.24,7,14,7,1,939
+Monitor,Computing,West,Quickship Asia,Medium,2023,10,October,4,230,271464.4,20,20,0,0,774
+Mouse,Accessories,South,Techcorp India,Low,2023,10,October,4,489,490956.0,19,19,0,0,330
+Printer,Imaging,West,Fastsupply Co,Medium,2023,10,October,4,351,682800.3,17,17,0,0,399
+Mouse,Accessories,South,Fastsupply Co,Medium,2023,10,October,4,339,140420.58,33,33,0,0,329
+Monitor,Computing,East,Quickship Asia,Medium,2023,10,October,4,452,519592.08,6,6,0,0,112
+Phone,Mobile,West,Quickship Asia,Medium,2023,10,October,4,295,304457.7,15,15,0,0,70
+Speaker,Audio,South,Globalparts Ltd,Medium,2023,10,October,4,101,100178.87,33,33,0,0,517
+Printer,Imaging,North,Techcorp India,Low,2023,10,October,4,197,47518.37,20,26,6,1,857
+Monitor,Computing,North,Quickship Asia,Medium,2023,10,October,4,299,300542.84,37,37,0,0,783
+Speaker,Audio,South,Techcorp India,Low,2023,10,October,4,122,14914.5,24,24,0,0,556
+Laptop,Computing,Central,Globalparts Ltd,Medium,2023,10,October,4,296,457343.68,29,29,0,0,926
+Printer,Imaging,West,Quickship Asia,Medium,2023,10,October,4,67,60935.83,16,16,0,0,150
+Tablet,Mobile,Central,Globalparts Ltd,Medium,2023,10,October,4,299,544284.65,16,16,0,0,731
+Printer,Imaging,South,Reliablegoods,Medium,2023,10,October,4,365,188288.9,26,26,0,0,180
+Phone,Mobile,East,Techcorp India,Low,2023,10,October,4,101,92819.0,18,18,0,0,714
+Tablet,Mobile,East,Quickship Asia,Medium,2023,10,October,4,65,31619.25,29,35,6,1,714
+Camera,Imaging,West,Reliablegoods,Medium,2023,10,October,4,262,134738.74,40,40,0,0,303
+Tablet,Mobile,West,Techcorp India,Low,2023,10,October,4,401,590496.56,7,21,14,1,449
+Headphones,Audio,Central,Globalparts Ltd,Medium,2023,10,October,4,400,178664.0,24,24,0,0,544
+Printer,Imaging,East,Globalparts Ltd,Medium,2023,10,October,4,375,348330.0,21,21,0,0,529
+Mouse,Accessories,South,Globalparts Ltd,Medium,2023,10,October,4,335,47084.25,7,7,0,0,197
+Keyboard,Accessories,East,Globalparts Ltd,Medium,2023,10,October,4,100,49993.0,13,19,6,1,216
+Headphones,Audio,Central,Globalparts Ltd,Medium,2023,10,October,4,34,63621.14,35,47,12,1,351
+Laptop,Computing,East,Techcorp India,Low,2023,10,October,4,63,96672.87,26,26,0,0,25
+Keyboard,Accessories,East,Techcorp India,Low,2023,10,October,4,136,19679.2,12,21,9,1,8
+Tablet,Mobile,West,Quickship Asia,Medium,2023,10,October,4,212,271304.88,27,27,0,0,982
+Camera,Imaging,West,Fastsupply Co,Medium,2023,10,October,4,125,178796.25,23,23,0,0,280
+Tablet,Mobile,Central,Techcorp India,Low,2023,10,October,4,399,670699.05,30,30,0,0,190
+Phone,Mobile,Central,Globalparts Ltd,Medium,2023,10,October,4,125,223302.5,32,41,9,1,333
+Tablet,Mobile,North,Globalparts Ltd,Medium,2023,10,October,4,54,40341.78,12,12,0,0,885
+Headphones,Audio,South,Techcorp India,Low,2023,10,October,4,443,719458.58,16,20,4,1,593
+Camera,Imaging,Central,Reliablegoods,Medium,2023,10,October,4,295,33343.85,17,17,0,0,155
+Speaker,Audio,South,Fastsupply Co,Medium,2023,10,October,4,52,45095.44,34,34,0,0,651
+Speaker,Audio,Central,Fastsupply Co,Medium,2023,10,October,4,374,745935.52,22,22,0,0,870
+Monitor,Computing,Central,Fastsupply Co,Medium,2023,10,October,4,279,114443.01,29,29,0,0,987
+Laptop,Computing,North,Techcorp India,Low,2023,10,October,4,337,492370.48,16,21,5,1,142
+Monitor,Computing,West,Quickship Asia,Medium,2023,10,October,4,207,305182.17,26,39,13,1,202
+Laptop,Computing,West,Techcorp India,Low,2023,10,October,4,55,72228.75,19,19,0,0,75
+Speaker,Audio,South,Techcorp India,Low,2023,10,October,4,358,464651.78,10,21,11,1,307
+Monitor,Computing,West,Techcorp India,Low,2023,11,November,4,387,737320.14,14,14,0,0,901
+Keyboard,Accessories,North,Reliablegoods,Medium,2023,11,November,4,17,9513.03,14,23,9,1,215
+Phone,Mobile,West,Fastsupply Co,Medium,2023,11,November,4,196,75708.92,15,15,0,0,616
+Headphones,Audio,North,Reliablegoods,Medium,2023,11,November,4,395,724473.45,10,16,6,1,483
+Laptop,Computing,South,Reliablegoods,Medium,2023,11,November,4,17,21318.85,23,23,0,0,23
+Printer,Imaging,West,Quickship Asia,Medium,2023,11,November,4,383,732870.5,5,6,1,1,510
+Headphones,Audio,South,Quickship Asia,Medium,2023,11,November,4,21,29667.33,34,34,0,0,835
+Mouse,Accessories,East,Quickship Asia,Medium,2023,11,November,4,65,121257.5,32,32,0,0,689
+Tablet,Mobile,East,Fastsupply Co,Medium,2023,11,November,4,300,591018.0,30,30,0,0,102
+Tablet,Mobile,East,Reliablegoods,Medium,2023,11,November,4,102,91067.64,12,12,0,0,964
+Phone,Mobile,East,Fastsupply Co,Medium,2023,11,November,4,443,506056.62,31,38,7,1,161
+Keyboard,Accessories,West,Fastsupply Co,Medium,2023,11,November,4,35,47144.3,40,44,4,1,108
+Monitor,Computing,North,Techcorp India,Low,2023,11,November,4,489,517846.11,6,6,0,0,804
+Tablet,Mobile,West,Techcorp India,Low,2023,11,November,4,223,55397.66,29,29,0,0,518
+Monitor,Computing,East,Techcorp India,Low,2023,11,November,4,354,42986.22,40,40,0,0,939
+Speaker,Audio,West,Fastsupply Co,Medium,2023,11,November,4,330,149186.4,38,38,0,0,724
+Mouse,Accessories,South,Quickship Asia,Medium,2023,11,November,4,395,425845.55,11,25,14,1,215
+Monitor,Computing,South,Quickship Asia,Medium,2023,11,November,4,388,196595.72,29,29,0,0,116
+Camera,Imaging,East,Techcorp India,Low,2023,11,November,4,498,919691.46,40,40,0,0,146
+Monitor,Computing,West,Globalparts Ltd,Medium,2023,11,November,4,138,114432.36,38,38,0,0,885
+Monitor,Computing,North,Globalparts Ltd,Medium,2023,11,November,4,162,42241.5,14,14,0,0,824
+Phone,Mobile,West,Techcorp India,Low,2023,11,November,4,322,638838.34,36,36,0,0,362
+Tablet,Mobile,East,Reliablegoods,Medium,2023,11,November,4,349,692482.31,22,22,0,0,341
+Laptop,Computing,Central,Quickship Asia,Medium,2023,11,November,4,161,236323.85,23,23,0,0,758
+Headphones,Audio,Central,Quickship Asia,Medium,2023,11,November,4,174,133156.98,30,30,0,0,88
+Monitor,Computing,East,Techcorp India,Low,2023,11,November,4,457,283413.12,6,20,14,1,452
+Speaker,Audio,North,Globalparts Ltd,Medium,2023,11,November,4,427,87283.07,24,24,0,0,364
+Keyboard,Accessories,South,Reliablegoods,Medium,2023,11,November,4,392,23763.04,29,29,0,0,567
+Phone,Mobile,Central,Globalparts Ltd,Medium,2023,11,November,4,363,470273.76,13,13,0,0,22
+Keyboard,Accessories,West,Fastsupply Co,Medium,2023,11,November,4,417,347986.5,37,37,0,0,781
+Mouse,Accessories,South,Quickship Asia,Medium,2023,11,November,4,125,108642.5,42,42,0,0,115
+Mouse,Accessories,North,Techcorp India,Low,2023,11,November,4,179,194189.94,18,18,0,0,229
+Keyboard,Accessories,Central,Reliablegoods,Medium,2023,11,November,4,341,574192.85,20,20,0,0,539
+Speaker,Audio,East,Fastsupply Co,Medium,2023,11,November,4,431,370987.56,18,18,0,0,285
+Laptop,Computing,West,Globalparts Ltd,Medium,2023,11,November,4,354,224106.78,13,13,0,0,94
+Camera,Imaging,Central,Globalparts Ltd,Medium,2023,11,November,4,332,74553.92,14,28,14,1,703
+Laptop,Computing,North,Reliablegoods,Medium,2023,11,November,4,165,283864.35,19,19,0,0,836
+Monitor,Computing,South,Globalparts Ltd,Medium,2023,11,November,4,357,628262.88,26,26,0,0,362
+Keyboard,Accessories,North,Reliablegoods,Medium,2023,11,November,4,74,97611.18,10,10,0,0,211
+Speaker,Audio,East,Techcorp India,Low,2023,11,November,4,184,287389.6,25,25,0,0,57
+Mouse,Accessories,Central,Techcorp India,Low,2023,11,November,4,204,18174.36,9,21,12,1,530
+Printer,Imaging,South,Globalparts Ltd,Medium,2023,11,November,4,120,90888.0,34,34,0,0,645
+Mouse,Accessories,West,Techcorp India,Low,2023,11,November,4,28,13182.96,43,43,0,0,612
+Monitor,Computing,North,Quickship Asia,Medium,2023,11,November,4,220,161546.0,9,9,0,0,505
+Monitor,Computing,North,Techcorp India,Low,2023,11,November,4,375,554347.5,21,21,0,0,962
+Headphones,Audio,South,Fastsupply Co,Medium,2023,11,November,4,185,331751.25,44,44,0,0,938
+Phone,Mobile,South,Quickship Asia,Medium,2023,11,November,4,176,64956.32,26,26,0,0,111
+Keyboard,Accessories,South,Techcorp India,Low,2023,11,November,4,365,83975.55,31,31,0,0,782
+Phone,Mobile,Central,Globalparts Ltd,Medium,2023,11,November,4,65,84663.8,38,38,0,0,827
+Speaker,Audio,South,Fastsupply Co,Medium,2023,11,November,4,92,57637.08,24,24,0,0,470
+Headphones,Audio,South,Fastsupply Co,Medium,2023,11,November,4,217,91033.67,9,9,0,0,242
+Laptop,Computing,East,Globalparts Ltd,Medium,2023,11,November,4,55,102149.85,35,35,0,0,303
+Keyboard,Accessories,South,Fastsupply Co,Medium,2023,11,November,4,219,22309.53,21,21,0,0,727
+Printer,Imaging,West,Techcorp India,Low,2023,11,November,4,232,165877.68,31,31,0,0,756
+Camera,Imaging,Central,Fastsupply Co,Medium,2023,11,November,4,203,151427.85,14,14,0,0,17
+Monitor,Computing,South,Reliablegoods,Medium,2023,11,November,4,157,10380.84,17,28,11,1,902
+Headphones,Audio,West,Reliablegoods,Medium,2023,11,November,4,134,264659.38,43,43,0,0,725
+Camera,Imaging,North,Quickship Asia,Medium,2023,11,November,4,94,67392.36,41,41,0,0,31
+Speaker,Audio,East,Reliablegoods,Medium,2023,11,November,4,352,127642.24,19,20,1,1,771
+Camera,Imaging,East,Quickship Asia,Medium,2023,11,November,4,302,245930.68,24,24,0,0,864
+Headphones,Audio,North,Fastsupply Co,Medium,2023,11,November,4,139,15184.36,41,44,3,1,284
+Headphones,Audio,West,Fastsupply Co,Medium,2023,11,November,4,57,52557.99,6,6,0,0,21
+Keyboard,Accessories,East,Quickship Asia,Medium,2023,11,November,4,140,38010.0,17,28,11,1,696
+Tablet,Mobile,West,Globalparts Ltd,Medium,2023,11,November,4,98,156998.94,10,22,12,1,115
+Tablet,Mobile,South,Globalparts Ltd,Medium,2023,11,November,4,71,10355.35,21,21,0,0,957
+Laptop,Computing,Central,Fastsupply Co,Medium,2023,11,November,4,388,29790.64,5,17,12,1,646
+Keyboard,Accessories,West,Techcorp India,Low,2023,11,November,4,32,3044.48,37,51,14,1,517
+Speaker,Audio,Central,Quickship Asia,Medium,2023,11,November,4,366,531055.02,10,10,0,0,507
+Printer,Imaging,North,Reliablegoods,Medium,2023,11,November,4,299,490342.06,21,21,0,0,576
+Keyboard,Accessories,West,Fastsupply Co,Medium,2023,11,November,4,329,159854.52,23,23,0,0,800
+Laptop,Computing,North,Fastsupply Co,Medium,2023,11,November,4,296,27347.44,31,41,10,1,792
+Phone,Mobile,Central,Reliablegoods,Medium,2023,11,November,4,65,117011.7,28,28,0,0,141
+Mouse,Accessories,South,Globalparts Ltd,Medium,2023,11,November,4,282,114824.76,21,24,3,1,915
+Keyboard,Accessories,Central,Fastsupply Co,Medium,2023,11,November,4,298,112646.98,19,32,13,1,993
+Keyboard,Accessories,North,Globalparts Ltd,Medium,2023,11,November,4,401,678315.56,3,8,5,1,989
+Mouse,Accessories,North,Quickship Asia,Medium,2023,11,November,4,359,654805.23,22,22,0,0,628
+Camera,Imaging,North,Fastsupply Co,Medium,2023,11,November,4,222,331576.98,22,22,0,0,148
+Tablet,Mobile,East,Fastsupply Co,Medium,2023,11,November,4,164,116497.4,19,19,0,0,285
+Camera,Imaging,East,Techcorp India,Low,2023,11,November,4,322,584884.02,42,42,0,0,737
+Speaker,Audio,South,Techcorp India,Low,2023,11,November,4,237,154969.56,43,43,0,0,737
+Monitor,Computing,North,Globalparts Ltd,Medium,2023,11,November,4,266,137146.94,34,34,0,0,913
+Camera,Imaging,North,Reliablegoods,Medium,2023,11,November,4,240,457425.6,33,33,0,0,812
+Camera,Imaging,South,Techcorp India,Low,2023,11,November,4,182,162700.72,24,24,0,0,322
+Keyboard,Accessories,South,Reliablegoods,Medium,2023,11,November,4,102,42210.66,8,8,0,0,894
+Printer,Imaging,East,Quickship Asia,Medium,2023,11,November,4,239,71004.51,9,9,0,0,770
+Headphones,Audio,North,Fastsupply Co,Medium,2023,11,November,4,280,51769.2,27,27,0,0,197
+Phone,Mobile,East,Globalparts Ltd,Medium,2023,11,November,4,75,26121.0,17,17,0,0,777
+Camera,Imaging,North,Fastsupply Co,Medium,2023,11,November,4,144,170588.16,26,26,0,0,853
+Keyboard,Accessories,North,Quickship Asia,Medium,2023,11,November,4,17,12310.89,29,29,0,0,330
+Keyboard,Accessories,North,Techcorp India,Low,2023,11,November,4,238,271715.08,32,32,0,0,653
+Keyboard,Accessories,West,Techcorp India,Low,2023,11,November,4,172,199537.2,29,29,0,0,953
+Speaker,Audio,North,Techcorp India,Low,2023,11,November,4,319,335166.92,42,51,9,1,388
+Laptop,Computing,North,Techcorp India,Low,2023,11,November,4,362,418435.8,15,17,2,1,54
+Phone,Mobile,South,Reliablegoods,Medium,2023,11,November,4,44,74649.52,9,9,0,0,144
+Mouse,Accessories,East,Globalparts Ltd,Medium,2023,11,November,4,130,220846.6,9,14,5,1,498
+Headphones,Audio,South,Quickship Asia,Medium,2023,12,December,4,398,175764.76,28,28,0,0,694
+Printer,Imaging,North,Quickship Asia,Medium,2023,12,December,4,357,436521.75,44,44,0,0,716
+Tablet,Mobile,South,Reliablegoods,Medium,2023,12,December,4,331,308349.67,40,40,0,0,779
+Printer,Imaging,West,Reliablegoods,Medium,2023,12,December,4,348,358627.92,6,6,0,0,927
+Keyboard,Accessories,Central,Globalparts Ltd,Medium,2023,12,December,4,332,631520.44,8,21,13,1,202
+Headphones,Audio,West,Techcorp India,Low,2023,12,December,4,416,735371.52,13,13,0,0,859
+Mouse,Accessories,East,Quickship Asia,Medium,2023,12,December,4,213,90329.04,23,23,0,0,769
+Monitor,Computing,South,Reliablegoods,Medium,2023,12,December,4,363,197965.68,22,22,0,0,271
+Mouse,Accessories,East,Techcorp India,Low,2023,12,December,4,145,37198.3,32,32,0,0,909
+Printer,Imaging,North,Globalparts Ltd,Medium,2023,12,December,4,293,462351.07,27,27,0,0,748
+Tablet,Mobile,North,Fastsupply Co,Medium,2023,12,December,4,412,187583.6,28,28,0,0,505
+Headphones,Audio,South,Quickship Asia,Medium,2023,12,December,4,236,385430.48,28,38,10,1,266
+Speaker,Audio,South,Reliablegoods,Medium,2023,12,December,4,362,601491.96,11,12,1,1,5
+Keyboard,Accessories,Central,Globalparts Ltd,Medium,2023,12,December,4,43,68876.54,26,32,6,1,578
+Keyboard,Accessories,North,Quickship Asia,Medium,2023,12,December,4,278,473278.32,5,5,0,0,527
+Printer,Imaging,North,Globalparts Ltd,Medium,2023,12,December,4,474,520897.56,7,7,0,0,939
+Mouse,Accessories,South,Quickship Asia,Medium,2023,12,December,4,280,121525.6,34,38,4,1,326
+Headphones,Audio,South,Globalparts Ltd,Medium,2023,12,December,4,346,598960.6,40,40,0,0,982
+Monitor,Computing,North,Reliablegoods,Medium,2023,12,December,4,472,550696.56,25,25,0,0,534
+Speaker,Audio,West,Globalparts Ltd,Medium,2023,12,December,4,258,291916.68,6,19,13,1,664
+Speaker,Audio,West,Quickship Asia,Medium,2023,12,December,4,428,241323.52,25,25,0,0,800
+Speaker,Audio,West,Techcorp India,Low,2023,12,December,4,79,33533.13,41,47,6,1,585
+Monitor,Computing,South,Techcorp India,Low,2023,12,December,4,186,230033.64,9,9,0,0,625
+Keyboard,Accessories,North,Globalparts Ltd,Medium,2023,12,December,4,82,27848.02,35,35,0,0,334
+Printer,Imaging,Central,Techcorp India,Low,2023,12,December,4,298,414887.52,38,41,3,1,761
+Camera,Imaging,East,Quickship Asia,Medium,2023,12,December,4,377,375495.77,28,28,0,0,682
+Monitor,Computing,North,Reliablegoods,Medium,2023,12,December,4,219,325536.93,12,12,0,0,920
+Printer,Imaging,East,Globalparts Ltd,Medium,2023,12,December,4,396,265506.12,15,15,0,0,975
+Phone,Mobile,West,Fastsupply Co,Medium,2023,12,December,4,131,259697.02,12,12,0,0,244
+Monitor,Computing,Central,Quickship Asia,Medium,2023,12,December,4,403,691161.12,15,15,0,0,736
+Laptop,Computing,North,Quickship Asia,Medium,2023,12,December,4,305,271980.7,33,46,13,1,498
+Keyboard,Accessories,East,Reliablegoods,Medium,2023,12,December,4,228,250624.44,13,13,0,0,631
+Monitor,Computing,East,Reliablegoods,Medium,2023,12,December,4,367,216041.89,10,24,14,1,809
+Tablet,Mobile,East,Reliablegoods,Medium,2023,12,December,4,121,134855.71,16,16,0,0,896
+Monitor,Computing,North,Fastsupply Co,Medium,2023,12,December,4,114,175219.14,41,43,2,1,350
+Tablet,Mobile,West,Fastsupply Co,Medium,2023,12,December,4,148,191073.92,30,30,0,0,759
+Monitor,Computing,North,Reliablegoods,Medium,2023,12,December,4,105,85105.65,10,21,11,1,924
+Headphones,Audio,South,Fastsupply Co,Medium,2023,12,December,4,70,78659.0,9,9,0,0,617
+Keyboard,Accessories,Central,Techcorp India,Low,2023,12,December,4,386,344732.74,16,20,4,1,331
+Keyboard,Accessories,West,Quickship Asia,Medium,2023,12,December,4,161,230540.73,35,35,0,0,448
+Phone,Mobile,North,Techcorp India,Low,2023,12,December,4,212,302174.2,44,44,0,0,394
+Monitor,Computing,North,Techcorp India,Low,2023,12,December,4,464,470315.04,20,20,0,0,574
+Printer,Imaging,East,Reliablegoods,Medium,2023,12,December,4,213,314522.19,30,30,0,0,76
+Monitor,Computing,North,Quickship Asia,Medium,2023,12,December,4,412,358732.52,32,32,0,0,463
+Keyboard,Accessories,South,Quickship Asia,Medium,2023,12,December,4,253,338319.19,31,31,0,0,609
+Phone,Mobile,Central,Fastsupply Co,Medium,2023,12,December,4,71,110223.24,15,15,0,0,13
+Speaker,Audio,North,Reliablegoods,Medium,2023,12,December,4,225,306969.75,20,20,0,0,109
+Speaker,Audio,West,Fastsupply Co,Medium,2023,12,December,4,354,648743.94,28,41,13,1,597
+Laptop,Computing,Central,Globalparts Ltd,Medium,2023,12,December,4,238,44558.36,5,5,0,0,526
+Monitor,Computing,West,Fastsupply Co,Medium,2023,12,December,4,338,314431.26,43,43,0,0,884
+Headphones,Audio,East,Globalparts Ltd,Medium,2023,12,December,4,157,103601.16,34,34,0,0,177
+Speaker,Audio,South,Techcorp India,Low,2023,12,December,4,215,413468.65,19,19,0,0,191
+Headphones,Audio,South,Quickship Asia,Medium,2023,12,December,4,285,489744.0,9,11,2,1,96
+Mouse,Accessories,East,Reliablegoods,Medium,2023,12,December,4,114,218190.3,3,3,0,0,296
+Headphones,Audio,Central,Fastsupply Co,Medium,2023,12,December,4,372,466037.88,24,24,0,0,245
+Printer,Imaging,North,Quickship Asia,Medium,2023,12,December,4,208,269052.16,32,32,0,0,227
+Phone,Mobile,South,Techcorp India,Low,2023,12,December,4,91,147000.49,29,29,0,0,785
+Laptop,Computing,Central,Globalparts Ltd,Medium,2023,12,December,4,24,26609.04,31,31,0,0,57
+Headphones,Audio,East,Quickship Asia,Medium,2023,12,December,4,16,11466.24,44,44,0,0,143
+Speaker,Audio,West,Fastsupply Co,Medium,2023,12,December,4,133,69947.36,34,34,0,0,257
+Mouse,Accessories,South,Fastsupply Co,Medium,2023,12,December,4,332,482196.8,8,8,0,0,958
+Printer,Imaging,North,Reliablegoods,Medium,2023,12,December,4,330,102573.9,34,42,8,1,136
+Keyboard,Accessories,North,Techcorp India,Low,2023,12,December,4,132,56807.52,26,26,0,0,967
+Headphones,Audio,North,Globalparts Ltd,Medium,2023,12,December,4,15,8091.45,3,3,0,0,724
+Headphones,Audio,North,Globalparts Ltd,Medium,2023,12,December,4,363,259305.42,25,25,0,0,816
+Speaker,Audio,West,Reliablegoods,Medium,2023,12,December,4,97,191983.37,40,40,0,0,258
+Speaker,Audio,Central,Fastsupply Co,Medium,2023,12,December,4,444,162113.28,41,48,7,1,944
+Laptop,Computing,North,Globalparts Ltd,Medium,2023,12,December,4,165,65084.25,21,21,0,0,635
+Speaker,Audio,North,Fastsupply Co,Medium,2023,12,December,4,93,76221.87,38,38,0,0,185
+Speaker,Audio,South,Fastsupply Co,Medium,2023,12,December,4,156,32351.28,13,13,0,0,482
+Monitor,Computing,West,Reliablegoods,Medium,2023,12,December,4,340,253439.4,4,4,0,0,388
+Keyboard,Accessories,South,Fastsupply Co,Medium,2023,12,December,4,245,384419.7,14,14,0,0,931
+Laptop,Computing,East,Quickship Asia,Medium,2023,12,December,4,234,420998.76,40,40,0,0,177
+Phone,Mobile,West,Fastsupply Co,Medium,2023,12,December,4,271,356001.86,39,39,0,0,986
+Printer,Imaging,South,Fastsupply Co,Medium,2023,12,December,4,430,176562.3,25,25,0,0,148
+Monitor,Computing,North,Globalparts Ltd,Medium,2023,12,December,4,453,254993.7,29,42,13,1,262
+Phone,Mobile,North,Reliablegoods,Medium,2023,12,December,4,243,71417.7,34,34,0,0,8
+Mouse,Accessories,Central,Quickship Asia,Medium,2023,12,December,4,375,228483.75,11,17,6,1,676
+Mouse,Accessories,South,Quickship Asia,Medium,2023,12,December,4,20,39637.8,4,4,0,0,4
+Tablet,Mobile,West,Reliablegoods,Medium,2023,12,December,4,11,16599.66,20,21,1,1,348
+Printer,Imaging,West,Quickship Asia,Medium,2023,12,December,4,404,479148.04,36,36,0,0,119
+Laptop,Computing,North,Reliablegoods,Medium,2023,12,December,4,128,191810.56,14,17,3,1,802
