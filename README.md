@@ -40,15 +40,15 @@ The platform answers critical business questions:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                        DATA SOURCES                                  │
+│                        DATA SOURCES                                 │
 │   ERP Orders  │  Inventory Data  │  Supplier Info  │  Region Data   │
 └──────────────────────────┬──────────────────────────────────────────┘
                            │
                            ▼
 ┌─────────────────────────────────────────────────────────────────────┐
-│                   DATA ENGINEERING LAYER                             │
-│                                                                       │
-│   ingestion.py          transformation.py                            │
+│                   DATA ENGINEERING LAYER                            │
+│                                                                     │
+│   ingestion.py          transformation.py                           │
 │   ┌─────────────┐       ┌──────────────────────────────────────┐    │
 │   │ Generate    │──────▶│ Clean → Star Schema → SQLite         │    │
 │   │ 2000 orders │       │ fact_orders + 4 dimension tables     │    │
@@ -57,9 +57,9 @@ The platform answers critical business questions:
                            │
                            ▼
 ┌─────────────────────────────────────────────────────────────────────┐
-│                     ANALYTICS LAYER                                   │
-│                                                                       │
-│  forecasting.py                    kpi.py                            │
+│                     ANALYTICS LAYER                                 │
+│                                                                     │
+│  forecasting.py                    kpi.py                           │
 │  ┌─────────────────────┐          ┌──────────────────────────┐      │
 │  │ Demand Forecast     │          │ Inventory KPIs           │      │
 │  │ Supplier Risk Score │          │ Cost Variance Analysis   │      │
@@ -69,13 +69,13 @@ The platform answers critical business questions:
                            │
                            ▼
 ┌─────────────────────────────────────────────────────────────────────┐
-│                  BUSINESS INTELLIGENCE LAYER                          │
-│                                                                       │
-│   Power BI Dashboard                                                  │
-│   ┌──────────┐ ┌──────────┐ ┌───────────────┐ ┌─────────────────┐  │
-│   │ 4 KPI    │ │ Revenue  │ │ Supplier Risk │ │ Stock Alert     │  │
-│   │ Cards    │ │ Trends   │ │ Scorecard     │ │ Table           │  │
-│   └──────────┘ └──────────┘ └───────────────┘ └─────────────────┘  │
+│                  BUSINESS INTELLIGENCE LAYER                        │
+│                                                                     │
+│   Power BI Dashboard                                                │
+│   ┌──────────┐ ┌──────────┐ ┌───────────────┐ ┌─────────────────┐   │
+│   │ 4 KPI    │ │ Revenue  │ │ Supplier Risk │ │ Stock Alert     │   │
+│   │ Cards    │ │ Trends   │ │ Scorecard     │ │ Table           │   │
+│   └──────────┘ └──────────┘ └───────────────┘ └─────────────────┘   │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -477,11 +477,5 @@ This project was built as part of a portfolio demonstrating end-to-end data skil
 | **Supply Chain Forecasting Platform** | **ETL, forecasting, BI dashboard** | **Operations** |
 
 ---
-
-<div align="center">
-
-**Built with Python · SQL · Power BI**
-
-*If this project helped you, please give it a ⭐ on GitHub*
-
-</div>
+## Author
+ Jidnyasa Thakre
