@@ -50,7 +50,7 @@ The platform answers critical business questions:
 │                                                                     │
 │   ingestion.py          transformation.py                           │
 │   ┌─────────────┐       ┌──────────────────────────────────────┐    │
-│   │ Generate    │──────▶│ Clean → Star Schema → SQLite         │    │
+│   │ Generate    │──────▶│ Clean → Star Schema → SQLite         |    |
 │   │ 2000 orders │       │ fact_orders + 4 dimension tables     │    │
 │   └─────────────┘       └──────────────────────────────────────┘    │
 └──────────────────────────┬──────────────────────────────────────────┘
@@ -478,4 +478,4 @@ This project was built as part of a portfolio demonstrating end-to-end data skil
 
 ---
 ## Author
- Jidnyasa Thakre
+ **Jidnyasa Thakre**
